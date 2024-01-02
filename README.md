@@ -89,3 +89,7 @@ This can be controlled via the `PERCENTILE` parameter, which is incharge of prun
 To avoid this error and enlarge the connectivity, you need to set a smaller `PERCENTILE` value than the default (0.996).
 
 Rerun the `./run_all.sh` command as described in [#Quickstart](#quickstart), and add the `--percentile <new value>` parameter.
+
+## Reproduce Results From Paper
+
+First, you will need to download the datasets used in the paper.
