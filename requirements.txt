@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+sentence_transformers
+numpy
+faiss-cpu
+networkx
+pandas
+scipy
+tqdm
+python-louvain
+spacy
+streamlit
