@@ -73,7 +73,25 @@ Each line in this csv represents a section in a document from the dataset, along
 
 ## Visualize Results
 
-## Generate Data for Evaluation
+You can view the results of each document and its extracted structure with the following command:
+
+```
+streamlit run utils/visualize_predictions.py <output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv
+```
+
+This command will initialize a local streamlit server with a visualization of the conceptual table of contents and its mapping to each document spans.
+
+You can scroll between the different documents, and control how many entries you want to include in the ToC. This will be determined according their coverage rank (see the paper for further details about coverage and clusters ranking).
+
+## Evaluation Scripts (partial)
+
+In [utils](utils/) We supply few scripts that can help you evaluate your model in two manners:
+
+1. Clustering evaluation:
+   - [generate_intruder_test.py](utils/generate_intruder_test.py): prepare the data for crowdsourcing experiment, testing if an intruder can be detected out of 9 other titles from the same cluster. The output files match the expected format for Mechanical Turk HITs.
+   - Next, you need to run on your own on Mechanical Turk (or any other crowd sourcing platform).
+   - [intruder_eval.py](utils/intruder_eval.py): assuming the output format of mechanical turk, this script receives as an input a path to directory with all the batches results, accumulating them into accuracy and confidence measures for the intrusion detection.
+2. Grounding evaluation: we supply a script that evaluates precision, recall and F1 scores, given some gold labels, along with comparison to two baselines (random and predict the most frequent class). To use this evaluation you need to supply gold labels
 
 ## Debugging
 
