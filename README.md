@@ -83,11 +83,9 @@ If you encounter the following error in the [`run_louvain_algorithm.py`](parser/
     communities_lst = [communities[i] for i in range(len(meta_df))]
 KeyError: <some number>
 ```
-It means that your graph produced to many communities. 
-This means that your graph is not connected enough.
+It means that louvain produced too many communities, and your graph is not connected enough.
 
 This can be controlled via the `PERCENTILE` parameter, which is incharge of pruning weak connections in the graph.
-
 To avoid this error and enlarge the connectivity, you need to set a smaller `PERCENTILE` value than the default (0.996).
 
 Rerun the `./run_all.sh` command as described in [#Quickstart](#quickstart), and add the `--percentile <new value>` parameter.
