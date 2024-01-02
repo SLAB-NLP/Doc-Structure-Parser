@@ -21,11 +21,11 @@ Parameters:
 - `MODEL`: name of the model used for encoding, loaded via sentence_transformers package. 
 List of available models can be found [here](https://www.sbert.net/docs/pretrained_models.html).
 - `DATASET_NAME`: name of the dataset to parse, used for headers detection in [`generate_nodes_info.py`](parser/generate_nodes_info.py). 
-See **[#Apply New Dataset](#apply-new-dataset)** for further explanation on how to run this code on your own dataset.
+See [#Apply New Dataset](#apply-new-dataset) for further explanation on how to run this code on your own dataset.
 - `INPUT_DIR`: path to the directory containing the dataset to parse. 
 This directory is expected to contain plain text files.
 - `OUTPUT_DIR`: path to the directory where the output will be saved. 
-See **[#Output Files](#output-files)** for further explanation on the directory format and the files it contains.
+See [#Output Files](#output-files) for further explanation on the directory format and the files it contains.
 this `OUTPUT_DIR` parameter must end with a seperator (i.e., '/').
 - `W_TITLE`, `W_TEXT`, `W_INDEX`: weights used for the graph building. 
 The edges in the graph are weighted sum of the three similarities measures, weighted according these given ws, based on prior information regarding the specific dataset. 
