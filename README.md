@@ -89,9 +89,19 @@ In [`utils`](utils/) We supply few scripts that can help you evaluate your model
 
 1. Clustering evaluation:
    - [`generate_intruder_test.py`](utils/generate_intruder_test.py): prepare the data for crowdsourcing experiment, testing if an intruder can be detected out of 9 other titles from the same cluster. The output files match the expected format for Mechanical Turk HITs.
+     ```
+     python generate_intruder_test.py --path PREDICTIONS --out_dir OUT_DIR [--override]
+     ```
    - Next, you need to run on your own the experiments on Mechanical Turk (or any other crowd sourcing platform).
    - [`intruder_eval.py`](utils/intruder_eval.py): assuming the output format of mechanical turk, this script receives as an input a path to directory with all the batches results, accumulating them into accuracy and confidence measures for the intrusion detection.
-2. Grounding evaluation: we supply a script that evaluates precision, recall and F1 scores, given some gold labels, along with comparison to two baselines (random and predict the most frequent class). To use this evaluation you need to supply gold labels
+     ```
+     python utils/intruder_eval.py --path CROWDSORCING_ANNOTATIONS_DIRECTORY
+     ```
+2. Grounding evaluation: we supply a script that given some gold labels, evaluates precision, recall and F1 scores, along with comparison to two baselines (random and predict the most frequent class). 
+   - [`grounding_eval.py`](utils/grounding_eval.py): you need to supply gold labels that match the `meta_filtered.csv` format, with one additional column of 'gold_title'. If the gold titles are different from the cluster representatives, you also need to supply path to a json file describing a mapping from representatives to gold titles.
+     ```
+     python utils/grounding_eval.py --predictions PREDICTIONS --gold GOLD_LABELS --out_dir OUT_DIR [--toc_mapping TOC_MAPPING]
+     ```
 
 ## Debugging
 
