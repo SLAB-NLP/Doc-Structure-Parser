@@ -7,7 +7,7 @@ import pandas as pd
 from community import community_louvain
 from collections import Counter
 
-DEFAULT_PERCENTILE = 0.998
+DEFAULT_PERCENTILE = 0.996
 
 
 def get_weighted_similarities(data_dir, w_title, w_text, w_index):
