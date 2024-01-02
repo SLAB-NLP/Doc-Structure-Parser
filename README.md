@@ -79,6 +79,7 @@ Each line in this csv represents a section in a document from the dataset, along
 
 If you encounter the following error in the [`run_louvain_algorithm.py`](parser/run_louvain_algorithm.py) script:
 ```
+Traceback (most recent call last):
 ...
     communities_lst = [communities[i] for i in range(len(meta_df))]
 KeyError: <some number>
