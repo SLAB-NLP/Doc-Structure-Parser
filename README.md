@@ -95,7 +95,7 @@ In [utils](utils/) We supply few scripts that can help you evaluate your model i
 
 ## Debugging
 
-If you encounter the following error in the [`run_louvain_algorithm.py`](parser/run_louvain_algorithm.py) script:
+You might occur the following error when running the [`run_louvain_algorithm.py`](parser/run_louvain_algorithm.py) script:
 
 > Traceback (most recent call last): <br> &nbsp; &nbsp; &nbsp; &nbsp; ... <br> &nbsp; &nbsp; &nbsp; &nbsp; communities_lst = [communities[i] for i in range(len(meta_df))] <br> KeyError: \<some number\>
 
