@@ -85,12 +85,12 @@ You can scroll between the different documents, and control how many entries you
 
 ## Evaluation Scripts (partial)
 
-In [utils](utils/) We supply few scripts that can help you evaluate your model in two manners:
+In [`utils`](utils/) We supply few scripts that can help you evaluate your model in two manners:
 
 1. Clustering evaluation:
-   - [generate_intruder_test.py](utils/generate_intruder_test.py): prepare the data for crowdsourcing experiment, testing if an intruder can be detected out of 9 other titles from the same cluster. The output files match the expected format for Mechanical Turk HITs.
+   - [`generate_intruder_test.py`](utils/generate_intruder_test.py): prepare the data for crowdsourcing experiment, testing if an intruder can be detected out of 9 other titles from the same cluster. The output files match the expected format for Mechanical Turk HITs.
    - Next, you need to run on your own the experiments on Mechanical Turk (or any other crowd sourcing platform).
-   - [intruder_eval.py](utils/intruder_eval.py): assuming the output format of mechanical turk, this script receives as an input a path to directory with all the batches results, accumulating them into accuracy and confidence measures for the intrusion detection.
+   - [`intruder_eval.py`](utils/intruder_eval.py): assuming the output format of mechanical turk, this script receives as an input a path to directory with all the batches results, accumulating them into accuracy and confidence measures for the intrusion detection.
 2. Grounding evaluation: we supply a script that evaluates precision, recall and F1 scores, given some gold labels, along with comparison to two baselines (random and predict the most frequent class). To use this evaluation you need to supply gold labels
 
 ## Debugging
