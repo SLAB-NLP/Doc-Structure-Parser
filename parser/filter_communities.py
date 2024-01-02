@@ -3,7 +3,6 @@ from argparse import ArgumentParser
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
-from utility_scripts.add_clusters_doc_cover_rank import add_rank_to_df
 
 
 def split_to_ranges(lst):
@@ -29,6 +28,34 @@ def split_to_ranges(lst):
     ranges.append((start_idx, end_idx))
 
     return ranges
+
+
+def add_rank_to_df(full_df_path):
+    df = pd.read_csv(full_df_path, index_col=False)
+    max_comm = np.max(df["community"].values)
+    df_coverage = calculate_cluster_file_coverage(df, np.arange(max_comm + 1))
+    sum_each_community = df_coverage.sum(axis=1)
+    # get rank of sum of each community
+    rank = sum_each_community.rank(method='dense', ascending=False)
+    rank["-1"] = np.inf
+    # add rank column to df, according to the community in each row
+    df["rank"] = df["community"].apply(lambda x: rank[x] if x > -1 else np.nan)
+    df.to_csv(full_df_path, index=False)
+
+
+def calculate_cluster_file_coverage(communities_df, cluster_subset):
+    group_by_files = communities_df.groupby("filename").groups
+    filenames = list(group_by_files.keys())
+    df_out = pd.DataFrame(columns=filenames, index=sorted(cluster_subset), dtype=float)
+    for file in group_by_files:
+        file_df = communities_df.loc[group_by_files[file]]
+        file_group_by_cluster = file_df.groupby("community").groups
+        for cluster in file_group_by_cluster:
+            if cluster not in cluster_subset:
+                continue
+            rows = file_group_by_cluster[cluster]
+            df_out.loc[cluster][file] = len(rows) / len(file_df)
+    return df_out
 
 
 def separate_communities_from_duplicates(dataframe):

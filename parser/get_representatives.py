@@ -4,7 +4,7 @@ import pandas as pd
 from tqdm import tqdm
 import numpy as np
 import re
-from parser.run_louvain_algorithm import normalize_ws, get_weighted_similarities
+from run_louvain_algorithm import normalize_ws, get_weighted_similarities
 
 
 numbering_regex = r'\d+\.?\s*'
