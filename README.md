@@ -12,8 +12,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 python -m spacy download en_core_web_lg
 cd parser
-./run_all.sh -m MODEL --ds_name DATASET_NAME \
-    -i INPUT_DIR -o OUTPUT_DIR  \
+./run_all.sh -m MODEL --ds_name DATASET_NAME -i INPUT_DIR -o OUTPUT_DIR  \
     --w_title W_TITLE --w_text W_TEXT --w_index W_INDEX
 ```
 
