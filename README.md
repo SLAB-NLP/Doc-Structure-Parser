@@ -1,8 +1,21 @@
 # Doc-Structure-Parser
 
-This is an unsupervised method to extract the conceptual table of contents of a data collection.
+This repo is the an unsupervised method to extract the conceptual table of contents of a data collection.
+<p align="center">
+<img src="./io-fig.png" alt="io-fig" width="500" margin="auto"/>
+</p>
+
+The input for this task is a collection of unlabeled documents, expected to have some underlying shared structure, and the output is a table of contents (TOC), with grounding from each ToC entry, to spans of text within the documents.
+
+To see an exmple of our model output, given a set of 500 financial reports (Form-10K), [clone](#prepare-the-environment) the repo, and then run the following command:
+
+```
+
+```
 
 ## Quickstart
+
+### Prepare the environment
 
 ```
 git clone <github_url>
@@ -10,6 +23,11 @@ cd <NAME>
 python3 -m venv .venv
 source venv/bin/activate
 pip install -r requirements.txt
+```
+
+### Run the document parser
+
+```
 python -m spacy download en_core_web_lg
 cd parser
 ./run_all.sh -m MODEL --ds_name DATASET_NAME -i INPUT_DIR -o OUTPUT_DIR  \
