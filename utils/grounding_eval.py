@@ -12,9 +12,9 @@ COLUMNS_PER_CLASS_RESULTS = ["gold title", "class size in segments", "exact segm
                              "partial section match precision", "partial section match recall", "partial section match f1"]
 
 
-def eval_df(predictions, gold_labels, title_mapping, out):
+def eval_df(predictions, gold_labels, title_mapping, out, quiet=False):
 
-    predictions[predictions["community"] == -1]["representative"] = "NA"
+    predictions.loc[predictions["community"] == -1, "representative"] = "NA"
     predictions = predictions.merge(gold_labels, on=["filename", "title_text", "section_text", "title_index", "normalized_index", "original_title_line"], how="left")
     predictions = predictions.dropna(subset=["gold_cluster"])
 
@@ -23,7 +23,7 @@ def eval_df(predictions, gold_labels, title_mapping, out):
     missing_gold_class = set(predictions["gold_title"].unique()).difference(set(title_mapping.values()))
 
     df_per_gold_title = pd.DataFrame(columns=COLUMNS_PER_CLASS_RESULTS)
-    predictions_no_missing_class = predictions[predictions["gold_title"] not in missing_gold_class]
+    predictions_no_missing_class = predictions[~predictions['gold_title'].isin(missing_gold_class)]
     predictions_no_missing_pred = predictions[predictions["predicted_mapping"] != "NA"]
 
     accuracy_per_gold_title = predictions_no_missing_class.groupby("gold_title")["prediction_correct"].mean()
@@ -66,8 +66,10 @@ def eval_df(predictions, gold_labels, title_mapping, out):
     df_accumulated["category"] = ["exact match", "partial match"]
     df_accumulated["f1 macro (equal)"] = [f1_score_exact.mean(), f1_score_partial.mean()]
     df_accumulated["f1 micro (weighted)"] = [weighted_mean_exact, weighted_mean_partial]
-    print()
-    print(df_accumulated)
+
+    if not quiet:
+        print()
+        print(df_accumulated)
     df_accumulated.to_markdown(out.replace('.csv', '_accumulated.md'), index=False)
 
     return df_accumulated
@@ -88,9 +90,9 @@ def handle_only_single_class_predicted(exact_section_match_precision, intersecti
     return exact_section_match_precision, intersection_precision_df
 
 
-def get_mapping(gold_df):
-    if args.toc_mapping != "":
-        with open(args.toc_mapping, "r") as f:
+def get_mapping(gold_df, path_to_mapping=""):
+    if path_to_mapping != "":
+        with open(path_to_mapping, "r") as f:
             toc_mapping = json.load(f)
     else:
         toc_mapping = {cls: cls for cls in gold_df["gold_title"].unique()}
@@ -105,11 +107,15 @@ def main(pred_df, gold_df, toc_mapping, out_dir):
 
     # most frequent class baseline
     reverse_mapping = {v: k for k, v in toc_mapping.items()}
-    most_frequent_class = gold_df["gold_title"].value_counts().index[0]
+    count_per_class = gold_df["gold_title"].value_counts()
+    most_frequent_class = count_per_class.index[0]
+    num_most_frequent_class = count_per_class[most_frequent_class]
+    percentage_most_frequent_class = num_most_frequent_class / count_per_class.sum() * 100
     matching_representative_key = reverse_mapping[most_frequent_class]
     predict_most_frequent_class = pred_df.copy()
     predict_most_frequent_class["representative"] = matching_representative_key
     print("\n\nPREDICT MOST FREQUENT CLASS")
+    print(f"that is, \"{most_frequent_class}\", with {num_most_frequent_class} instances ({percentage_most_frequent_class:.3f})")
     out_path = os.path.join(out_dir, "most_frequent_class_baseline.csv")
     eval_df(predict_most_frequent_class, gold_df, toc_mapping, out_path)
 
@@ -125,7 +131,7 @@ def main(pred_df, gold_df, toc_mapping, out_dir):
         out_dir_random = os.path.join(out_dir, "random_baseline")
         os.makedirs(out_dir_random, exist_ok=True)
         out_path = os.path.join(out_dir_random, f"eval_{i}.csv")
-        df_accum = eval_df(random_predictions, gold_df, toc_mapping, out_path)
+        df_accum = eval_df(random_predictions, gold_df, toc_mapping, out_path, quiet=True)
         all_random_runs.append(df_accum)
     # get the mean of all random runs
     all_random_runs = pd.concat(all_random_runs)
@@ -151,6 +157,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
     predictions = pd.read_csv(args.predictions, index_col=False)
     gold = pd.read_csv(args.gold, index_col=False)
-    mapping_toc = get_mapping(gold)
+    mapping_toc = get_mapping(gold, path_to_mapping=args.toc_mapping)
     os.makedirs(args.out_dir, exist_ok=True)
     main(predictions, gold, mapping_toc, args.out_dir)

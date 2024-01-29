@@ -11,3 +11,4 @@ tqdm
 python-louvain
 spacy
 streamlit
+tabulate
