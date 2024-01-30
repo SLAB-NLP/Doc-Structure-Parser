@@ -5,13 +5,12 @@ This repo is the an unsupervised method to extract the conceptual table of conte
 <img src="./io-fig.png" alt="io-fig" width="500" margin="auto"/>
 </p>
 
-The input for this task is a collection of unlabeled documents, expected to have some underlying shared structure, and the output is a table of contents (TOC), with grounding from each ToC entry, to spans of text within the documents.
+## Demo
 
-To see an exmple of our model output, given a set of 500 financial reports (Form-10K), [clone](#prepare-the-environment) the repo, and then run the following command:
+To see the example of our model output over a collection of 500 financial reports (Form-10K), we provide a streamlit demo
 
-```
+[]()
 
-```
 
 ## Quickstart
 
@@ -23,12 +22,12 @@ cd <NAME>
 python3 -m venv .venv
 source venv/bin/activate
 pip install -r requirements.txt
+python -m spacy download en_core_web_lg
 ```
 
 ### Run the document parser
 
 ```
-python -m spacy download en_core_web_lg
 cd parser
 ./run_all.sh -m MODEL --ds_name DATASET_NAME -i INPUT_DIR -o OUTPUT_DIR  \
     --w_title W_TITLE --w_text W_TEXT --w_index W_INDEX
@@ -93,7 +92,7 @@ Each line in this csv represents a section in a document from the dataset, along
 You can view the results of each document and its extracted structure with the following command:
 
 ```
-streamlit run utils/visualize_predictions.py <output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv
+streamlit run utils/visualize_predictions.py -- <output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv
 ```
 
 This command will initialize a local streamlit server with a visualization of the conceptual table of contents and its mapping to each document spans.
