@@ -125,7 +125,7 @@ In [`utils`](utils/) We supply few scripts that can help you evaluate your model
      ```
      python utils/grounding_eval.py --predictions PREDICTIONS --gold GOLD_LABELS --out_dir OUT_DIR [--toc_mapping TOC_MAPPING]
      ```
-   - [`collect_human_grounding_annotations.py`](utils/collect_human_grounding_annotations.py): in case you want to manually collect the gold labels for grounding, this script runs a streamlit server (locally) to collect the annotations, and then you can run `utils/parse_human_annotations_to_gold_csv.py` to parse the annotations into a csv file that matches the expected format for the `grounding_eval.py` script.
+   - [`collect_human_grounding_annotations.py`](utils/collect_human_grounding_annotations.py): in case you want to manually collect the gold labels for grounding, this script runs a streamlit server (locally) to collect the annotations, and then you can run `parse_human_annotations_to_gold_csv.py` to parse the annotations into a csv file that matches the expected format for the `grounding_eval.py` script.
      ```
      streamlit run utils/visualize_predictions.py -- --path_to_segmentation <output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv --output PATH_TO_OUT_FILE [--override]
      ```
