@@ -2,14 +2,18 @@
 
 This repo is the an unsupervised method to extract the conceptual table of contents of a data collection.
 <p align="center">
-<img src="./io-fig.png" alt="io-fig" width="500" margin="auto"/>
+<img src="./examples/io-fig.png" alt="io-fig" width="500" margin="auto"/>
 </p>
 
 ## Demo
 
-To see the example of our model output over a collection of 500 financial reports (Form-10K), we provide a streamlit demo
+To see the example of our model output over a collection of 500 financial reports (Form-10K), we provide a streamlit demo at 
 
-[]()
+[https://visualize-collection-wide-structure.streamlit.app](https://visualize-collection-wide-structure.streamlit.app)
+
+and hit the "Load example" button to see our method's results over the example dataset (Form-10k) 
+
+<img src="./examples/load-example.png" alt="load-example" width="200" margin="auto"/>
 
 
 ## Quickstart
