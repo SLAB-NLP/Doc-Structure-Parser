@@ -1,6 +1,6 @@
 # Doc-Structure-Parser
 
-This repo is the an unsupervised method to extract the conceptual table of contents of a data collection.
+This repo is the an unsupervised method to extract the conceptual table of contents of a data collection, i.e., the underlying structure of a typical document within the collection. Our method recieve a document collection as an input, and outputs the typical structure of a document along with a mapping between each ToC entry to specifc text spans within each document, as examplified in the figure below.
 <p align="center">
 <img src="./examples/io-fig.png" alt="io-fig" width="500" margin="auto"/>
 </p>
