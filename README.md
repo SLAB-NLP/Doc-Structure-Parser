@@ -149,9 +149,13 @@ Rerun the `./run_all.sh` command as described in [#Quickstart](#quickstart), and
 
 ## Reproduce Results From Paper
 
-First, you will need to download the datasets used in the paper. Form-10k and CUAD datasets are available under the following link:
+First, you will need to download the datasets used in the paper. 
+
+Form-10k and CUAD datasets are available under the following link:
 
 [https://drive.google.com/drive/folders/1OHbOlPfr4GUga4s3xXLVwDUtIu7OSolB?usp=share_link](https://drive.google.com/drive/folders/1OHbOlPfr4GUga4s3xXLVwDUtIu7OSolB?usp=share_link)
+
+* The Hebrew-verdicts dataset that we discuss in the paper cannot be published due to the sensitive information it includes, as it is a dataset of legal verdicts in sexual harrasment cases.
 
 Next, we assume you already ran the environment setup as described in [#Prepare the environment](#prepare-the-environment).
 
@@ -164,7 +168,7 @@ cd parser
     -o 10K_OUTPUT_DIR --w_title 7 --w_text 0 --w_index 3 --percentile 0.995
 ```
 
-We supply our intruder results from mechanical turk in the directory [utils/intruder_results/Form-10k/](utils/intruder_results/Form-10k/), which you can then run the intruder evaluation script:
+We supply our intruder results from mechanical turk in the directory [/utils/intruder_results/Form-10k/](utils/intruder_results/Form-10k/), which you can then run the intruder evaluation script:
 
 ```
 python utils/intruder_eval.py --path utils/intruder_results/Form-10k
@@ -173,7 +177,11 @@ python utils/intruder_eval.py --path utils/intruder_results/Form-10k
 You can also run the grounding evaluation script, with our provided gold labels for Form-10k grounding:
 
 ```
-python utils/grounding_eval.py --predictions 10K_OUTPUT_DIR/all-mpnet-base-v2/0.7title_0.0text_0.3index/meta_filtered.csv --gold appendix/grounding_annotations/Form-10k/gold_labels.csv --out_dir OUT_DIR --toc_mapping appendix/grounding_annotations/Form-10k/labels_mapping_to_predictions.json
+python utils/grounding_eval.py  \
+        --predictions 10K_OUTPUT_DIR/all-mpnet-base-v2/0.7title_0.0text_0.3index/meta_filtered.csv  \
+        --gold appendix/grounding_annotations/Form-10k/gold_labels.csv  \
+        --toc_mapping appendix/grounding_annotations/Form-10k/labels_mapping_to_predictions.json  \
+        --out_dir GROUNDING_OUT_DIR
 ```
 
 ### Reproduce CUAD Results:
@@ -185,7 +193,7 @@ cd parser
     -o CUAD_OUTPUT_DIR --w_title 5 --w_text 3 --w_index 2 --percentile 0.996
 ```
 
-For CUAD we provide the intruder results in [appendix/intruder_annotations/CUAD/](appendix/intruder_annotations/CUAD/), but we did not collect the gold labels for grounding evaluation.
+For CUAD we provide the intruder results in [/appendix/intruder_annotations/CUAD/](appendix/intruder_annotations/CUAD/), but we did not collect the gold labels for grounding evaluation.
 
 To run the intruder evaluation:
 
@@ -196,7 +204,7 @@ python utils/intruder_eval.py --path appendix/intruder_annotations/CUAD
 
 ### Hebrew-verdicts Results:
 
-Due to the sensitive information provided in this dataset (sexual assault court verdicts), we cannot provide the dataset itself nor the gold labels for grounding annotation. However, we provide the intruder results in [appendix/intruder_annotations/Hebrew-verdicts/](appendix/intruder_annotations/Hebrew-verdicts/). This only include section headers from the verdicts, which does not contain sensitive information about the cases.
+Due to the sensitive information provided in this dataset (sexual assault court verdicts), we cannot provide the dataset itself nor the gold labels for grounding annotation. However, we provide the intruder results in [/appendix/intruder_annotations/Hebrew-verdicts/](appendix/intruder_annotations/Hebrew-verdicts/). This only include section headers from the verdicts, which does not contain sensitive information about the cases.
 
 To run the intruder evaluation:
 
