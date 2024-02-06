@@ -288,7 +288,9 @@ if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument("--path_to_segmentation", type=str, required=True)
     parser.add_argument("--output", type=str, required=True)
-    parser.add_argument("--override", action="store_true", default=False)
+    parser.add_argument("--override", action="store_true", default=False,
+                        help="add this flag to override existing output file if exists. "
+                             "If not, it will append to the existing file")
     args = parser.parse_args()
 
     init(args.output, args.path_to_segmentation, args.override)
