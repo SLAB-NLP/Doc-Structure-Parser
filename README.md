@@ -106,7 +106,7 @@ streamlit run utils/visualize_predictions.py -- <output_dir>/<model_name>/<w>tit
 
 You can scroll between the different documents, and control how many entries you want to include in the ToC. This will be determined according their coverage rank (see the paper for further details about coverage and clusters ranking).
 
-## Evaluation Scripts (partial)
+## Evaluation Scripts
 
 In [`utils`](utils/) We supply few scripts that can help you evaluate your model in two manners:
 
