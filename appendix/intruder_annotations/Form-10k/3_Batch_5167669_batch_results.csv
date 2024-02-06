@@ -1,0 +1,1493 @@
+"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.cluster_id","Input.cluster_rep","Input.index_intruder_in_df","Input.title_intruder","Input.community_intruder","Input.intruder_rank","Input.in_test_intruder_location","Input.index_0","Input.sentence_0_text","Input.index_1","Input.sentence_1_text","Input.index_2","Input.sentence_2_text","Input.index_3","Input.sentence_3_text","Input.index_4","Input.sentence_4_text","Input.index_5","Input.sentence_5_text","Input.index_6","Input.sentence_6_text","Input.index_7","Input.sentence_7_text","Input.index_8","Input.sentence_8_text","Input.index_9","Input.sentence_9_text","Answer.answers.0","Answer.answers.1","Answer.answers.2","Answer.answers.3","Answer.answers.4","Answer.answers.5","Answer.answers.6","Answer.answers.7","Answer.answers.8","Answer.answers.9","Answer.description","Approve","Reject"
+"3EAWOID6MVEMGF8GHB37N9ACE99V01","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:35 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:35 PST 2023","","","30LSNF239XCRC3PONUD4FS9PXN4I25","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:55:22 PST 2023","Thu Dec 14 02:59:29 PST 2023","Sun Dec 17 02:59:29 PST 2023","","","","247","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","19103","See Note 7.","-1","","4","3045","Credit Agreement with Wells Fargo.","18272","Note 9 Income Taxes (Continued)","25821","Other Expense (Income).","3798","Investing Activities.","19103","See Note 7.","11438","Capital Requirements.","4160","Depreciation and Amortization.","17556","ARTICLE II
+
+THE CREDITS
+
+SECTION 2.01.
+
+COMMITMENTS.
+
+(a) TRANCHE A LOANS.","23155","Investing Activities.","11383","Investments","false","false","false","false","false","true","false","false","false","false","none"
+"3MVY4USGB84HVI8SR6N8IQQ11ZWISE","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:35 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:35 PST 2023","","","3J88R45B2JFKU5FPOEOHEF4XWA0PXZ","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:08 PST 2023","Thu Dec 14 03:02:03 PST 2023","Sun Dec 17 03:02:03 PST 2023","","","","175","100% (1/1)","100% (1/1)","100% (1/1)","12","Table Caption December","6952","First Mid Bank and Soy Capital Bank
+
+General.","14","5.0","1","368","<CAPTION>
+
+Years Ended December 31,
+
+----------------------------------------------- 2005 2004","6952","First Mid Bank and Soy Capital Bank
+
+General.","371","Years Ended December 31,
+
+---------------------------------------------- 2004 2003","12759","Fiscal Year Ended September 30, 2007","16793","Fiscal 2013","17356","Name Capacity Date
+
+/s/","1426","Date: April 15, 2003
+
+/s/","10497","Date: December 12, 2002
+
+/s/","24997","<CAPTION> NUMBER OF LOTS PROCEEDS
+
+--------------- <S> <C> <C>
+
+Fiscal 1996-0- $-0-","25715","Year Ended December 31, 2009","false","false","false","false","true","false","false","false","false","false","none"
+"31GN6YMHLR9ZWDSXGNRNJHZ9GAUSWV","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:35 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:35 PST 2023","","","35USIKEBNUX785JG7C2ZADMIZR0N67","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:58:27 PST 2023","Thu Dec 14 03:01:35 PST 2023","Sun Dec 17 03:01:35 PST 2023","","","","188","100% (1/1)","100% (1/1)","100% (1/1)","16","Service Providers","14700","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Registrants are exposed to market risks associated with adverse changes in commodity prices, counterparty credit, interest rates and equity prices.","-1","","7","27001","Ethylene.","24091","Global HIV Vaccine.","8785","Courts and Government Officials.","24240","Energy.","3184","LINES OF BUSINESS
+
+Car and Truck Wash Segment.","25942","Video Advertising Distribution.","18233","Item 1 Business (Continued)
+
+Competition
+
+Our industry is highly competitive, based on factors such as price, merchandise quality and selection, warehouse location and member service.","14700","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Registrants are exposed to market risks associated with adverse changes in commodity prices, counterparty credit, interest rates and equity prices.","2002","In January 1999, the Corporation acquired Ocal, Inc.","10969","High-Impact, Integrated Marketing Approach.","false","false","false","false","false","true","false","false","false","false","none"
+"31ODACBENWWUCGWB4ESHRSHNS9DQSP","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","39ASUFLU60OGXEQZF086K35TI3XXEL","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:39 PST 2023","Thu Dec 14 02:53:16 PST 2023","Sun Dec 17 02:53:16 PST 2023","","","","637","100% (10/10)","100% (10/10)","100% (10/10)","19","Affirmative Covenants","9699","ITEM 1A 
+
+RISK FACTORS
+
+You should carefully consider the following risks and uncertainties when reading this Annual Report on Form 10-K. The following factors, as well as other factors affecting our operating results and financial condition, could cause our actual future results and financial condition to differ materially from those projected.","-1","","1","22145","Indemnification of Corporate Agents.","9699","ITEM 1A 
+
+RISK FACTORS
+
+You should carefully consider the following risks and uncertainties when reading this Annual Report on Form 10-K. The following factors, as well as other factors affecting our operating results and financial condition, could cause our actual future results and financial condition to differ materially from those projected.","8531","Audit Committee.","15969","Berth and Lease Agreement","14252","Demise Premises Term.","25891","Amendments to Credit Agreement.
+
+1.1 Commitment Termination Date.","19687","Litigation.","757","SECTION 5.20 Insurance.","12714","Commitments.","5549","U.S. Patent Term Restoration and Marketing Exclusivity","false","false","false","false","false","false","false","false","false","true","The group of sentences without the marked omission would be related to various topics such as ""Indemnification of Corporate Agents,"" ""ITEM 1A RISK FACTORS,"" ""Audit Committee,"" ""Berth and Lease Agreement,"" ""Demise Premises Term,"" ""Amendments to Credit Agreement,"" ""Litigation,"" ""SECTION 5.20 Insurance,"" and ""Commitments."""
+"3DWGDA5POHLMN4TYDU771ETMJ1FV14","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3DQQ64TANJ2555AZE9SVCWQQN8UPW6","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:58:35 PST 2023","Thu Dec 14 03:01:42 PST 2023","Sun Dec 17 03:01:42 PST 2023","","","","187","100% (1/1)","100% (1/1)","100% (1/1)","4","Part Iii Directors And Executive Officers Of The Registrant","18911","STOCKHOLDER S EQUITY, DIVIDEND RESTRICTIONS AND OTHER MATTERS","-1","","7","3470","PART III
+
+Item 10 Directors and Executive Officers of the Registrant.","21515","PART III
+
+Board of Directors
+
+The following table sets forth the name, age and principal occupation of each director.","8448","PART III
+
+Item 10 Directors, Executive Officers and Corporate Governance.","10423","PART III
+
+Item 10 Directors, Executive Officers, and Corporate Governance.","17900","PART III
+
+ITEM 10 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.","29055","Principal Business Office.","4928","Item 10 Directors and Executive Officers of the Registrant.
+
+Item 11 Executive Compensation.
+
+Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+Item 13 Certain Relationships and Related Transactions.
+
+Item 14 Principal Accounting Fees and Services.
+
+PART III
+
+
+
+Not Applicable.
+
+Not Applicable.
+
+Not Applicable.
+
+Not Applicable.
+
+Not Applicable.","18911","STOCKHOLDER S EQUITY, DIVIDEND RESTRICTIONS AND OTHER MATTERS","1240","PART III
+
+ITEM 10 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.","25910","PART III
+
+Item 10 Directors, Executive Officers, and Corporate Governance.","false","false","false","false","true","false","false","false","false","false","none"
+"37Y5RYYI0RMELDXNQSN9L0DGPC0SXO","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3LYA37P8IT4C6BF86QRRT1R6JX6KBK","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:52:54 PST 2023","Thu Dec 14 02:58:19 PST 2023","Sun Dec 17 02:58:19 PST 2023","","","","325","100% (1/1)","100% (1/1)","100% (1/1)","10","Description Exhibit","15","Collie 110,0 105,0 128,00 20.0% 00 00 0
+
+Scott 76,00 161,0 103,00 16.1% 0 00 0
+
+Hendrick 96,00 24,00 100,00 15.6% 0 0 0
+
+Other 33,00 138,0 56,000 8.7% 0 00","-1","","2","27778","Broadway","17266","S-1
+
+INDEX TO EXHIBITS*
+
+Exhibit","15","Collie 110,0 105,0 128,00 20.0% 00 00 0
+
+Scott 76,00 161,0 103,00 16.1% 0 00 0
+
+Hendrick 96,00 24,00 100,00 15.6% 0 0 0
+
+Other 33,00 138,0 56,000 8.7% 0 00","22802","Exhibits.","27849","Exhibit No.","5107","(c) Exhibits
+
+<TABLE>
+
+<CAPTION>","2123","<CAPTION>
+
+Exhibit Number Description---","10467","Exhibit No.","15793","</TABLE>
+
+53 
+
+<TABLE>
+
+<CAPTION> Exhibit No.
+
+Description Page No.---------------------------------------","4958","EXHIBIT INDEX:","false","false","false","false","false","true","false","true","false","false",""
+"3S829FDFT4I8JOE5T2SKQ1RGO9QXDZ","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3PWWM24LHVFYNXDBE81D23FBURZ28H","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:32 PST 2023","Thu Dec 14 02:53:26 PST 2023","Sun Dec 17 02:53:26 PST 2023","","","","294","100% (1/1)","100% (1/1)","100% (1/1)","6","Summary Of Significant Accounting Policies Continued","5848","360 North Crescent Drive Beverly Hills, California 90210","-1","","1","24350","Recent Accounting Pronouncement","5848","360 North Crescent Drive Beverly Hills, California 90210","19942","Management s Report on Internal Control over Financial Reporting.","16434","POLICIES
+
+Generally Accepted Accounting Principles ( GAAP )","12073","NOTE 2 SUMMARY OF SIGNIFICANT ACCOUNTING","3453","SUMMARY OF SIGNIFICANT ACCOUNTING","18046","Recent Accounting Pronouncements","6601","ACCOUNTING POLICIES","2375","1- SUMMARY OF SIGNIFICANT ACCOUNTING","19198","NEW ACCOUNTING PRONOUNCEMENTS","false","false","false","true","false","true","false","false","false","false","good"
+"3DQYSJDTYNSDBUS5PX34WJ91OLRXES","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3LEP4MGT3JH4S59YE954POWGZO9DB0","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:53:27 PST 2023","Thu Dec 14 02:58:42 PST 2023","Sun Dec 17 02:58:42 PST 2023","","","","315","100% (1/1)","100% (1/1)","100% (1/1)","29","A Risk Factors","11167","7,743--- 7,743 Restructuring.","-1","","4","7266","Item 1A Risk Factors.","9040","Age 48.
+
+Item 1A Risk Factors.","13542","Item 1A Risk Factors.","26210","ITEM 1A RISK FACTORS.","11167","7,743--- 7,743 Restructuring.","7382","Item 1A Risk Factors.","12076","Item 1A Risk Factors.","16481","Item 1A Risk Factors.","12053","Item 1A Risk Factors.","3836","ITEM 1A RISK FACTORS
+
+OUR AUDITORS HAVE ISSUED","false","false","false","false","true","false","false","false","false","false","none"
+"3XJOUITW8W8VRG9QTEX71XD9USRQTE","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3MTMREQS4YZYI14XPQAYM11VOMUAWB","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:57:39 PST 2023","Thu Dec 14 03:00:51 PST 2023","Sun Dec 17 03:00:51 PST 2023","","","","192","100% (1/1)","100% (1/1)","100% (1/1)","23","A Controls And Procedures","1079","ITEM 8 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Financial statements meeting the requirements of Regulation S-X are indexed and included beginning on page F-1 of this report.","8","3.0","1","26151","Item 9A Controls and Procedures.","1079","ITEM 8 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Financial statements meeting the requirements of Regulation S-X are indexed and included beginning on page F-1 of this report.","18058","Item 9A Controls and Procedures.","20770","ITEM 9A CONTROLS AND PROCEDURES.
+
+(a) The Company s management, with the participation of the Company s Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the Company s disclosure controls and procedures as of the end of the period covered by this Report.","7298","Item 9A Controls and Procedures.","20616","Item 9A Controls and Procedures.","15499","ITEM 9A CONTROLS AND PROCEDURES.","26239","ITEM 9A CONTROLS AND PROCEDURES.","7059","ITEM 9A CONTROLS AND PROCEDURES.","29803","Item 9A Controls and Procedures.","false","false","false","false","true","false","false","false","false","false","none"
+"3VZYA8PITQF5ILT1BKLUJBGD1L8050","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3IAS3U3I0IXHPVBIHKLNT55C2XKB2P","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:29 PST 2023","Thu Dec 14 03:02:28 PST 2023","Sun Dec 17 03:02:28 PST 2023","","","","179","100% (1/1)","100% (1/1)","100% (1/1)","26","Management S Discussion And Analysis Of Financial Condition And Results Of Operations","24629","7.3 Utility Installations Trade Fixtures Alterations.
+
+(a) Definitions Consent Required.","-1","","6","5920","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","21634","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+The following discussion and analysis is intended to provide a better understanding of the consolidated financial condition and results of operations of the Company and its subsidiaries years ended December 31, 2015, 2014 and 2013.","16624","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","10451","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","26089","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.","17920","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","24629","7.3 Utility Installations Trade Fixtures Alterations.
+
+(a) Definitions Consent Required.","367","Item 7 Manager s Discussion and Analysis of Financial Condition and Results of Operations
+
+Our Manager s Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements.","7690","Item 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","4429","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","false","false","false","true","false","false","false","false","false","false","none"
+"3OWZNK3RYN6TZAMUR8XGAB18X0L2U4","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","354P56DE9NKNSIPQYIODFLWKH1S7S2","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:12 PST 2023","Thu Dec 14 02:58:01 PST 2023","Sun Dec 17 02:58:01 PST 2023","","","","529","100% (1/1)","100% (1/1)","100% (1/1)","12","Table Caption December","4287","Income Taxes.","25","2.0","6","27160","<TABLE>
+
+<CAPTION> June 30, 1996","29759","Name Capacity Date
+
+/s/","28164","Year Ended December 31, 2013","6052","Date: March 22, 2005","2108","<CAPTION> 2006 2005
+
+-------","5038","<TABLE>
+
+<CAPTION> 1993
+
+----------------------------------------------------","4287","Income Taxes.","17495","Dated: November 1, 2004
+
+/s/","20186","Name Title Date
+
+/s/","22278","<CAPTION>
+
+JANUARY 31, FEBRUARY 1, 1998 1997
+
+------------- <S> <C> <C>","true","false","true","false","false","false","false","false","false","false",""
+"3ZG552ORAOLTCPBUWY7L6X3RB7TV2L","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3H8DHMCCWCS5L8DSKMIXORF6MIIKDR","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:53:04 PST 2023","Thu Dec 14 02:58:27 PST 2023","Sun Dec 17 02:58:27 PST 2023","","","","323","100% (1/1)","100% (1/1)","100% (1/1)","14","Global Crossing Ltd S Dan J Cohrs","1187","Net Revenue
+
+2008","-1","","2","27209","10.6 The NewMil Bancorp, Inc.","27796","Our President and Chief Executive Officer is Joseph Noel.","1187","Net Revenue
+
+2008","26249","William R. Council, III /s/","9373","CRAIG W. CARLSON","11190","Delaware A&E- Korea, Ltd.
+
+Delaware Carlisle Plastics Funding Corporation.
+
+Delaware </TABLE> <TABLE>","2373","VALLEY HIGH MINING COMPANY","21874","Niagara Atlantic Holdings Corporation","25932","DIGITAL GENERATION SYSTEMS, INC.","6593","BOSTON GAS","false","false","false","false","true","true","false","false","false","false",""
+"3S4TINXCC24SAI2TEFEICYCN9K9OBE","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3C8HJ7UOPAB3EXIRXGKAUWQDZ5MZM9","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:44 PST 2023","Thu Dec 14 02:55:22 PST 2023","Sun Dec 17 02:55:22 PST 2023","","","","398","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","607","Item 8 Financial Statements.","-1","","0","607","Item 8 Financial Statements.","5444","Contractual Obligations and Commitments.","755","SECTION 5.18 No Defaults.","26910","ARTICLE VII.","5229","Reg. 56,260 (October 30, 2009).","29260","General Insurance Agency.","1071","NOTE 14 REGULATORY MATTERS","24431","COVENANTS TO HOLD HARMLESS: 18.","21061","6.2 UNDERSTANDINGS AMENDMENTS.","18416","PURCHASED SOFTWARE AND WARRANT AGREEMENTS WITH FDR","false","false","false","false","true","false","true","false","false","false","none"
+"3NI0WFPPIBX11PTFG3VZBHUDXGJ06G","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3K772S5NPBSJBOQKAWQKHHHZUDFEHA","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:41 PST 2023","Thu Dec 14 02:57:46 PST 2023","Sun Dec 17 02:57:46 PST 2023","","","","905","100% (10/10)","100% (10/10)","100% (10/10)","8","Part Iv Exhibits Consolidated Financial Statement Schedules","28419","OriginalPoolsMember nrz:MeasurementInputRecaptureRateMember","-1","","8","16855","ITEM 8 
+
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+Cross Reference Sheet
+
+Caption
+
+Independent Auditors Report
+
+Statements of Assets and Liabilities Arising from Cash Transactions as of December 31, 2002 and December 31, 2001
+
+Statements of Distributable Income Arising From Cash Transactions for the years ended December 31, 2002 and 2001
+
+Notes to Financial Statements
+
+INDEPENDENT AUDITORS REPORT
+
+To the World Financial Network Credit Card Master Trust
+
+We have audited the accompanying statements of assets and liabilities arising from cash transactions of the World Financial Network Credit Card Master Trust (the Trust ) as of December 31, 2002 and 2001, and the related statements of distributable income arising from cash transactions for the years then ended.","5069","Part IV
+
+Item 15 Exhibits and Financial Statement Schedules.
+
+(1)
+
+Incorporated by reference to the Company s Form S-1 filed August 25, 2011
+
+*
+
+Filed herewith
+
+**
+
+To be furnished by amendment
+
+- 19-
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+-","20951","PART IV
+
+Item 14 EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) 1.","23283","ITEM 8 Financial Statements.","14384","Notes to Consolidated Financial Statements.","10652","PART IV
+
+ITEM 15 EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.","12071","PART IV.
+
+Item 15 Exhibits, Financial Statements Schedules.
+
+(a) (1) FINANCIAL STATEMENTS See Index to Consolidated Financial Statements of this Annual Report on Form 10-K.
+
+(2)
+
+FINANCIAL STATEMENT SCHEDULES See Index to consolidated Financial Statements on page F-1 hereof
+
+(3)
+
+EXHIBITS See Exhibit Index below.
+
+EXHIBIT INDEX
+
+Exhibit No.","6656","PART IV
+
+ITEM 15 EXHIBITS, FINANCIAL STATEMENT SCHEDULES.","28419","OriginalPoolsMember nrz:MeasurementInputRecaptureRateMember","22501","PART IV
+
+ITEM 15 EXHIBITS, FINANCIAL STATEMENT SCHEDULES.
+
+(a)(1)","false","false","false","false","false","false","false","false","true","false","The group of sentences without the marked omission would be related to ""ITEM 8 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA"" and ""PART IV ITEM 15 EXHIBITS, FINANCIAL STATEMENT SCHEDULES."
+"3ZTE0JGGCG9BKNUZSFADNII5R59OCL","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3ERMJ6L4D19KUNCLELSR3CXEPCA7MQ","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:48 PST 2023","Thu Dec 14 02:56:09 PST 2023","Sun Dec 17 02:56:09 PST 2023","","","","441","100% (1/1)","100% (1/1)","100% (1/1)","26","Management S Discussion And Analysis Of Financial Condition And Results Of Operations","17944","Item 1A Risk Factors.","29","25.0","5","27529","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","10229","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","3839","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION.S
+
+RESULTS OF OPERATIONS
+
+We are still in our exploration stage and have not generated any revenue.","18597","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.s
+
+Liquidity and Capital Resources
+
+The Partnership owns and manages a diversified portfolio of leased commercial aircraft and makes quarterly distributions to the partners of net cash flow generated by operations.","18410","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+
+RESULTS OF OPERATIONS
+
+Results of Operations
+
+2003 Overview
+
+Total revenue in 2003 increased 2% to $99.3 million from $97.4 million in 2002 due to an increase in services revenue, which was partially offset by a decrease in license revenue.","17944","Item 1A Risk Factors.","9181","ITEM 6 SELECTED FINANCIAL DATA.
+
+Not Applicable.
+
+ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULT OF OPERATIONS.","29357","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","29467","ITEM 6 SELECTED FINANCIAL DATA.: see pages 123 and 124.
+
+ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","10417","Item 6 Selected Financial Data.
+
+N/A
+
+.
+
+Item 7 Management s Discussion and Analysis or Plan of Operation.s","false","false","true","true","false","true","false","false","false","false","none"
+"36KM3FWE3TTK5P7KZD0RHVU9SR307F","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","378XPAWRUFUGH6KS096JLASN9BWIAC","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:58:20 PST 2023","Thu Dec 14 03:01:29 PST 2023","Sun Dec 17 03:01:29 PST 2023","","","","189","100% (1/1)","100% (1/1)","100% (1/1)","6","Summary Of Significant Accounting Policies Continued","13911","ITEM 1B UNRESOLVED STAFF COMMENTS.","24","27.0","3","13732","Continued
+
+APPLICATION OF CRITICAL ACCOUNTING
+
+POLICIES","7653","RECENT ACCOUNTING PRONOUNCEMENTS-","23234","NOTE 2--SUMMARY OF SIGNIFICANT ACCOUNTING
+
+POLICIES
+
+PRINCIPLES OF CONSOLIDATION AND FOREIGN CURRENCY TRANSLATION","13911","ITEM 1B UNRESOLVED STAFF COMMENTS.","20322","(14) NEW ACCOUNTING PRONOUNCEMENTS","19794","Recently Issued Accounting Pronouncements","12528","SIGNIFICANT ACCOUNTING","9115","Changes in Internal Control Over Financial Reporting.","26573","Recently Issued Accounting Standards:","3280","Changes in Internal Control over Financial Reporting.","false","false","false","true","false","false","true","false","false","false","none"
+"3OEWW2KGQLSLPF0DSB5O7O0NC5LODL","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3Z2R0DQ0JKVFWYN2RBNDUDBX5UXE2S","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:58:01 PST 2023","Thu Dec 14 03:01:14 PST 2023","Sun Dec 17 03:01:14 PST 2023","","","","193","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","24357","Page F-26
+
+THE WELLS FUND XI- FUND XII-","8","3.0","3","29507","Income Taxes-","27805","Interest Expense.","9218","Senior Secured Loans and Second Lien Secured Loans.","24357","Page F-26
+
+THE WELLS FUND XI- FUND XII-","4587","LATE CHARGES.","28746","Patient Care Costs.","8878","PRINCIPAL INTEREST ENDING NOTE INIT NOTE","29003","Equity in Net Income of Affiliates.","21982","Third-Party Valuation Methodology","14951","Gross Profit.","false","false","false","true","true","false","false","false","false","false","none"
+"39WSF6KUV42QHLEDO6G8D6I8CHMOEE","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3T111IHZ5H7F5MD6YQMS37IUQPX9RS","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:40 PST 2023","Thu Dec 14 02:54:53 PST 2023","Sun Dec 17 02:54:53 PST 2023","","","","373","100% (1/1)","100% (1/1)","100% (1/1)","26","Management S Discussion And Analysis Of Financial Condition And Results Of Operations","23444","< EXTRAORDINARY> 0 <CHANGES> 0","-1","","5","18763","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","145","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","20843","Item 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS","28370","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","12108","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.s
+
+Results of Operations
+
+In 1996, net sales totaled $130.0 million, a 2.6% increase from 1995.","23444","< EXTRAORDINARY> 0 <CHANGES> 0","20603","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","1113","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","28191","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","16170","Item 6 Selected Financial Data.
+
+Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","false","false","true","false","true","false","false","false","false","false","none"
+"3IQ9O0AYW8GIAIL7G6SYSVMN3IAIT3","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3QJOXOW4XM8532RV1T6X9MPVBZEMER","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:32:57 PST 2023","Thu Dec 14 03:33:42 PST 2023","Sun Dec 17 03:33:42 PST 2023","","","","45","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","25794","See Acquisitions and Dispositions Cumulus Media Partners, LLC.","-1","","0","25794","See Acquisitions and Dispositions Cumulus Media Partners, LLC.","2013","Cash and Cash Equivalents:","25384","General and Administrative Expenses.","23917","Risk-Free Interest Rate.","28738","Patient Care Costs.","19951","All Other Fees.","21842","Investment Securities.","9924","INTEREST OPTIONS.","19775","Fair Value of Debt :","9714","Topic 606, Revenue from Contracts with Customers.","false","false","false","false","false","false","true","false","false","false","none"
+"3RKHNXPHGYDOGQQKGE3KA7N2E06KU7","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3L6L49WXW3EP3T9WKODYJY2ICFU54E","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:56 PST 2023","Thu Dec 14 02:56:47 PST 2023","Sun Dec 17 02:56:47 PST 2023","","","","471","100% (1/1)","100% (1/1)","100% (1/1)","16","Service Providers","28613","<CAPTION>","17","31.0","8","8","Oil.","28283","SUPERVISION","11027","Trust Services.","4127","Intercarrier Compensation.","13475","WEST VIRGINIA RACING AND GAMING REGULATION.","6666","Precise 3D measurements.","21472","Maintaining Technological Leadership.","3189","Operating Agreements and Acquisitions.","28613","<CAPTION>","25946","Record Send Terminal and Client Workstation.","false","false","false","true","false","false","false","false","false","false","none"
+"3PGQRAZX0413LINXVO9B4EKPRIUSYU","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","36WLNQG782R9KBNYA4GOV6E1Z0AEBU","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:00:09 PST 2023","Thu Dec 14 03:03:03 PST 2023","Sun Dec 17 03:03:03 PST 2023","","","","174","100% (1/1)","100% (1/1)","100% (1/1)","4","Part Iii Directors And Executive Officers Of The Registrant","12563","4.4 DEFINITION OF ""CAUSE"".","-1","","8","8405","PART III
+
+Item 10 Directors, Executive Officers and Corporate Governance.","10235","PART III
+
+Item 10 Directors and Executive Officers of the Registrant.","5564","Part II I
+
+Item 10 Directors, Executive Officers and Corporate Governanc e.
+
+The information required by this Item 10 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2017 Annual Meeting of Stockholders and is incorporated herein by reference.
+
+Item 11 Executive Compensatio n.
+
+The information required by this Item 11 will be included in our definitive proxy statement to be filed with the SEC with respect to our 2017 Annual Meeting of Stockholders and is incorporated herein by reference.
+
+Item 12 Security Ownership of Certain Beneficial Owners and Management.","7075","PART III
+
+The following Items have been omitted in accordance with General Instruction J to Form 10-K:
+
+.
+
+Item 10 Directors, Executive Officers, and Corporate Governance.
+
+Item 11 Executive Compensation.
+
+Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+Item 13 Certain Relationships, Related Transactions, and Director Independence
+
+.
+
+Item 14 Principal Accounting Fees and Services.","3856","PART III
+
+ITEM 10 DIRECTORS AND EXECUTIVE OFFICERS
+
+The officer and director of Massey Exploration, whose one year terms will expire 2/28/12, or at such a time as their successor(s) shall be elected and qualified are as follows:","21989","PART III
+
+Item 10 Directors, Executive Officers and Corporate Governance.","20773","Item 10 Directors, Executive Officers and Corporate Governance.","5283","PART III
+
+ITEM 10 Directors and Executive Officers of Registrant.
+
+Not Applicable.","12563","4.4 DEFINITION OF ""CAUSE"".","26329","PART III
+
+Item 10 Directors and Executive Officers of the Registrant.:
+
+(a) Directors of the Registrant
+
+The following is a list of each director of the Company, the date their present terms of office will expire and all other positions presently held with the Company:","false","false","false","true","false","false","false","false","false","false","none"
+"3SU800BH889ARTOFTJNH6TZBD6YQU5","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","39ASUFLU60OGXEQZF086K35TI3YEX3","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:34 PST 2023","Thu Dec 14 02:53:45 PST 2023","Sun Dec 17 02:53:45 PST 2023","","","","311","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","21925","Other Operating and General Expenses.","25","2.0","2","22481","Income Taxes.","27292","Goodwill and Other Intangible Assets","21925","Other Operating and General Expenses.","23142","Depreciation and Amortization Expenses.","12470","NOTE 15
+
+LONG- TERM DEBTS","28743","Income from Operations.","9219","Subordinated Debt.","23488","Note P-
+
+Financial Instruments","16499","INVESTMENTS IN SINGLE-FAMILY RESIDENTIAL PROPERTIES","20419","No. 52, Foreign Currency Translation.","false","false","false","false","false","true","false","false","false","false","good"
+"3ZG552ORAOLTCPBUWY7L6X3RB7U2VT","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3OWEPKL08CTQC5XLQM7RGRMEU2KN76","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:10 PST 2023","Thu Dec 14 03:02:10 PST 2023","Sun Dec 17 03:02:10 PST 2023","","","","180","100% (1/1)","100% (1/1)","100% (1/1)","16","Service Providers","10601","ITEM 2 PROPERTIES.","22","15.0","9","20597","EMPLOYEES","28702","3 
+
+Organizational Structure.","25949","ADvantage Receive Playback Terminal.","27055","World-Wide Non-Exclusive WARF License","26944","SolarEdge Software.","6240","Acquisition","5340","Joint Ventures.","25589","Provide Quality Low Fare Service.","7345","Professional Management of Non-Core Services.","10601","ITEM 2 PROPERTIES.","false","false","false","false","false","true","false","false","false","false","none"
+"3JMNNNO3B3L6REBZM8CHSZM5IGW2W3","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:36 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:36 PST 2023","","","3MYYFCXHJ6ONJQYG1KWPNVT72O84GV","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:44 PST 2023","Thu Dec 14 03:00:04 PST 2023","Sun Dec 17 03:00:04 PST 2023","","","","1040","100% (10/10)","100% (10/10)","100% (10/10)","13","Certain Relationships And Related Transactions","20632","ITEM 3 LEGAL PROCEEDINGS.","1","6.0","4","390","Item 13 Certain Relationships and Related Transactions.","8421","Item 13 
+
+Certain Relationships and Related Transactions, and Director
+
+Independence
+
+(a)
+
+Transactions with management and others.","16212","Item 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","3862","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","20632","ITEM 3 LEGAL PROCEEDINGS.","28218","Item 13 Certain Relationships and Related Transactions.","11971","[2] SECURITY TRANSACTIONS:","23714","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","18141","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","9351","Item 13 Certain Relationships and Related Transactions.","false","false","false","false","true","false","false","false","false","false","The group of sentences without the marked omission would be related to ""Item 13 Certain Relationships and Related Transactions"" and similar variations of that item."
+"324N5FAHSZSOT5FKL4DP6TPLS7FKVW","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3BQU611VFS191MHK49M6CMI0K3R995","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:48 PST 2023","Thu Dec 14 03:04:24 PST 2023","Sun Dec 17 03:04:24 PST 2023","","","","1296","100% (10/10)","100% (10/10)","100% (10/10)","16","Service Providers","4257","Leases.","-1","","6","3498","Sales and Marketing","28545","Long Distance Services.","1381","Services.","5414","Hurricane Katrina.","321","See Business Environmental and Other Regulatory Issues.","12259","iii. STATUS OF NEW DEVELOPMENTS.","4257","Leases.","16628","In accordance with Emerging Issue Task Force ( EITF )","10210","Peer Review.","6035","See Index to Exhibits and Exhibit 20.1.
+
+PART I
+
+Item 1 Business.","false","false","false","false","false","true","false","false","false","false","The group of sentences without the marked omission would be related to business aspects, services, regulatory issues, leases, sales and marketing, long-distance services, Hurricane Katrina, peer review, and references to Part I Item 1 Business."
+"3P458N04Q3YLGEGPWD83UI0CRI22XW","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","39O5D9O87W9PKIZ7ZKVNNZGMQWKC38","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:34 PST 2023","Thu Dec 14 02:48:48 PST 2023","Sun Dec 17 02:48:48 PST 2023","","","","374","100% (10/10)","100% (10/10)","100% (10/10)","7","Principal Accountant Fees And Services","18797","Deferred Compensation Plan.","-1","","2","10155","13.4 Legal Fees and Expenses.","19655","Item 14 Principal Accountant Fees and Services.","18797","Deferred Compensation Plan.","93","Item 14 Principal Accounting Fees and Services.","16802","Item 14 Principal Accountant Fees and Services.","4089","Item 14 Principal Accounting Fees and Services.","14061","ITEM 14 PRINCIPAL ACCOUNTANT FEES AND SERVICES.","16649","ITEM 14 PRINCIPAL ACCOUNTANT FEES AND SERVICES.","12649","Item 14 Principal Accountant Fees and Services.","13565","Item 14 Principal Accounting Fees and Services.","false","false","true","false","false","false","false","false","false","false","The group of sentences without the marked omission would be related to ""Item 14 Principal Accountant Fees and Services."
+"3D1TUISJWKHXAV0WGBI8XR8PMWHIUU","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","34HJIJKLP8D61NOBQFVBNWWHP3WV4B","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:57:21 PST 2023","Thu Dec 14 03:00:30 PST 2023","Sun Dec 17 03:00:30 PST 2023","","","","189","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","4919","<TEXT>","-1","","2","8184","5.1 INTEREST.","24510","</TABLE>
+
+ 
+
+ 
+
+INDEPENDENCE TAX CREDIT","4919","<TEXT>","23582","All Other Fees.","25392","Net Loss.","29973","Consolidated Operations
+
+Other Income (Expense)","15601","Financing Activities.","28579","See ""Legal Proceedings- GST v. Sander.
+
+""
+
+Other Expenses/Income.","29736","Income Tax (Benefit) Expense.","2966","Provision For Income Taxes.","false","false","false","false","false","false","true","false","false","false","none"
+"37MQ8Z1JQGDAGJ6Z19U5DW7LTOW2Y2","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3B3WTRP3DEJY12WLJ07R2ZAMEXH296","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:52 PST 2023","Thu Dec 14 02:56:31 PST 2023","Sun Dec 17 02:56:31 PST 2023","","","","459","100% (1/1)","100% (1/1)","100% (1/1)","0","Submission Of Matters To A Vote Of Security Holders","8668","(d) Perquisites and Other Personal Benefits.","-1","","8","14336","ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.","25757","ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.","23594","Item 4 Submission of Matters to a Vote of Security Holders.","16762","ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+None
+
+PART II
+
+ITEM 5 MARKET.","327","Item 4 Submission of Matters to a Vote of Security Holders.","2004","Item 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.","24280","ITEM 4 Submission of Matters to a Vote of Security Holders.","10380","Item 4 Submission of Matters to a Vote of Security Holders.","8668","(d) Perquisites and Other Personal Benefits.","8699","Item 4 Submission of Matters to a Vote of Securities Holders.","true","false","false","false","false","true","false","false","false","false","none"
+"3J5XXLQDHOSIX77D0YLQP78JHLTV3W","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","33SA9F9TR0B18EL95VCKIKRM91SEWA","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:31 PST 2023","Thu Dec 14 02:53:15 PST 2023","Sun Dec 17 02:53:15 PST 2023","","","","284","100% (1/1)","100% (1/1)","100% (1/1)","12","Table Caption December","16437","YES","30","16.0","1","1953","<CAPTION>
+
+March 31 1997 1996","16437","YES","18389","Results of Operations
+
+Year Ended December 31, 2008","6756","Year ended December 31, 2017.","4039","Signature Title Date
+
+/s/","15050","<CAPTION> DECEMBER 31,
+
+-------------------------------- 1998 1999","4855","< CAPTION> 2005 2004 2003
+
+---------------------------------------------------------------------","1486","<CAPTION> DECEMBER 31,
+
+------------------------- 2000 1999
+
+------------- (IN THOUSANDS, EXCEPT PAR VALUE AMOUNTS)
+
+<S> <C> <C>","11773","/TABLE>
+
+<TABLE>
+
+<CAPTION> December 31, 1999
+
+-----------------------------------------------------------------------","3924","In October 2001,the","false","false","false","true","false","false","false","false","true","false",""
+"371Q3BEXDJQ3Q8X2RABUILTRXCYSZL","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3SKRO2GZ748BTDXG4TY2NPEXXLFK11","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:10 PST 2023","Thu Dec 14 02:57:53 PST 2023","Sun Dec 17 02:57:53 PST 2023","","","","523","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","21364","ASSETS--","-1","","1","28214","Employment Agreement with Liane Pelletier.","21364","ASSETS--","11580","Item 1122 of Regulation AB.","20705","Guarantees","19785","Section 1350","5841","Term of Agreement.","16303","TERMINATION
+
+3.1 AT WILL.","20273","An Interpretation of ARB No. 51.""","18162","Section 2.5 Special Meetings.","25463","PAGE 38
+
+20.","false","false","false","true","false","false","true","false","false","false","none"
+"38F60IALAIY73N4RCG3SMRMRHOTT0J","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3R6BYFZZPAT83SQVABSC2LQTU4CXF3","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:40 PST 2023","Thu Dec 14 02:57:06 PST 2023","Sun Dec 17 02:57:06 PST 2023","","","","866","100% (10/10)","100% (10/10)","100% (10/10)","23","A Controls And Procedures","16038","ENCORE WIRE CORPORATION
+
+Date: March 21, 2003","-1","","8","10770","ITEM 14 CONTROLS AND PROCEDURES.","7403","Item 9A Controls and Procedures.","12606","Item 9A Controls and Procedures.","4188","Item 9A Controls and Procedures.","28144","Item 9A Controls and Procedures.","19564","Item 9A Controls and Procedures.","25669","Item 9A Controls and Procedures.
+
+(a) Evaluation of Disclosure Controls and Procedures.","16428","ITEM 9A CONTROLS AND PROCEDURES.","16038","ENCORE WIRE CORPORATION
+
+Date: March 21, 2003","9465","Item 9A Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures.","false","false","false","false","false","false","false","false","true","false","The group of sentences without the marked omission would be related to ""ITEM 14 CONTROLS AND PROCEDURES"" and ""Item 9A Controls and Procedures. (a) Evaluation of Disclosure Controls and Procedures."
+"33EEIIWHK9OA48DFY9XM2F1URD7QVU","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","37TRT2X24T8HVR9QO5RFSMRT486JBK","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:33:26 PST 2023","Thu Dec 14 03:34:34 PST 2023","Sun Dec 17 03:34:34 PST 2023","","","","68","100% (1/1)","100% (1/1)","100% (1/1)","13","Certain Relationships And Related Transactions","13324","ARTICLE VIII- Contracts
+
+ 16 1.
+
+Interested Directors or Officers.","-1","","7","23904","Item 13 Cert ain Relationships and Related Transactions, and Director Independence.","14018","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.","8900","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","1758","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.","4008","Item 13 Certain Relationships and Related Transactions.
+
+and Director Independence.","24192","Item 13 Certain Relationships and Related Transactions, and Director Independence.","4954","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.","13324","ARTICLE VIII- Contracts
+
+ 16 1.
+
+Interested Directors or Officers.","19882","Item 13 Certain Relationships and Related Transactions, and Director Independence.
+
+Accrued Expenses-","17278","Item 13 Certain Relationships and Related Transactions.---
+
+","false","false","false","false","true","false","false","false","false","false","none"
+"3OLZC0DJ8LWXNAPWL1SDTDA803QIVJ","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3RSDURM96D35XJG9KWU83HC2K9SEY9","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:46 PST 2023","Thu Dec 14 02:55:55 PST 2023","Sun Dec 17 02:55:55 PST 2023","","","","429","100% (1/1)","100% (1/1)","100% (1/1)","28","Changes In And Disagreements With Accountants On Accounting And Financial Disclosure","13450","COMPANY CONFORMED NAME:			TRAVELERS BANK CREDIT","-1","","3","12605","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.","84","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosures.","25042","Item 9 Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.","13450","COMPANY CONFORMED NAME:			TRAVELERS BANK CREDIT","9551","ITEM 9 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.","6281","Item 9 Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.","15929","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.","4002","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.","18847","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.","7133","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.","false","false","true","false","true","false","false","false","false","false","none"
+"386T3MLZLPCO53C39ISXVVQ43B9082","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3SKRO2GZ748BTDXG4TY2NPEXXLF1KI","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:42 PST 2023","Thu Dec 14 02:58:38 PST 2023","Sun Dec 17 02:58:38 PST 2023","","","","956","100% (10/10)","100% (10/10)","100% (10/10)","9","Security Ownership Of Certain Beneficial Owners And Management And Related Security Holder Matters A","19829","Rainbow DBS","-1","","5","16941","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","13861","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.","5927","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","25177","Ownership Interests.","4087","Item 12 Security Ownership of Certain Beneficial Holders and Management and Related Stockholder Matters
+
+Other than the information disclosed below in this Item 12, the information required by this Item is incorporated by reference to the information in the section entitled Stock Ownership in the Proxy Statement.","19829","Rainbow DBS","9555","BENEFICIAL
+
+OWNERSHIP REPORTING COMPLIANCE","9281","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+The information in our 2013 Proxy Statement set forth under the captions Equity Compensation Plan Information and Security Ownership of Management and Certain Beneficial Owners is incorporated herein by reference.
+
+Item 13 Certain Relationships and Related Transactions, and Director Independence
+
+The information in our 2013 Proxy Statement set forth under the captions Transactions with Related Persons and Corporate Governance Independence of Nominees for Director is incorporated herein by reference.
+
+Item 14 Principal Accountant Fees and Services
+
+The information in our 2013 Proxy Statement set forth under the captions Proposal Two Appointment of Independent Auditors and Authorization of the Audit Committee to Set Their Remuneration, Audit and Audit Committee Matters is incorporated herein by reference.
+
+PART IV
+
+Item 15 Exhibits, Financial Statement Schedules
+
+(a) (1) and (2) See .
+
+Item 8 Consolidated Financial Statements and Supplementary Data.
+
+(3) Exhibit Index:
+
+ExhibitNumber Exhibit
+
+2.1 Separation and Distribution Agreement by and among Tyco International Ltd., Covidien Ltd., and Tyco Electronics Ltd., dated as of June 29, 2007 (Incorporated by reference to Exhibit 2.1 to the Registrant s Current Report on Form 8-K filed on July 5, 2007).
+
+3.1 Memorandum and Articles of Association of Covidien plc, as amended (Incorporated by reference to Exhibit 3.1 to the Registrant s Current Report on Form 8-K filed on March 16, 2012).
+
+3.2 Certificate of Incorporation of Covidien plc (Incorporated by reference to Exhibit 3.2 to the Registrant s Current Report on Form 8-K filed on June 5, 2009).
+
+4.1(a) Indenture by and among Covidien International Finance S.A. (as Issuer), Covidien Ltd.","29946","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+(a) Security Ownership of Certain Beneficial Owners
+
+There is no person or ""Group"" who is known to the Registrant to be the beneficial owner of more than five percent of the outstanding units of limited partnership interest of the Registrant.","23164","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.","false","false","false","false","false","true","true","false","false","false","The group of sentences without the marked omission would be related to ""ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS."
+"3NKW03WTLOONJXDKOJ2IOHK8YM9QW4","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3TK8OJTYM42SQGAUOZNZQU7CGZSPVW","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:58:13 PST 2023","Thu Dec 14 03:01:22 PST 2023","Sun Dec 17 03:01:22 PST 2023","","","","189","100% (1/1)","100% (1/1)","100% (1/1)","29","A Risk Factors","21173","See Explanatory Notes.)","-1","","7","25642","Item 1A Risk Factors.","25533","ITEM 1A RISK FACTORS.","1987","PART I
+
+Item 1 Business.
+
+Not Applicable
+
+.
+
+Item 1A Risk Factors.","10410","Item 1A Risk Factors.","9328","ITEM 1A RISK FACTORS.","25808","Item 1A Risk Factors.","19505","Item 1a Risk Factors.","21173","See Explanatory Notes.)","24159","Item 1A Risk Factors.","21761","Item 1A Risk factors.","false","false","false","true","false","false","false","true","false","false","none"
+"38XPGNCKHVH3F3QH0CQ9ZC0PVLPV4H","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3A1COHJ8NMC22NGTXT4KP7LDJAHH8E","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:54 PST 2023","Thu Dec 14 02:56:39 PST 2023","Sun Dec 17 02:56:39 PST 2023","","","","465","100% (1/1)","100% (1/1)","100% (1/1)","3","Refer To Note","28669","6.3 NON-SOLICITATION.","-1","","2","5482","Note 7.","10521","Note 7.","28669","6.3 NON-SOLICITATION.","20067","ATTENTION","5834","(d) Binding Effect Successors.","8835","Note 2.","21158","See Explanatory Notes.)","28779","""
+
+NANI-IL and NANI-IN.","9521","8.1 7.2 6.0 Other.","18550","See- Recent Developments above.","false","false","true","false","false","true","false","false","false","false","none"
+"3VMHWJRYHXX5H8S1K8NAE1U10M6XFA","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3YGXWBAF73YA2EIBZY06X48S4WGC4T","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:36 PST 2023","Thu Dec 14 02:50:28 PST 2023","Sun Dec 17 02:50:28 PST 2023","","","","472","100% (10/10)","100% (10/10)","100% (10/10)","2","B Other Information","24816","Item 8 Financial Statements.","-1","","9","20715","Item 9B
+
+Other Information.","2420","Item 9B
+
+Other Information.","26240","ITEM 9B OTHER INFORMATION.","5304","Item 9B
+
+Other Information.","29364","Item 9B
+
+Other Information.","8662","ITEM 9B OTHER INFORMATION.","25410","Item 9B
+
+Other Information.","24966","ITEM 9B OTHER INFORMATION.","1795","Item 9B
+
+Other Information.","24816","Item 8 Financial Statements.","false","false","false","false","false","false","false","false","false","true","The group of sentences without the marked omission would be related to ""Item 9B Other Information."
+"371QPA24C457ACP98Z7S0W51MGZT1M","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3LJ7UR74RKUTTIF2OO9KDF2430UN4M","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:57:57 PST 2023","Thu Dec 14 03:01:06 PST 2023","Sun Dec 17 03:01:06 PST 2023","","","","189","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","1002","See Risk Factors Risks Related to our Business","20","12.0","7","26094","General and Administrative.","20608","Income Taxes.","23148","Acquisition Related Expenses.","13402","Revenue.","24864","General and Administrative Expenses.","25147","Payment of Interest.","16723","INCOME TAXES-","1002","See Risk Factors Risks Related to our Business","17850","Other Investments.","22614","Borrowings
+
+Line of Credit.","false","false","false","false","true","false","false","false","false","false","none"
+"38RHULDV90WA2ZP1BBX9FFTM7CSIWT","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3BF51CHDTYRKKYBQ2PR5WSFV0C5H0R","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:33:28 PST 2023","Thu Dec 14 03:34:42 PST 2023","Sun Dec 17 03:34:42 PST 2023","","","","74","100% (1/1)","100% (1/1)","100% (1/1)","8","Part Iv Exhibits Consolidated Financial Statement Schedules","1074","Currency Swap and Embedded Derivative","-1","","4","29978","Item 8 Financial Statements.","7169","PART IV
+
+Item 14 Exhibits, Financial Statement Schedules and Reports on Form 8-K
+
+(a)(1)","21949","Notes to Consolidated Financial Statements.","22202","Item 7 Financial Statements and Exhibits
+
+October 26, 2004
+
+Press release announcing earnings for third quarter of 2004.","1074","Currency Swap and Embedded Derivative","8767","Notes to Consolidated Financial Statements
+
+2.","51","Item 8 Financial Statements.","5165","Item 14 Exhibits, Financial Statement Schedules (continued), and Reports on Form 8-K. (Continued)
+
+Sequential Page
+
+---------- (a) 3.","8541","Item 15 Exhibits and Financial Statement Schedules.
+
+(a) Consolidated Financial Statements
+
+The following documents are filed under Item 8 Financial Statements and Supplementary Data, and are included as part of this Form 10-K:
+
+Financial Statements of the Company for the years ended December 31, 2007 and 2006:
+
+Report of Independent Registered Public Accounting Firm
+
+Balance Sheets
+
+Statements of Income
+
+Statements of Stockholders Equity
+
+Statements of Cash Flows
+
+Notes to Financial Statements
+
+(b) Exhibits
+
+The exhibits required to be attached by Item 601 of Regulation S-K are listed below, and are incorporated herein by this reference.","1611","Financial Statement Schedules.","false","false","false","true","false","false","false","false","false","false","none"
+"3P7QK0GJ3V2AL9G4XVWOR3GNZI02ZT","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3AAPLD8UCFYL078H0RFFG3H0XN2HT3","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:53:16 PST 2023","Thu Dec 14 02:58:34 PST 2023","Sun Dec 17 02:58:34 PST 2023","","","","318","100% (1/1)","100% (1/1)","100% (1/1)","10","Description Exhibit","12903","ON TRANSFER OF SERIES C STOCK.
+
+1.","-1","","9","16687","EXHIBIT INDEX","25688","*
+
+Exhibit Index
+
+10.28.","14446","Exhibit 4.","24195","(3) Exhibits.","26128","Exhibits: See Index to Exhibits.","3094","Exhibit No.","7220","PART IV
+
+back to Table of Contents
+
+Item 15 Exhibits.","18288","EXHIBIT INDEX","12981","<DESCRIPTION>EXHIBIT 11","12903","ON TRANSFER OF SERIES C STOCK.
+
+1.","false","false","false","true","false","true","false","false","false","false","none"
+"3MA5N0ATTES18UFPBEILSV8ZZGHKW6","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3PZDLQMM0W20Z03OVKHI4PBUKIKC2X","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:33 PST 2023","Thu Dec 14 02:48:05 PST 2023","Sun Dec 17 02:48:05 PST 2023","","","","332","100% (10/10)","100% (10/10)","100% (10/10)","26","Management S Discussion And Analysis Of Financial Condition And Results Of Operations","12063","Item 9A Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures.","23","20.0","4","11453","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.","10384","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.s
+
+Introduction
+
+The following discussion and analysis presents management s perspective of our business, financial condition and overall performance.","15533","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","9337","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","12063","Item 9A Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures.","22540","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","2504","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.
+
+","23079","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","4384","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","25611","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","false","false","false","false","true","false","false","false","false","false","The group of sentences without the marked omission would be related to ""Item 7 Management's Discussion and Analysis of Financial Condition and Results of Operations."
+"30P8I9JKOK2LBMUHEH9J4463VHKV5M","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","30X31N5D6675BKNO5L0XPCYAI9YSAE","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:57:22 PST 2023","Thu Dec 14 03:00:37 PST 2023","Sun Dec 17 03:00:37 PST 2023","","","","195","100% (1/1)","100% (1/1)","100% (1/1)","16","Service Providers","84","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosures.","28","18.0","0","84","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosures.","25071","Significant Customers.","24377","Research and Development.","23383","Coal.","21579","COLLABORATIONS AND ALLIANCES","3984","LOTUS Electronic Oxygen Conservers.","17877","( Phase 2 B/AIX ).","20855","Business Strategy.","19634","Technical Services Revenue.","23268","Americas Operating Segment.","false","false","false","false","false","true","false","false","false","false","none"
+"3EFNPKWBMU52466XX1X14EITNPH30D","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3TOK3KHVJWZ8UQXXR174VGMJKCP7O5","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:58 PST 2023","Thu Dec 14 02:56:59 PST 2023","Sun Dec 17 02:56:59 PST 2023","","","","481","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","9130","See Risks Related to Our Intellectual Property under .
+
+Item 1A Risk Factors.","-1","","0","9130","See Risks Related to Our Intellectual Property under .
+
+Item 1A Risk Factors.","29339","LOANS PAYABLE","8646","Depreciation and Amortization Expenses.","18765","Derivative Instruments and Hedging Activities.","5256","Monetized Gains","15598","Cost of Contract Manufacturing Revenue.","26750","Net Income (Loss).","10624","Income Taxes
+
+Fiscal 2005 Compared With Fiscal 2004:","10590","SCHEDULE IV- MORTGAGE LOANS ON REAL ESTATE-","19639","Other Income (Expense) and Foreign Exchange.","false","false","true","false","false","false","true","false","false","false","none"
+"3S8A4GJRD5KHUQUVJ0JOWAK3RCVV62","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3LRKMWOKB8YD7TEYNY1QFNCFT062ZM","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:53:59 PST 2023","Thu Dec 14 02:58:58 PST 2023","Sun Dec 17 02:58:58 PST 2023","","","","299","100% (1/1)","100% (1/1)","100% (1/1)","26","Management S Discussion And Analysis Of Financial Condition And Results Of Operations","28822","<CAPTION> 1999 2000
+
+-------","-1","","2","3205","Statement of Operations Data:
+
+.
+
+ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","623","ITEM 7 Management s Discussion and Analysis of Financial Condition and Results of Results of Operations 18 ITEM 7 A. Quantitative and Qualitative Disclosures About Market Risk 21 ITEM 8 Financial Statements and Supplementary Data 21 ITEM 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 21 ITEM 9 A. Controls and Procedures 22 ITEM 9B","28822","<CAPTION> 1999 2000
+
+-------","5622","ITEM 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.s
+
+The following information should be read in conjunction with the information contained in Item 1A Risk Factors and the audited consolidated financial statements and the notes thereto included under Item 8 Financial Statements and Supplementary Data elsewhere in this annual report.","3102","ITEM 7
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","7504","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","25872","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","24762","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","15027","See "".
+
+Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.- Acquisition and Divestiture History.","28253","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","false","false","true","false","true","false","false","false","false","false","none"
+"3UDTAB6HH8GOJ8VDEAYBVRLFNHR09R","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","33CID57107AINMTDCXOMQI69K5YL3X","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:51 PST 2023","Thu Dec 14 03:02:49 PST 2023","Sun Dec 17 03:02:49 PST 2023","","","","178","100% (1/1)","100% (1/1)","100% (1/1)","13","Certain Relationships And Related Transactions","5373","Financial Instruments.","-1","","8","6022","NOTE 24.
+
+Related Party Transactions
+
+Capstone May 2013","15547","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","9623","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","26971","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.","6654","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","18423","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","23060","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","27464","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.
+
+(a) Transactions with Related Persons.","5373","Financial Instruments.","11654","See
+
+Item 13 Certain Relationships and Related Party Transactions for a discussion of compensation paid by us to our MGP.","false","false","false","false","true","false","false","false","false","false","none"
+"3T2EL38U0O128XIAYOY4Q0YF7OFQXX","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:37 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:37 PST 2023","","","3STRJBFXOZ8C2X9P6CICTVXSP46KTA","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:56:19 PST 2023","Thu Dec 14 02:59:51 PST 2023","Sun Dec 17 02:59:51 PST 2023","","","","212","100% (1/1)","100% (1/1)","100% (1/1)","26","Management S Discussion And Analysis Of Financial Condition And Results Of Operations","19817","EITF","-1","","8","17200","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","19158","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATION.S
+
+GENERAL
+
+The following information is provided to facilitate increased understanding of the 1998, 1997 and 1996 consolidated financial statements and accompanying notes of the Partnership included in the Index to Financial Statements on page F-1 of this report.","1015","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.s
+
+The following information should be read in conjunction with our selected combined financial and operating data and the accompanying consolidated financial statements and related notes.","8356","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","16420","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","11103","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+RESULTS OF OPERATIONS
+
+The following table sets forth certain operating data as a percentage of net sales for each of the three years ended December 31:
+
+<TABLE>","21533","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","3510","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","19817","EITF","6525","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","false","false","true","false","true","true","false","false","false","false","none"
+"3BAWBGQGYNG0YQ802AOG2OKZMNFV71","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3O7L7BFSHH6J7J14GE85HTIEUQUEI3","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:43 PST 2023","Thu Dec 14 02:59:34 PST 2023","Sun Dec 17 02:59:34 PST 2023","","","","1011","100% (10/10)","100% (10/10)","100% (10/10)","14","Global Crossing Ltd S Dan J Cohrs","332","Selling, General, and Administrative Expenses.","25","2.0","7","24969","Larry Colton, Chief Financial Officer.","15553","PAN PACIFIC RETAIL PROPERTIES, INC.","25468","LTL","21105","NATIONAL SANITARY SUPPLY CO","26507","Kenneth L. Hignett
+
+-----------------------------------","15296","* Member of Xerox Board of Directors
+
+Xerox 2010","8770","Ventiv Health, Inc.
+
+/s/","332","Selling, General, and Administrative Expenses.","15786","III LIMITED PARTNERSHIP, collectively, as Purchasers.
+
+</TABLE>
+
+51 
+
+<TABLE>
+
+<CAPTION> Exhibit No.
+
+Description Page No.---------------------------------------","24968","Reed Mattingly, Chief Operating Officer.","false","false","false","false","false","false","false","true","true","false","The group of sentences without the marked omission would be related to individuals and their roles, company names, and terms like ""Selling, General, and Administrative Expenses."
+"3RSBJ6YZEE7INZE9JH0EVO38OI1OFW","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","38YMOXR4MXGXVZSUZDTM6WZ9S346WH","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:41:01 PST 2023","Thu Dec 14 02:52:52 PST 2023","Sun Dec 17 02:52:52 PST 2023","","","","711","100% (1/1)","100% (1/1)","100% (1/1)","0","Submission Of Matters To A Vote Of Security Holders","9055","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+(a) Security Ownership of Certain Beneficial Owners
+
+Information required by this item is incorporated herein by reference to the section captioned Stock Ownership in Clifton Savings Bancorp","9","7.0","8","3202","ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.","17245","Item 4 Submission of Matters to a Vote of Security Holders.","15530","ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.","7782","ITEM 4 Submission of Matters to a Vote of Security Holders.","25101","ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.","24854","Item 4 Submission of Matters to a Vote of Security Holders.","5080","ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS","7619","Item 4 Submission of Matters to a Vote of Security Holders.
+
+Not Applicable.
+
+
+
+PART II
+
+Item 5 Market.","9055","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+(a) Security Ownership of Certain Beneficial Owners
+
+Information required by this item is incorporated herein by reference to the section captioned Stock Ownership in Clifton Savings Bancorp","3708","Item 4 Submission of Matters to a Vote of Security Holders.","true","false","false","false","false","false","false","false","false","false","good"
+"3BKZLF9901GR828K3KK69E5O9U9QY3","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","32M8BPYGAW3HRXXVM9YTHW3Q769IGO","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:00:06 PST 2023","Thu Dec 14 03:02:55 PST 2023","Sun Dec 17 03:02:55 PST 2023","","","","169","100% (1/1)","100% (1/1)","100% (1/1)","1","Legal Proceedings","24613","1.11 Guarantor.","-1","","2","403","Item 3 Legal Proceedings.","25100","ITEM 3 LEGAL PROCEEDINGS.","24613","1.11 Guarantor.","7781","ITEM 3 Legal Proceedings.","20403","Item 3 Legal Proceedings.","19627","Item 3 Legal Proceedings.","5274","ITEM 3 Legal Proceedings.","6303","Item 2 Properties.7 .
+
+Item 3 Legal Proceedings.7 .
+
+Item 4 Submission of Matters to a Vote of Security Holders.10
+
+PART II.11 .
+
+Item 5 Market.","29921","ITEM 3 LEGAL PROCEEDINGS.","9224","Item 3 Legal Proceedings.","false","false","false","false","false","false","true","false","false","false","none"
+"3T5ZXGO9DG5RDSIPZ6MPNLEQFODQZU","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3AAPLD8UCFYL078H0RFFG3H0XN2THF","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:33:22 PST 2023","Thu Dec 14 03:34:18 PST 2023","Sun Dec 17 03:34:18 PST 2023","","","","56","100% (1/1)","100% (1/1)","100% (1/1)","9","Security Ownership Of Certain Beneficial Owners And Management And Related Security Holder Matters A","16149","Subordinated Debt.","-1","","3","23543","Item 12 Security Ownership of Certain Beneficial Owners and Management.","10953","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","20292","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.
+
+BENEFICIAL OWNERSHIP TABLE","16149","Subordinated Debt.","10427","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","21778","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","14568","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.","27644","Beneficial Ownership Reporting Compliance
+
+Information regarding Section 16(a)","22234","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","19702","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.","false","false","true","false","false","false","false","false","false","false","none"
+"3TLFH2L6YB5EZX75R3765FF6EMDT23","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3RRCEFRB7PTRS9Q5LY4BMK2AMBGB4L","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:20 PST 2023","Thu Dec 14 03:02:22 PST 2023","Sun Dec 17 03:02:22 PST 2023","","","","182","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","6825","Condensed Consolidating Statements of Operations.","-1","","0","6825","Condensed Consolidating Statements of Operations.","18479","INCOME TAXES","25663","Restricted Cash","16088","Trust Services Revenue.","1351","Depreciation and Amortization.","2478","See Note 11.
+
+3.
+
+Fair Value Measurements","4588","DEFAULT INTEREST RATE.","8493","<INCOME-CONTINUING> 0","22617","Construction Financing.","15600","Investing Activities.","false","false","false","false","true","false","false","false","false","false","none"
+"31D0ZWOD0CG2OR5I6GCBRMWZTZ90A6","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3U84XHCDIFUNA7TLRCKE829DDE1Z4E","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:47 PST 2023","Thu Dec 14 03:03:52 PST 2023","Sun Dec 17 03:03:52 PST 2023","","","","1265","100% (10/10)","100% (10/10)","100% (10/10)","15","Part I Business","17668","LENDER S TERM LOANS:","-1","","6","28425","PART I
+
+Item 1 Business.","9066","3 
+
+PART I
+
+Item 1 Business.","11275","PART I
+
+Item 1 Business.","13372","ITEM 1 BUSINESS
+
+OVERVIEW","21522","PART I","25054","Page No.
+
+PART
+
+I
+
+ITEM 1 BUSINESS.","17668","LENDER S TERM LOANS:","18373","Item 1 Business.","1101","PART I
+
+ITEM 1 BUSINESS.","15888","PART I
+
+Item 1 Description of Business.","false","false","false","false","false","false","false","false","false","true","The group of sentences without the marked omission would be related to the general topic of ""PART I Item 1 Business"" and variations like ""ITEM 1 BUSINESS OVERVIEW,"" ""LENDER S TERM LOANS,"" and so on."
+"3SSN80MU8E5GXUKFLJE7UEM68INKXZ","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","31QTRG6Q2WU9UA5ZTAAJXTB6YGUPY5","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:36 PST 2023","Thu Dec 14 03:02:36 PST 2023","Sun Dec 17 03:02:36 PST 2023","","","","180","100% (1/1)","100% (1/1)","100% (1/1)","22","Properties","24727","<TABLE>","-1","","2","24778","Item 2 Properties.","7910","ITEM 2 PROPERTIES.","24727","<TABLE>","10940","PROPERTIES
+
+.
+
+Item 2 Properties.","20189","Item 2 Properties.","7852","ITEM 2 PROPERTIES.","19588","Item 2 Properties.","1569","ITEM 2 Properties.","21564","ITEM 2 PROPERTIES.","1813","Item 2 Properties.","false","false","false","false","false","true","false","false","false","false","none"
+"31KPKEKW4CU771AACUC7MXG5BHU0B1","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3R8YZBNQ9KZBF2AD6EZ8KLHJZD77QD","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:08 PST 2023","Thu Dec 14 02:57:46 PST 2023","Sun Dec 17 02:57:46 PST 2023","","","","518","100% (1/1)","100% (1/1)","100% (1/1)","15","Part I Business","12501","Robert C. Farone 62 Director May 1999- present-----
+
+J. Harold Helderman, MD 59 Director 1997- present-----","-1","","5","24265","ITEM 1 Business.","1268","PART I
+
+Item 1 Business.","2936","PART I
+
+ITEM 1 BUSINESS.","9632","PART I
+
+ITEM 1 BUSINESS.","6174","PART I
+
+Item 1 Business.","12501","Robert C. Farone 62 Director May 1999- present-----
+
+J. Harold Helderman, MD 59 Director 1997- present-----","7496","PART I
+
+Item 1 Business.","4096","PART I","19005","PART I
+
+Item1.
+
+Business.","15680","PART I
+
+Item 1 Business.","false","false","true","false","true","false","false","false","false","false","none"
+"3NBFJK3IOJZO1ZA4U16WD93KPX1OGV","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3COPXFW7XETEA5GIPV9SOLWV01LKP5","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:55:13 PST 2023","Thu Dec 14 02:59:19 PST 2023","Sun Dec 17 02:59:19 PST 2023","","","","246","100% (1/1)","100% (1/1)","100% (1/1)","5","Selected Financial Data","25928","STOCK OPTION PLAN","11","4.0","3","9228","Item 6 Selected Financial Data.","3133","Item 6 Selected Consolidated Financial Data.","7433","ITEM 6 SELECTED FINANCIAL DATA.","25928","STOCK OPTION PLAN","27279","Item 6 SELECTED FINANCIAL DATA.","7050","ITEM 6 SELECTED FINANCIAL DATA.","4328","Item 6 Selected Consolidated Financial Data.","29923","Part 701: Inapplicable.
+
+<TABLE>
+
+<CAPTION>
+
+.
+
+ITEM 6 SELECTED FINANCIAL DATA.","7783","ITEM 6 Selected Financial Data.","16963","ITEM 6 SELECTED FINANCIAL DATA.","false","false","false","false","false","false","false","true","true","false",""
+"3E9ZFLPWO09PRZURLGTVHY7TGEYIXM","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3KWTYT0873KL11GHQGCF5F4TY1PL5N","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:00:22 PST 2023","Thu Dec 14 03:03:09 PST 2023","Sun Dec 17 03:03:09 PST 2023","","","","167","100% (1/1)","100% (1/1)","100% (1/1)","8","Part Iv Exhibits Consolidated Financial Statement Schedules","6165","</TABLE>","-1","","1","25675","PART IV
+
+Item 15 Exhibits and Financial Statement Schedules.
+
+(a) Financial Statements, Financial Statement Schedules and Exhibits.
+
+(1) Financial Statements (all financial statements listed below are of the Company and its consolidated subsidiaries):
+
+Consolidated Statements of Income for the years ended December 31, 2016, 2015 and 2014 contained in Item 8 hereof.","6165","</TABLE>","20721","PART IV
+
+Item 15 Exhibits and Financial Statement Schedules.
+
+(a) 1 and 2.","16686","PART IV
+
+Item 15 
+
+Exhibits, Financial Statement Schedules
+
+The following documents are filed as a part of this Annual Report on Form 10-K:
+
+(a) Financial Statements: The financial statements filed as a part of this report are listed in Part II, Item 8 
+
+(b) Financial Statement Schedules: The schedules are either not applicable or the required information is presented in the consolidated financial statements or notes thereto.
+
+(c) Exhibits:","8980","Item 8 Financial Statements.","25318","PART IV
+
+ITEM 14 Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+(a)","16207","Item 8 FINANCIAL STATEMENTS.","27867","PART IV
+
+Item 15 Exhibits, Financial Statement Schedules.","8829","PART IV
+
+ITEM 15 EXHIBITS, CONSOLIDATED FINANCIAL STATEMENT SCHEDULES","9712","ITEM 13 
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE
+
+Information with respect to this item will be set forth in our Proxy Statement, and is incorporated herein by reference.
+
+ITEM 14 
+
+PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+Information with respect to this item will be set forth in our Proxy Statement, and is incorporated herein by reference.
+
+PART IV
+
+ITEM 15 
+
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+(a) The following documents are filed as part of this report:
+
+(1) Financial Statements:
+
+(2) Financial Statement Schedules:
+
+None.
+
+(3) Exhibits:","false","false","false","false","false","false","true","false","false","false","none"
+"36FFXPMSTB521V5FE7OEY9FL4XEOHU","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3MD9PLUKKLV9WF3R9HZA7BFD4VWZN9","ATTYQD9FZL2MA","Submitted","Thu Dec 14 02:48:44 PST 2023","Thu Dec 14 03:23:41 PST 2023","Sun Dec 17 03:23:41 PST 2023","","","","2097","100% (9/9)","100% (9/9)","100% (9/9)","9","Security Ownership Of Certain Beneficial Owners And Management And Related Security Holder Matters A","21529","Item 3 Legal Proceedings.","1","6.0","4","16033","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.","8160","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.","20395","Item 12 Security Ownership of Certain Beneficial Owners and Management.","21542","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","21529","Item 3 Legal Proceedings.","21660","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL","15749","Item 12 Security Ownership of Certain Beneficial Owners and Management.","8669","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.","23577","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","6091","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.","false","false","false","false","true","false","false","false","false","false","Item 3 Legal Proceedings."
+"3R5LWXWHR2PBV8OWVSTSWMUD116XG9","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","338JKRMM29GGLB98UROYLYR89YHHAI","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:04 PST 2023","Thu Dec 14 02:57:29 PST 2023","Sun Dec 17 02:57:29 PST 2023","","","","505","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","26524","Item 1A RISK FACTORS.
+
+RISKS RELATED TO OUR BUSINESS","-1","","3","11823","DESCRIPTION>PROVISION OF SERVICES <TEXT>","29059","(S) 2.4. Notice Of Meetings.","14241","Basic Provisions.1
+
+Article 2.
+
+Additional Definitions.2
+
+Article 3.
+
+Demise Premises Term.6
+
+Article 4.
+
+Fixed Rent.6
+
+Article 5.
+
+Taxes.7
+
+Article 6.
+
+Utilities.9
+
+Article 7.
+
+Use of Premises Certificate of Occupancy.10
+
+Article 8.
+
+Compliance with Laws and Agreements.10
+
+Article 9.
+
+Hazardous Substances.11
+
+Article 10.
+
+Repairs.13
+
+Article 11.
+
+Changes Improvements Demolition New Construction.14
+
+Article 12.
+
+Liens and Violations.14
+
+Article 13.
+
+[Intentionally Omitted]
+
+Article 14.","26524","Item 1A RISK FACTORS.
+
+RISKS RELATED TO OUR BUSINESS","21161","Certifications.","7377","Prohibition on Employing or Contracting with Excluded Providers.","14247","2.17 [Intentionally Omitted]
+
+2.18","24348","Page F-3","12921","DESIGNATION AND AMOUNT.","25622","General Indemnifications","false","false","true","false","false","true","false","false","false","false","none"
+"3D17ECOUOGC2BVRFTK11IJ13SHN31G","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3IAEQB9FMH1WG8799010C2919PRDWG","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:56:11 PST 2023","Thu Dec 14 02:59:42 PST 2023","Sun Dec 17 02:59:42 PST 2023","","","","211","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","10224","See Corporate Integrity Agreement.","-1","","9","17832","Defaults.","1099","< PREFERRED> 0 <COMMON> 0","5840","Defined Terms.","754","SECTION 5.15 Compliance with Law.","16740","TERMINATION.","27461","SECTION 16(a) BENEFICIAL","3065","Item 1115(b) of Regulation AB.","8365","Power of Attorney.","1152","Fuel Adjustment Clause Litigation","10224","See Corporate Integrity Agreement.","false","false","false","false","false","true","false","false","false","false","none"
+"3AA88CN98RK5XZAPQF09DSTFAOHKY5","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","33PPO7FECYWEFDN4KJXLBB0TUETIDE","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:15 PST 2023","Thu Dec 14 03:02:15 PST 2023","Sun Dec 17 03:02:15 PST 2023","","","","180","100% (1/1)","100% (1/1)","100% (1/1)","2","B Other Information","17556","ARTICLE II
+
+THE CREDITS
+
+SECTION 2.01.
+
+COMMITMENTS.
+
+(a) TRANCHE A LOANS.","25","2.0","3","12590","Item 14(b).","26763","Item 9B OTHER INFORMATION.","14005","ITEM 9B OTHER INFORMATION.","17556","ARTICLE II
+
+THE CREDITS
+
+SECTION 2.01.
+
+COMMITMENTS.
+
+(a) TRANCHE A LOANS.","7404","Item 9B
+
+Other Information.","26014","EXHIBIT 10.47
+
+2.5 Interests in MUSICAM Express.","3213","ITEM 9B OTHER INFORMATION.","6829","Item 9B
+
+Other Information.","3551","Item 7(a).","21674","ITEM 9B OTHER INFORMATION.","false","false","false","false","false","false","false","false","false","true","none"
+"3DA79LNS5BC3KF3OV3LBOPKYK0DT3E","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3Z9WI9EOZ25MXOIU6I1NFCU4EABKH0","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:53:46 PST 2023","Thu Dec 14 02:58:50 PST 2023","Sun Dec 17 02:58:50 PST 2023","","","","304","100% (1/1)","100% (1/1)","100% (1/1)","23","A Controls And Procedures","19294","DEFINITIONS.3 Adjusted Capital Account.3 Adjusted
+
+Property.3 Affiliate.3 Agreed Allocation.3
+
+Agreed Value.3 Agreement.4
+
+Available","-1","","6","4082","Item 9A Controls and Procedures.
+
+(a) Evaluation of Disclosure Controls and Procedures.","29910","Item 9A Controls and Procedures.
+
+Item 9B
+
+Other Information.","23285","ITEM 9A Controls and Procedures.","12642","Item 9A Controls and Procedures.
+
+Evaluation of Disclosure Controls and Procedures.","24768","Item 9A Controls and Procedures.","3315","ITEM 9A CONTROLS AND PROCEDURES.
+
+Evaluation of Disclosure Controls and Procedures.","19294","DEFINITIONS.3 Adjusted Capital Account.3 Adjusted
+
+Property.3 Affiliate.3 Agreed Allocation.3
+
+Agreed Value.3 Agreement.4
+
+Available","26651","ITEM 9A CONTROLS AND PROCEDURES.","17256","Item 9A Controls and Procedures.","14004","ITEM 9A CONTROLS AND PROCEDURES.","false","false","false","false","true","false","false","false","false","false","none"
+"3DW3BNF1GJZ4Y4DJCFGMGOGUX7LV8O","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3OLQQLKKNV6F2ULAYWT5TUXE75JEJF","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:45 PST 2023","Thu Dec 14 03:00:55 PST 2023","Sun Dec 17 03:00:55 PST 2023","","","","1090","100% (10/10)","100% (10/10)","100% (10/10)","2","B Other Information","13245","Henry S. Savedge, Jr.
+
+----------------------------- Name:
+
+Henry S. Savedge, Jr.","-1","","6","5924","Item 9B
+
+Other Information.","24695","41. Security Measures.","28169","ITEM 9B
+
+Other Information.","15612","Item 9B
+
+Other Information.","13661","Item 9B
+
+Other Information.","15931","Item 9B
+
+Other Information.","13245","Henry S. Savedge, Jr.
+
+----------------------------- Name:
+
+Henry S. Savedge, Jr.","23573","Item 9A(T).","17998","Item 9B
+
+Other Information.","13646","Item 9B
+
+Other Information.","false","false","false","false","false","false","true","false","false","false","The group of sentences without the marked omission would be related to ""ITEM 9B Other Information"" and ""41. Security Measures."
+"3SV8KD29L6952PKUM12SRZ2HGILKZW","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3GDTJDAPVXSOU1H4OQKXHCT90WG8ME","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:54:54 PST 2023","Thu Dec 14 02:59:14 PST 2023","Sun Dec 17 02:59:14 PST 2023","","","","260","100% (1/1)","100% (1/1)","100% (1/1)","20","A Quantitative And Qualitative Disclosures About Market Risk","23178","Yes X(1)","30","16.0","8","15956","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+Not applicable
+
+.
+
+ITEM 8 FINANCIAL STATEMENTS.","23942","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES OF MARKET RISK.","12639","See Note 10 of Notes to Financial Statements.
+
+Item 7A Quantitative and Qualitative Disclosures About Market Risk.","17344","Item 7A Quantitative and Qualitative Disclosures About Market Risk.","28494","See Disclosure Regarding Forward-Looking Statements.","29932","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.","25034","Item 7A Quantitative and Qualitative Disclosures About Market Risk.","10485","ITEM 7a QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.","23178","Yes X(1)","26622","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.","false","true","false","false","true","false","false","false","false","false","none"
+"3WRKFXQBODOER4K1QCFX0CE2IKSIYS","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3WQ3B2KGEBXA0ATMYGL9OMV7AR6B18","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:07 PST 2023","Thu Dec 14 03:01:56 PST 2023","Sun Dec 17 03:01:56 PST 2023","","","","169","100% (1/1)","100% (1/1)","100% (1/1)","7","Principal Accountant Fees And Services","6216","Interest Expense.","25","2.0","2","30069","ITEM 14 PRINCIPAL ACCOUNTANT FEES AND SERVICES.","301","Item 14 Principal Accountant Fees And Services.","6216","Interest Expense.","1609","Item 14 Principal Accounting Fees and Services.","20062","ITEM 14 PRINCIPAL ACCOUNTING FEES AND SERVICES.","24137","ITEM 14 PRINCIPAL ACCOUNTANT FEES AND SERVICES.","24295","ITEM 14 Principal Accounting Fees and Services.","16884","Item 14 Principal Accounting Fees and Services.","29757","Item 14 Principal Accountant Fees and Services.","16317","2.4 EXPENSE REIMBURSEMENT.","false","false","false","false","false","true","false","false","false","false","none"
+"3A9LA2FRWUVPV4J7FYBAHM6EG1JXH8","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3VHHR074H6Y0O5U0E9RC3ZIPP7K7LO","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:38 PST 2023","Thu Dec 14 02:54:09 PST 2023","Sun Dec 17 02:54:09 PST 2023","","","","331","100% (1/1)","100% (1/1)","100% (1/1)","10","Description Exhibit","19085","Accounting Standards Codification Topic 280-","-1","","7","15552","Item 601 Exhibits
+
+Reference is hereby made to the Index of Exhibits under Item 15(a)(3) of Part IV of this report.","25925","BASIS OF PRESENTATION","12615","URSTADT BIDDLE PROPERTIES","26286","Exhibit No.","1429","Exhibit Description
+
+10.5(a)","22628","Basis of Presentation-","13184","EXHIBIT 9-","19085","Accounting Standards Codification Topic 280-","4204","Exhibit
+
+Number
+
+Exhibit Description
+
+10.17.2","3679","Exhibit F- Intentionally Deleted
+
+7.
+
+Exhibit G-
+
+Intentionally Deleted
+
+8.
+
+Exhibit H-","false","false","false","false","false","true","false","false","false","false","good"
+"3ECKRY5B1SDEWUU6MYHGEJN4OEWIZJ","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","304SM51WA6LAUUSGBZ0TKNIG0RJSB9","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:57:46 PST 2023","Thu Dec 14 03:00:58 PST 2023","Sun Dec 17 03:00:58 PST 2023","","","","192","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","23758","$ 8,708,947 $11,832,338 Gross Profit.
+
+$ 105,868 $ 101,651 Net Income(1).","-1","","8","3864","Bylaws 31 Sec.","20478","Reclassifications","7057","Exchange Warrants","28320","Substandard.","763","SECTION 6.01 General Covenants.","27637","Contingencies","12232","Exceptions: None.
+
+(B)","28","No. 106 (""SAB 106"").","23758","$ 8,708,947 $11,832,338 Gross Profit.
+
+$ 105,868 $ 101,651 Net Income(1).","17056","In accordance with FASB Staff Position No.","false","false","false","false","false","true","false","false","false","false","none"
+"3Z33IC0JC234C9WTH7M0GKB5HD3V9D","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3WS1NTTKE1T062KK7Z35T73IKXSF0R","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:00 PST 2023","Thu Dec 14 02:57:12 PST 2023","Sun Dec 17 02:57:12 PST 2023","","","","492","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","6473","RELATIONSHIP OF PARTIES.","-1","","9","2891","Code of Ethics.","26215","Description of Lease Agreements.","3046","COMMITMENTS
+
+Operating leases.","25203","Notice of Environmental Complaint or Condition.","4976","B. By-Laws of Registrant, as Amended.","11577","Item 1115(b) of Regulation AB.
+
+Certain Derivatives Instruments (Financial Information).","20007","( SFAS No. 159 ).","7374","Federal False Claims Acts.","12173","Expansion of Classes.","6473","RELATIONSHIP OF PARTIES.","false","false","true","false","false","true","false","true","false","false","none"
+"32XN26MTX10JKAWM371100CANB7L08","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3AAJC4I4FJ9DDPC6UJ7IE4YWVBSJZQ","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:42 PST 2023","Thu Dec 14 02:55:12 PST 2023","Sun Dec 17 02:55:12 PST 2023","","","","390","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","24113","ITEM 2 PROPERTIES.","22","15.0","1","22533","NOTE 7 NON-CONTROLLING INTEREST","24113","ITEM 2 PROPERTIES.","10362","All Other Fees.","23743","Impairment of Assets.","27346","Long-term Investments.","2305","INCOME TAXES (CONTINUED)
+
+16.","11304","Investment in Affiliate","27710","Fixed Rate Debt Obligations (1).","4159","Selling, Operations and Administration Expense.","8588","INTEREST INCOME.","false","false","false","true","false","true","false","false","false","false","none"
+"3J9UN9O9J59DPK8M0MPOKLZIJM2J04","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","39GXDJN2OWV7KOBD2ILO48CMRPSV8I","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:57:32 PST 2023","Thu Dec 14 03:00:44 PST 2023","Sun Dec 17 03:00:44 PST 2023","","","","192","100% (1/1)","100% (1/1)","100% (1/1)","14","Global Crossing Ltd S Dan J Cohrs","10659","ITEM 2 PROPERTIES.","22","15.0","2","24798","Matthew A. Engel Matthew A. Engel, Controller
+
+/s/","24892","By Mail, Inc. (collectively, Gump s )
+
+(See Note 4).","10659","ITEM 2 PROPERTIES.","12927","THE TIMES MIRROR COMPANY","17804","DYNEX CAPITAL, INC. 2001","27549","AOCI","7033","/s/ TAAD LLP","1159","Palisades","1121","Anthony International Acquisition","25569","Eldorado Limited Liability Company and Galleon, Inc.","false","false","false","false","true","false","false","false","false","false","none"
+"389A2A304QZQH62GQU82XHMNT2U0C8","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3DR23U6WE8V9GXHFAQ79V0KN57AETK","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:46:39 PST 2023","Thu Dec 14 03:06:12 PST 2023","Sun Dec 17 03:06:12 PST 2023","","","","1173","100% (10/10)","100% (10/10)","100% (10/10)","25","Interest Income","22958","5.02 THIRD PARTY APPROVALS.","-1","","9","23218","Other Income/Expense.","25818","Depreciation and Amortization.","12702","Assets","4287","Income Taxes.","26306","Mortgage Payments
+
+1.","9536","ALLOWANCE FOR DOUBTFUL ACCOUNTS-","11412","See Notes 8 and 13.
+
+Commitments and Contingencies and Subsequent Events.
+
+Fair Value of Financial Instruments.","27291","Short-Term Investments","28508","Tax Increment Financing Bond","22958","5.02 THIRD PARTY APPROVALS.","false","false","false","false","false","false","false","false","false","true","The group of sentences without the marked omission would be related to financial elements, such as ""Other Income/Expense,"" ""Depreciation and Amortization,"" ""Assets,"" ""Income Taxes,"" ""Mortgage Payments 1,"" ""ALLOWANCE FOR DOUBTFUL ACCOUNTS-,"" ""See Notes 8 and 13. Commitments and Contingencies and Subsequent Events,"" ""Fair Value of Financial Instruments,"" ""Short-Term Investments,"" ""Tax Increment Financing Bond."
+"3XUSYT70IVI0MY8UQQ3DHN45E260D8","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:38 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:38 PST 2023","","","3JAOYWH7VLL42OITT6PWHV9VKX89L2","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:46:41 PST 2023","Thu Dec 14 03:09:47 PST 2023","Sun Dec 17 03:09:47 PST 2023","","","","1386","100% (10/10)","100% (10/10)","100% (10/10)","5","Selected Financial Data","16173","2- SIGNIFICANT ACCOUNTING POLICIES
+
+PRINCIPLES OF CONSOLIDATION","-1","","7","24169","Item 6 Selected Financial Data.","20531","ITEM 6 SELECTED FINANCIAL DATA.","21566","TABLE OF CONTENTS 
+
+.
+
+ITEM 6 SELECTED FINANCIAL DATA.","16926","Item 6 Selected Financial Data.","24046","ITEM 6 SELECTED FINANCIAL DATA.","6875","ITEM 6 SELECTED FINANCIAL DATA.","4428","Item 6 Selected Financial Data.","16173","2- SIGNIFICANT ACCOUNTING POLICIES
+
+PRINCIPLES OF CONSOLIDATION","21189","ITEM 6 SELECTED FINANCIAL DATA.","24958","ITEM 6 SELECTED FINANCIAL DATA.","false","false","false","false","false","false","false","true","false","false","The group of sentences without the marked omission would be related to ""ITEM 6 SELECTED FINANCIAL DATA"" and similar variations."
+"3ZLW647WANC90G9BCO1FN2B8KN132X","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3E47SOBEYTD4ALHQKN2AR5IB9EHICE","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:06 PST 2023","Thu Dec 14 03:01:49 PST 2023","Sun Dec 17 03:01:49 PST 2023","","","","163","100% (1/1)","100% (1/1)","100% (1/1)","13","Certain Relationships And Related Transactions","24152","GMP Certificates.","-1","","7","14408","See the Relief Letter.
+
+Item 13 Certain Relationships and Related Transactions.","21254","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.","7589","RELATED PARTY TRANSACTIONS","966","Item 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS--
+
+Information concerning certain relationships and transactions is incorporated herein by reference from the Company s definitive Proxy Statement for the 1997 Annual Meeting of Stockholders.","26445","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","25325","Item 13 Certain Relationships and Related Transactions.","14060","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.","24152","GMP Certificates.","5164","Item 13 Certain Relationships and Related Transactions.","24136","ITEM 13 CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS, AND DIRECTOR INDEPENDENCE.","false","false","false","true","false","false","false","false","false","false","none"
+"3IVEC1GSLRGDW9T4W5TOYQISOE8J17","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","39JEC7537XI9WR1QJU1T6U85HGDVCO","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:59:42 PST 2023","Thu Dec 14 03:02:42 PST 2023","Sun Dec 17 03:02:42 PST 2023","","","","180","100% (1/1)","100% (1/1)","100% (1/1)","23","A Controls And Procedures","4725","Section 17.2.
+
+USURY LAWS.","-1","","5","10530","ITEM 9A CONTROLS AND PROCEDURES.","14346","ITEM 9A CONTROLS AND PROCEDURES.
+
+(a) Evaluation of Disclosure Controls and Procedures
+
+The Company carried out an assessment, under the supervision and with the participation of the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the Company s disclosure controls and procedures (as defined in the Securities Exchange Act of 1934 Rules 13a-15(e) and 15d-15(e)) as of March 31, 2007.","1753","ITEM 9A CONTROLS AND PROCEDURES.","14404","Item 9A Controls and Procedures.","8047","9. CHANGE IN CONTROL.","4725","Section 17.2.
+
+USURY LAWS.","24252","Item 9A Controls and Procedures.","8361","Item 9A Controls and Procedures.","5978","ITEM 9A CONTROLS AND PROCEDURES.","3516","Item 9A Controls and Procedures.","false","false","true","false","false","false","false","false","false","false","none"
+"3AFT28WXLHJ2XQGZKP6ZYLG04ATOIN","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3NS0A6KXC7P3MNM5MDMFHR6G3JBGZJ","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:33:24 PST 2023","Thu Dec 14 03:34:27 PST 2023","Sun Dec 17 03:34:27 PST 2023","","","","63","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","25934","ITEM 1 BUSINESS.
+
+1 Industry Background. 2
+
+The Companies.
+
+3 Products and Services.
+
+4 The DG Systems Network.
+
+5 The StarGuide Network.
+
+6 Markets and Customers.
+
+8 Sales, Marketing and Customer Service.
+
+9 Competition.
+
+11 Intellectual Property and Proprietary Rights.
+
+12 Employees.
+
+13 .
+
+ITEM 2 PROPERTIES.
+
+13 .
+
+ITEM 3 LEGAL PROCEEDINGS.","-1","","0","25934","ITEM 1 BUSINESS.
+
+1 Industry Background. 2
+
+The Companies.
+
+3 Products and Services.
+
+4 The DG Systems Network.
+
+5 The StarGuide Network.
+
+6 Markets and Customers.
+
+8 Sales, Marketing and Customer Service.
+
+9 Competition.
+
+11 Intellectual Property and Proprietary Rights.
+
+12 Employees.
+
+13 .
+
+ITEM 2 PROPERTIES.
+
+13 .
+
+ITEM 3 LEGAL PROCEEDINGS.","769","SECTION 6.08 Exclusivity.","30048","Legal Contingencies.","14503","SECTION 5.11.
+
+Negative Pledge.","15573","Sotatercept Agreement.","12395","SECTION 2.4.","29744","Reinsurance.","18055","Reclassifications","6141","(CONTINUED)
+
+21.","10268","10.21* Amendment No.","false","false","false","false","false","true","false","false","false","false","none"
+"3CO05SML7XMUN8RZ8RYXMCL9T3WR04","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","38F71OA9GWDX9GRRW4Q3R4AVN0TFM2","ATTYQD9FZL2MA","Submitted","Thu Dec 14 02:54:54 PST 2023","Thu Dec 14 02:55:32 PST 2023","Sun Dec 17 02:55:32 PST 2023","","","","38","100% (9/9)","100% (9/9)","100% (9/9)","22","Properties","18010","NOTE 6 CONVERTIBLE NOTES PAYABLE
+
+Convertible notes","-1","","1","27659","ITEM 2 PROPERTIES.","18010","NOTE 6 CONVERTIBLE NOTES PAYABLE
+
+Convertible notes","27579","Item 2 Properties.","3962","Item 2 Properties.","15639","ITEM 2 PROPERTIES.","13653","Item 2 Properties.","3528","Item 2 PROPERTIES.","11484","ITEM 2 PROPERTIES.","9356","Item 2 Properties.","23997","Item 2 Properties.","false","true","false","false","false","false","false","false","false","false","Convertible notes"
+"3ATYLI1PRVJYS10527RZAMV0HPIOJZ","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3TXWC2NHN27R61DJDFMXTHNQCRGS9Z","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:56:32 PST 2023","Thu Dec 14 02:59:58 PST 2023","Sun Dec 17 02:59:58 PST 2023","","","","206","100% (1/1)","100% (1/1)","100% (1/1)","30","Yes X","7587","Case No.
+
+CR 01-1696-TUC-RCC.","-1","","1","6172","YES","7587","Case No.
+
+CR 01-1696-TUC-RCC.","564","Yes","9477","YES","2026","Yes[ ]","27653","YES","24545","Yes X","8614","Yes","27313","Yes","12413","Yes","false","false","false","false","true","false","false","false","false","false","none"
+"31J7RYECZN7JRZH4ZQ51E5VKS3DL1B","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3HVVDCPGTH97M2Y6ARJ323C3NJFYTJ","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:33:01 PST 2023","Thu Dec 14 03:34:00 PST 2023","Sun Dec 17 03:34:00 PST 2023","","","","59","100% (1/1)","100% (1/1)","100% (1/1)","30","Yes X","2962","9,681 11,699 </TABLE>
+
+<TABLE>","-1","","8","7312","Yes","11084","YES /X/","27654","YES (x) NO","8545","Yes |X|","3130","YES X","27577","(1) Yes X No (2)","21608","Yes","7012","Yes","2962","9,681 11,699 </TABLE>
+
+<TABLE>","13036","Yes X","false","false","false","true","false","false","false","false","true","false","none"
+"322ZSN9Z5I1O2BMSVHQUYUC4Y09T4Z","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","339ANSOTR8JMTJTEC0J8FOVJENQKIT","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:54:11 PST 2023","Thu Dec 14 02:59:07 PST 2023","Sun Dec 17 02:59:07 PST 2023","","","","296","100% (1/1)","100% (1/1)","100% (1/1)","19","Affirmative Covenants","12559","TERMINATION
+
+4.1 EVENTS OF TERMINATION.","-1","","5","10891","Amendments.","26351","Provisions of the D&O Agreement.","18165","Section 2.8 Conduct of Business.","26107","Contingencies.","2289","Side Letter Agreement with Coventry Enterprises, LLC","12559","TERMINATION
+
+4.1 EVENTS OF TERMINATION.","4399","13.4 Rule 16b-3","16304","3.4 DEATH.","12009","SECTION 4 Participation
+
+a) EMPLOYEES.","29997","F-16 
+
+9. LEASING ACTIVITIES","false","true","false","false","false","false","false","false","false","false","none"
+"34F34TZU7YGKLUB0F9T239SXGKMJ2O","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3QL2OFSM99ZWOMSHH3F2WDESVDBCNO","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:02 PST 2023","Thu Dec 14 02:57:20 PST 2023","Sun Dec 17 02:57:20 PST 2023","","","","498","100% (1/1)","100% (1/1)","100% (1/1)","15","Part I Business","7067","*
+
+PRE
+
+XBRL Taxonomy Extension Presentation Linkbase.","-1","","7","6696","Item 1 Business is divided into the following sections:
+
+ 
+
+Overview
+
+ 
+
+Business Strategies
+
+ 
+
+Competitive Strengths
+
+ 
+
+Our Midstream Assets
+
+ 
+
+Regulation of the Natural Gas and Crude Oil Industries
+
+ 
+
+Environmental Matters
+
+ 
+
+Other Information
+
+Overview
+
+We are a growth-oriented limited partnership focused on developing, owning and operating midstream energy infrastructure assets that are strategically located in the core producing areas of unconventional resource basins, primarily shale formations, in the continental United States.","7199","Item 1 Description of Business.","14759","PART I
+
+ITEM 1 Business.","9695","PART I
+
+ITEM 1 
+
+BUSINESS
+
+Our Company","26031","See .
+
+Item 1 Business.
+
+Employees.","23157","See .
+
+Item 1 Business.","27273","PART 1
+
+.
+
+Item 1 BUSINESS.","7067","*
+
+PRE
+
+XBRL Taxonomy Extension Presentation Linkbase.","17366","PART I
+
+Item 1 Business.","8780","PART I
+
+ITEM 1 BUSINESS.","false","false","false","true","false","false","true","false","false","false","none"
+"3E9ZFLPWO09PRZURLGTVHY7TGEYXI1","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3PJUZCGDJ9X9NHYAZHGSCQNP0X998G","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:38 PST 2023","Thu Dec 14 02:52:23 PST 2023","Sun Dec 17 02:52:23 PST 2023","","","","585","100% (10/10)","100% (10/10)","100% (10/10)","1","Legal Proceedings","17551","Notices.61 SECTION 9.02.
+
+Waivers Amendments.63 SECTION 9.03.
+
+Expenses Indemnity Damage Waiver.64
+
+iii 
+
+SECTION 9.04.
+
+Successors and Assigns.65 SECTION 9.05. Survival.67 SECTION 9.06.
+
+Counterparts Integration Effectiveness.68 SECTION 9.07.
+
+Severability.68 SECTION 9.08.
+
+Right of Setoff.68 SECTION 9.09.","-1","","8","9178","4 | Page
+
+.
+
+ITEM 3 LEGAL PROCEEDINGS.","14931","ITEM 3 LEGAL PROCEEDINGS.","27276","Item 3 LEGAL PROCEEDINGS.","25330","Item 3 Legal Proceedings.","11714","ITEM 2 Properties.10 .
+
+ITEM 3 Legal Proceedings.11 .
+
+ITEM 4 Submission of Matters to a Vote of Security Holders.
+
+*
+
+PART II ITEM 5 Market.","21113","Item 3 Legal Proceedings.
+
+","11213","ITEM 3 LEGAL PROCEEDINGS.","17880","ITEM 3 LEGAL PROCEEDINGS.","17551","Notices.61 SECTION 9.02.
+
+Waivers Amendments.63 SECTION 9.03.
+
+Expenses Indemnity Damage Waiver.64
+
+iii 
+
+SECTION 9.04.
+
+Successors and Assigns.65 SECTION 9.05. Survival.67 SECTION 9.06.
+
+Counterparts Integration Effectiveness.68 SECTION 9.07.
+
+Severability.68 SECTION 9.08.
+
+Right of Setoff.68 SECTION 9.09.","13069","Item 3 LEGAL PROCEEDINGS.","false","false","false","false","true","false","false","false","false","false","The group of sentences without the marked omission would be related to ""Item 3 LEGAL PROCEEDINGS."
+"3ICOHX7ENES5E4MUMLEXN5MQEE70E1","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3QY7M81QHA3P4ZCIT9FBOZ5A07F7KL","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:36 PST 2023","Thu Dec 14 02:53:57 PST 2023","Sun Dec 17 02:53:57 PST 2023","","","","321","100% (1/1)","100% (1/1)","100% (1/1)","26","Management S Discussion And Analysis Of Financial Condition And Results Of Operations","14116","<CAPTION>
+
+September 30,
+
+-----------------------
+
+ASSETS 2000 1999
+
+--------
+
+CURRENT ASSETS:","12","26.0","3","1014","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","11003","ITEM 7 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","6041","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.
+
+","14116","<CAPTION>
+
+September 30,
+
+-----------------------
+
+ASSETS 2000 1999
+
+--------
+
+CURRENT ASSETS:","15487","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","24925","Item 7 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operation.","2059","ITEM 7 MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.","25760","ITEM 7
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Certain statements in this Management s Discussion and Analysis of Financial Condition and Results of Operations which are not historical facts are forward-looking statements such as statements relating to future operating results, existing and expected competition, financing and refinancing sources and availability and plans for future development or expansion activities and capital expenditures.","19905","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operations.","12082","Item 7 Management s Discussion and Analysis of Financial Condition and Results of Operation.","false","false","false","false","true","false","false","false","false","false","good"
+"3UUIU9GZC7M6YUQS9M943MIIYW4T54","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3EJPLAJKEPX1PUXZA0DT50TR9586Z7","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:35 PST 2023","Thu Dec 14 02:49:59 PST 2023","Sun Dec 17 02:49:59 PST 2023","","","","444","100% (10/10)","100% (10/10)","100% (10/10)","16","Service Providers","14324","2- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)","6","23.0","5","28185","See Item 1 Business- Network facilities.","309","Emphasizing Customer Satisfaction and Loyalty.","8501","Competition.","26945","Smart Energy Management.","4108","MPLS IP-VPN Services.","14324","2- SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (Continued)","15683","Servicing.","9300","Logistics","11586","Waste Disposal.","4098","Bundled Services Approach.","false","false","false","false","false","true","false","false","false","false","The group of sentences without the marked omission would be related to the business, network facilities, customer satisfaction, loyalty, competition, smart energy management, MPLS IP-VPN services, servicing, logistics, waste disposal, and bundled services approach."
+"3JAOYN9IHNJYLY5UGOFK6CG0Q11338","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3EF8EXOTT4CGITRYM8YQMAEKIWF1JJ","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:37 PST 2023","Thu Dec 14 02:51:13 PST 2023","Sun Dec 17 02:51:13 PST 2023","","","","516","100% (10/10)","100% (10/10)","100% (10/10)","2","B Other Information","726","27
+
+SECTION 8.01 Conditions to Obligation of Buyer.
+
+27 SECTION 8.02 Conditions to Obligation of Seller.
+
+30
+
+ARTICLE IX INDEMNIFICATION.
+
+32
+
+SECTION 9.01 Survival.
+
+32 SECTION 9.02 Indemnification Provisions for Benefit of Buyer.
+
+32 SECTION 9.03 Cash Escrow.
+
+33 SECTION 9.04 Indemnification Provisions for Benefit of Seller.
+
+33 SECTION 9.05 Other Indemnification Provisions.
+
+33 SECTION 9.06 Matters Involving Third Parties.
+
+34 SECTION 9.07 Limitations.","-1","","7","12065","Item 9B
+
+Other Information.","2241","ITEM 9B OTHER INFORMATION.","16833","Item 9B
+
+Other Information.","827","6. Third Party Information.","24127","ITEM 9B OTHER INFORMATION.","19064","Item 9B
+
+Other Information.","12891","INFORMATION","726","27
+
+SECTION 8.01 Conditions to Obligation of Buyer.
+
+27 SECTION 8.02 Conditions to Obligation of Seller.
+
+30
+
+ARTICLE IX INDEMNIFICATION.
+
+32
+
+SECTION 9.01 Survival.
+
+32 SECTION 9.02 Indemnification Provisions for Benefit of Buyer.
+
+32 SECTION 9.03 Cash Escrow.
+
+33 SECTION 9.04 Indemnification Provisions for Benefit of Seller.
+
+33 SECTION 9.05 Other Indemnification Provisions.
+
+33 SECTION 9.06 Matters Involving Third Parties.
+
+34 SECTION 9.07 Limitations.","24342","ITEM 9B OTHER INFORMATION.","29553","-98- NOTE
+
+28- SUPPLEMENTAL CONDENSED","false","false","false","true","false","false","false","false","false","false","The group of sentences without the marked omission would be related to ""Item 9B Other Information"" and additional sections such as ""27 SECTION 8.01 Conditions to Obligation of Buyer,"" ""27 SECTION 8.02 Conditions to Obligation of Seller,"" and so on."
+"3087LXLJ6OXXKIMQHWY35N7QQFM0FJ","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","39DD6S19JSS529QEGIWRHOL4Q3WEZ0","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:48:50 PST 2023","Thu Dec 14 02:56:19 PST 2023","Sun Dec 17 02:56:19 PST 2023","","","","449","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","15522","ITEM 1A RISK FACTORS.","29","25.0","7","14462","Maturity of Loans.","2080","FINANCING ACTIVITIES.","24868","Income Taxes.","22616","Permanent Financing.","21585","INCOME TAXES (Continued)","20214","III. DISBURSEMENTS
+
+1.","6968","Impairment of Goodwill and Intangible Assets.","15522","ITEM 1A RISK FACTORS.","3119","Tax Fees.","26045","Interest Rate Risk.","false","false","true","false","false","true","false","false","false","false","none"
+"382GHPVPHU8J3UOYG2K3GH8641X34T","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3A1PQ49WVKYKRNW8Y8V5AXY554B1HE","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:41:02 PST 2023","Thu Dec 14 02:53:04 PST 2023","Sun Dec 17 02:53:04 PST 2023","","","","722","100% (1/1)","100% (1/1)","100% (1/1)","16","Service Providers","13412","DEPENDENCE ON KEY PERSONNEL.","-1","","7","25698","Wireless Communication Companies","29639","COMPETITION.","22435","Progress Tracking Tools.","19576","Comprehensive Technology Strategy.","567","Consumer Laws and Regulations","22442","Financial Support Services.","12265","x. EFFECT OF EXISTING AND PROBABLE GOVERNMENTAL REGULATIONS.","13412","DEPENDENCE ON KEY PERSONNEL.","29352","Sales and Marketing","2972","Competition.","false","false","false","false","true","false","false","false","false","false","good"
+"3BAKUKE49JTUUXCH4A2X0H4JYV2R17","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","32AT8R96GOQPQT1MBQHOPDA4PCPUSR","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:46:40 PST 2023","Thu Dec 14 03:06:40 PST 2023","Sun Dec 17 03:06:40 PST 2023","","","","1200","100% (10/10)","100% (10/10)","100% (10/10)","9","Security Ownership Of Certain Beneficial Owners And Management And Related Security Holder Matters A","9031","Capital Requirements.","-1","","8","24980","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.
+
+AND RELATED STOCK MATTERS","23952","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.","2472","Item 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS.","5608","Item 12 Security Ownership of Certain Beneficial Owners and Management.","3810","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+
+For information with respect to the security ownership of directors, executive officers and holders of more than 5% of a class of NCM, Inc. s voting securities, refer to NCM, Inc.","17840","Item 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.","3861","ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.","15907","Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.","9031","Capital Requirements.","27864","Item 12 Security Ownership of Certain Beneficial Owners and Management.","false","false","false","false","false","false","false","false","true","false","The group of sentences without the marked omission would be related to ""ITEM 12 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS."
+"3MDKGGG61S42HYQ6E5J9VSWIURFT6K","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3GGAI1SQEYFQ647H5202JYPSQN1CMO","ATTYQD9FZL2MA","Submitted","Thu Dec 14 02:48:43 PST 2023","Thu Dec 14 03:21:49 PST 2023","Sun Dec 17 03:21:49 PST 2023","","","","1986","100% (9/9)","100% (9/9)","100% (9/9)","21","Part Ii Market","5344","Properties Held for Divestiture.","-1","","6","5553","Part
+
+I I
+
+Item 5 Market.","25538","PART II
+
+ITEM 5 MARKET.","16820","PART II
+
+Item 5 Market.","19133","12
+
+PART II ITEM 5 Market.
+
+for Registrant s Units and Related Unitholder Matters.
+
+12 .
+
+ITEM 6 Selected Financial Data.","27278","PART II
+
+Item 5 MARKET.","5073","11
+
+PART II
+
+Item 5 Market.","5344","Properties Held for Divestiture.","23049","PART II
+
+ITEM 5 MARKET.","2502","PART II
+
+Item 5 Market.","28489","PART II
+
+ITEM 5 MARKET.","false","false","false","false","false","false","true","false","false","false","Properties Held for Divestiture."
+"35F6NGNVMA0LLY4BXFO116WEP2ZT7J","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3NPFYT4IZFLEHSMQLVYUK6Q5VJCXG2","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:46 PST 2023","Thu Dec 14 03:03:19 PST 2023","Sun Dec 17 03:03:19 PST 2023","","","","1233","100% (10/10)","100% (10/10)","100% (10/10)","11","Stock Incentive Plan","12619","(13) SUBSEQUENT EVENTS","-1","","1","26908","Consideration for Shares.","12619","(13) SUBSEQUENT EVENTS","22302","10.11- Supplemental Employee Retirement Plan.","28233","RETIREMENT PLANS (Continued)","232","STOCK-BASED COMPENSATION-","16846","10.8* Summary of Directors Ongoing Compensation.","2112","Employee Stock Purchase Plan.","3088","Cash-Based Compensation.","4294","The 1996 Nonqualified Performance Stock Option Plan.","21035","1995 Stock Incentive Plan of the Company.","false","true","false","false","false","false","false","false","false","false","The group of sentences without the marked omission would be related to various compensation plans, including ""Consideration for Shares,"" ""10.11- Supplemental Employee Retirement Plan,"" ""RETIREMENT PLANS (Continued),"" ""STOCK-BASED COMPENSATION-,"" ""10.8* Summary of Directors Ongoing Compensation,"" ""Employee Stock Purchase Plan,"" ""Cash-Based Compensation,"" ""The 1996 Nonqualified Performance Stock Option Plan,"" and ""1995 Stock Incentive Plan of the Company."
+"3N3WJQXELU7QGKZ0IU5FJO5PK9RL2S","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3TDXMTX3CEBFU48PAWP755Q1DS6I6M","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:56:59 PST 2023","Thu Dec 14 03:00:23 PST 2023","Sun Dec 17 03:00:23 PST 2023","","","","204","100% (1/1)","100% (1/1)","100% (1/1)","10","Description Exhibit","9425","EMPLOYEE 401(K)","-1","","0","9425","EMPLOYEE 401(K)","17974","Exhibit 4.6*","1430","Exhibit Description
+
+10.10(e)","24445","EXHIBITS:
+
+39.","14445","Exhibit 3.","25440","PAGE 14 Exhibit Document
+
+Number Description
+
+10(i)","8040","<CAPTION> EXHIBIT NO. DESCRIPTION---","18624","------------- <TABLE>
+
+<CAPTION> Exhibit No.","8416","Description of Exhibit Form Exhibit No.","9152","Exhibit No.","false","false","false","false","false","false","false","true","true","false",""
+"3OYHVNTV5VFT3L6NKSRBB1VDWEIOKY","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3AAJC4I4FJ9DDPC6UJ7IE4YWVBRZJ5","ATTYQD9FZL2MA","Submitted","Thu Dec 14 02:48:09 PST 2023","Thu Dec 14 02:54:54 PST 2023","Sun Dec 17 02:54:54 PST 2023","","","","405","100% (9/9)","100% (9/9)","100% (9/9)","4","Part Iii Directors And Executive Officers Of The Registrant","27609","ITEM 3 LEGAL PROCEEDINGS.
+
+LITIGATION","1","6.0","9","10471","Supplementary Data.
+
+Item 9A Controls and Procedures.
+
+PART III
+
+Item 10 Directors, Executive Officers and Corporate Governance.
+
+Item 11 Executive Compensation.
+
+Item 12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.
+
+Item 13 Certain Relationships and Related Transactions, and Director Independence.
+
+Item 14 Principal Accountant Fees and Services.
+
+PART IV
+
+Item 15 Exhibits and Financial Statement Schedules.","7739","ITEM 9B OTHER INFORMATION
+
+None.
+
+ITEM 10 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE
+
+Directors and Executive Officers
+
+Our current directors and executive officers are as follows:
+
+Thomas O. Hicks our founder, has been our chairman of the board since our inception.","18306","PART III
+
+ITEM 10 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.","5108","Registration Statement No. 33-66158).","26676","PART III
+
+Item 10 Directors, Executive Officers and Corporate Governance.","23162","PART III
+
+ITEM 10 DIRECTORS, EXECUTIVE OFFICERS, AND CORPORATE GOVERNANCE.","11391","PART III
+
+ITEM 10 Directors, Executive Officers and Corporate Governance.","24903","PART III
+
+Item 10 Directors and Executive Officers of the Registrant.
+
+(a)
+
+Identification of Directors
+
+The following sets forth certain information regarding the current directors of the Company as of the date hereof:
+
+Name
+
+Age
+
+Title and Other Information
+
+Director
+
+Since
+
+Robert H. Masson
+
+Mr. Masson served as Senior Vice President, Finance and Administration and Vice President and Chief Financial Officer of Parsons & Whittemore, Inc., a global pulp and paper manufacturer, from May 1990 until his retirement June 30, 2002.","26379","PART III
+
+ITEM 10 DIRECTORS, EXECUTIVE OFFICERS AND CORPORATE GOVERNANCE.","27609","ITEM 3 LEGAL PROCEEDINGS.
+
+LITIGATION","false","false","false","false","false","false","false","true","false","false","Administration and Vice President and Chief Financial Officer of Parsons & Whittemore, Inc."
+"3EN4YVUOUE9LMAEX3YEVTZMTTTNXJD","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3AMW0RGHOGJFIB1LM818GDDZUWQPNF","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:55:57 PST 2023","Thu Dec 14 02:59:35 PST 2023","Sun Dec 17 02:59:35 PST 2023","","","","218","100% (1/1)","100% (1/1)","100% (1/1)","6","Summary Of Significant Accounting Policies Continued","187","Niche Marketing.","16","1.0","3","2298","SUMMARY
+
+OF SIGNIFICANT ACCOUNTING POLICIES (CONTINUED)","5062","Changes In Internal Control Over Financial Reporting","12387","RECENT ACCOUNTING PRONOUNCEMENTS","187","Niche Marketing.","18007","RECENT ACCOUNTING PRONOUNCEMENTS","80","NOTE 3 SUMMARY OF SIGNIFICANT ACCOUNTING
+
+POLICIES
+
+Equity Method of Accounting","15925","The SEC staff issued Staff Accounting Bulletin","4946","Accounting and Reporting by Development Stage Enterprises.","22689","Accounting Standards Updates Issued But Not
+
+Yet Adopted
+
+ASU 2016-13,","12465","Recently Issued Standards","false","false","false","false","true","false","false","false","false","false","none"
+"3XU9MCX6VQT1JIUDNE2B50EOQ1GR2O","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","30X31N5D6675BKNO5L0XPCYAI9YASW","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:56:42 PST 2023","Thu Dec 14 03:00:08 PST 2023","Sun Dec 17 03:00:08 PST 2023","","","","206","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","9779","SECTION 2.05 Holder Lists.","-1","","8","16673","Operating Expenses.","29121","Sources of Funds
+
+General.","23975","Net Cash Used In Investing Activities.","28745","Income Taxes.","27635","Credit Agreement.","9292","Rabbi Trusts and Other Investments","7178","Income Taxes-","15347","RECOGNITION OF REVENUES AND PRE-OPENING EXPENSES-","9779","SECTION 2.05 Holder Lists.","19859","Tax Fees.","false","false","false","true","false","false","false","true","false","false","none"
+"371DNNCG46JPLC9U7KG7F6S90M5T86","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:39 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:39 PST 2023","","","3LUY3GC632HQFQ9Y61KJKGR9UHL7PM","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:06 PST 2023","Thu Dec 14 02:57:38 PST 2023","Sun Dec 17 02:57:38 PST 2023","","","","512","100% (1/1)","100% (1/1)","100% (1/1)","8","Part Iv Exhibits Consolidated Financial Statement Schedules","14683","Regulatory Required Programs.","-1","","3","21204","ORGANIZATION, OPERATIONS AND SUMMARY OF SIGNIFICANT ACCOUNTING
+
+POLICIES
+
+TransBiotec, Inc.","25720","ITEM 8 FINANCIAL STATEMENTS.","27467","PART IV
+
+ITEM 15 EXHIBITS, FINANCIAL STATEMENT SCHEDULES.","14683","Regulatory Required Programs.","27081","Item 16 Form 10-K Summary
+
+","17842","PART IV
+
+Item 14 EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+
+(a) Documents filed as part of this report:
+
+1.and 2.","3973","PART IV
+
+Item 14 Exhibits, Financial Statement Schedules, and Reports on Form 8-K.
+
+(a) 24.1 Powers of Attorney of Messrs. Greenfield, Kessinger and Kent and of Ms. Garry as Directors of Citibank (South Dakota), N.A. are incorporated by reference from Exhibit 24.1 of the registrant s","16508","PART IV
+
+Item 15 Exhibits and Financial Statement Schedules.
+
+(a) Financial statements
+
+Reference is made to the Index and Financial Statements under Item 8 in Part II hereof where these documents are listed.
+
+(b) Financial statement schedules
+
+Financial statement schedules are either not required or the required information is included in the consolidated financial statements or notes thereto filed under Item 8 in Part II hereof.
+
+(c) Exhibits
+
+The exhibits to this Annual Report on Form 10-K are set forth below.","18064","PART IV
+
+Item 15 Exhibits and Financial Statement Schedules.
+
+(a) 1.","24828","Part IV
+
+Item 15 Exhibits and Financial Statement Schedules.
+
+(a)(1)","false","false","true","false","false","true","false","false","false","false","none"
+"30UZJB2POJT1ZDSYU73DL9EK4XS35Y","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:40 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:40 PST 2023","","","3L0KT67Y8HX672LRLREDSYGHL01YSU","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:32:59 PST 2023","Thu Dec 14 03:33:51 PST 2023","Sun Dec 17 03:33:51 PST 2023","","","","52","100% (1/1)","100% (1/1)","100% (1/1)","28","Changes In And Disagreements With Accountants On Accounting And Financial Disclosure","13388","<TABLE>","-1","","3","25907","Item 9 Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.","4081","Item 9 Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.","25668","Item 9 Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.","13388","<TABLE>","27493","ITEM 9 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.","7213","Item 9 Changes In and Disagreements With Accountants on Accounting and Financial Disclosure.","6230","Item 9 Changes In and Disagreements With Accountants on Accounting and Financial Disclosure.","27718","ITEM 9 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.","6250","Item 9 Changes In and Disagreements with Accountants on Accounting and Financial Disclosure.","10487","ITEM 9 CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE.","false","false","false","false","false","true","false","false","false","false","none"
+"3SSN80MU8E5GXUKFLJE7UEM68INXKC","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:40 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:40 PST 2023","","","3VELCLL3GN00DR523I757CMSPPYF1U","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:49:14 PST 2023","Thu Dec 14 02:58:13 PST 2023","Sun Dec 17 02:58:13 PST 2023","","","","539","100% (1/1)","100% (1/1)","100% (1/1)","25","Interest Income","24118","ITEM 6 SELECTED FINANCIAL DATA.","5","14.0","5","15346","FINANCIAL INSTRUMENTS-","6878","Long-Lived Assets","26432","OPERATING INCOME.","7241","Objectives for Holding Derivative Financial Instruments.","11547","ON DEPOSIT-","24118","ITEM 6 SELECTED FINANCIAL DATA.","25499","Revenue","336","Selling, General, and Administrative Expenses.","26540","No. 52, Foreign Currency Translation ).","4066","Income Taxes.","false","false","false","false","true","false","false","false","false","false","none"
+"3WRBLBQ2GTP3YIILSG4LN872RUM0GI","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:40 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:40 PST 2023","","","39L1G8WVWT85XFP9JN6363XVMZU138","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 03:33:03 PST 2023","Thu Dec 14 03:34:09 PST 2023","Sun Dec 17 03:34:09 PST 2023","","","","66","100% (1/1)","100% (1/1)","100% (1/1)","16","Service Providers","28470","Item 16 Form 10-K Summary.","-1","","5","21801","Skilled Nursing Facilities Survey and Enforcement.","24266","Provide Superior and Convenient Service to Our Customers.","9698","Lighting Industry Competitors","25592","Attractive Hub and Route Network.","18377","Solar PV modules.","28470","Item 16 Form 10-K Summary.","18084","9 
+
+International Services.","26200","Reimbursement.","10378","China","17425","PROPRIETARY PRODUCT DEVELOPMENT.","false","false","false","true","false","false","false","false","false","false","none"
+"3SD15I2WD4BXIHSCZQDIDFSK0S336E","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:40 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:40 PST 2023","","","3M0NZ3JDP4F56QXL5H3ODUFRDAWZ5J","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:49 PST 2023","Thu Dec 14 03:04:50 PST 2023","Sun Dec 17 03:04:50 PST 2023","","","","1321","100% (10/10)","100% (10/10)","100% (10/10)","20","A Quantitative And Qualitative Disclosures About Market Risk","23885","PAMA","-1","","0","23885","PAMA","580","Item 7A Quantitative and Qualitative Disclosures about Market Risk.","17377","Item 7A Quantitative and Qualitative Disclosures about Market Risk.","29139","Item 7A Quantitative and Qualitative Disclosures About Market Risk.","25873","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.","4184","Item 7A Quantitative and Qualitative Disclosures About Market Risk.","9308","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.","1724","Item 7A Quantitative and Qualitative Disclosures About Market Risk.","27288","Item 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.","14050","ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.","true","false","false","false","false","false","false","false","false","false","The group of sentences without the marked omission would be related to ""ITEM 7A QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"" and similar variations."
+"3BFNCI9LYM7GMH6HI0IAJTSGV3N37D","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:40 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:40 PST 2023","","","39ZSFO5CABDWRQIWOW8AXCJHTTCUJB","A1YFAHB9EUYEBH","Submitted","Thu Dec 14 02:42:39 PST 2023","Thu Dec 14 02:54:26 PST 2023","Sun Dec 17 02:54:26 PST 2023","","","","707","100% (10/10)","100% (10/10)","100% (10/10)","19","Affirmative Covenants","20045","NOTE B. SUMMARY OF SIGNIFICANT ACCOUNTING","6","23.0","7","12454","CODE OF ETHICS.","4029","Litigation and Related Contingencies","1541","Commitments- Contingencies.","21241","Guizhou Taibang s Guarantee to a Third Party","28363","Reg. 56,260 (October 30, 2009).","18283","Case No. 07-cv-00293 (D.N.M.)","26218","Other Leases.","20045","NOTE B. SUMMARY OF SIGNIFICANT ACCOUNTING","25894","SECTION 5.
+
+EFFECTIVENESS.","21216","Item 1122 of Regulation AB.","false","false","false","true","true","false","false","false","false","false","The group of sentences without the marked omission would be related to ""CODE OF ETHICS,"" ""Litigation and Related Contingencies,"" ""Commitments-Contingencies,"" ""Case No. 07-cv-00293 (D.N.M.),"" ""Other Leases,"" ""NOTE B. SUMMARY OF SIGNIFICANT ACCOUNTING,"" ""SECTION 5. EFFECTIVENESS,"" and ""Item 1122 of Regulation AB."
+"363A7XIFV63IHS6Y9D00CFMPNVLVAS","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:40 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:40 PST 2023","","","3NC5L260MR3L9JC39K5GJ8Z0I08FOH","ATTYQD9FZL2MA","Submitted","Thu Dec 14 02:55:36 PST 2023","Thu Dec 14 03:20:32 PST 2023","Sun Dec 17 03:20:32 PST 2023","","","","1496","100% (9/9)","100% (9/9)","100% (9/9)","11","Stock Incentive Plan","18234","Item 1 Business (Continued)
+
+Executive Officers of the Registrant
+
+The following is a list of the names, ages, and positions of the executive officers of the Company.","-1","","6","2513","Item 11 Executive Compensation.
+
+","3048","SHARE-BASED COMPENSATION PLANS","18212","Restrictions on Stock.","16908","EXECUTIVE COMPENSATION","24823","NOTE J Pensions and Postretirement Benefits","23163","ITEM 11 EXECUTIVE COMPENSATION.","18234","Item 1 Business (Continued)
+
+Executive Officers of the Registrant
+
+The following is a list of the names, ages, and positions of the executive officers of the Company.","16186","Equity Compensation Plan Information
+
+","14166","Neenah Hourly Employees Retirement Plan.
+
+SECTION FOUR:","24133","Acceleration of Stock Awards.","false","false","false","false","false","false","true","false","false","true","Acceleration of Stock Awards."
+"3T8DUCXY0PNPZHS4CCMLF2NKKSNT9V","3AN1GXZ81L3MNHOIDICFI19PWBLOIC","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.15","Thu Dec 14 02:31:40 PST 2023","1","BatchId:5167669;OriginalHitTemplateId:928390905;","3600","259200","Thu Dec 21 02:31:40 PST 2023","","","3RYC5T2D76A0X9TDFFIPPXI9VTFPR3","A1ZHCLSGOI7TD0","Submitted","Thu Dec 14 02:56:49 PST 2023","Thu Dec 14 03:00:17 PST 2023","Sun Dec 17 03:00:17 PST 2023","","","","208","100% (1/1)","100% (1/1)","100% (1/1)","10","Description Exhibit","15055","$-- $53 $1,374,546 <CAPTION>","-1","","3","3678","Exhibit B-
+
+Intentionally Deleted
+
+3.
+
+Exhibit C- Landlord/Tenant Work Letter
+
+4.
+
+Exhibit D- Floor Load Rendering
+
+5.
+
+Exhibit E-","21104","<DESCRIPTION>EXHIBIT 27
+
+<TEXT>
+
+<TABLE>","28260","Special Mention (Grade 6)","15055","$-- $53 $1,374,546 <CAPTION>","3476","Exhibit No.","17973","IDENTIFICATION OF EXHIBIT
+
+Exhibit 3.1*","2428","EXHIBIT 23","13182","<F1> EXHIBIT 4.12-","6166","See Exhibit 10.23.","9123","EXHIBIT INDEX
+
+Exhibit No.","false","true","false","false","false","true","false","false","false","false",""

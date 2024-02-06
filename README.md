@@ -1,8 +1,8 @@
 # Doc-Structure-Parser
 
-This repo is the an unsupervised method to extract the conceptual table of contents of a data collection, i.e., the underlying structure of a typical document within the collection. Our method recieve a document collection as an input, and outputs the typical structure of a document along with a mapping between each ToC entry to specifc text spans within each document, as examplified in the figure below.
+This repo contains an unsupervised method to extract the conceptual table of contents of a data collection, i.e., the underlying structure of a typical document within the collection. Our method recieve a document collection as an input, and outputs the typical structure of a document along with a mapping between each ToC entry to specifc text spans within each document, as examplified in the figure below.
 <p align="center">
-<img src="./examples/io-fig.png" alt="io-fig" width="500" margin="auto"/>
+<img src="appendix/io-fig.png" alt="io-fig" width="500" margin="auto"/>
 </p>
 
 ## Demo
@@ -13,7 +13,7 @@ We provide a streamlit demo to visualize the method's output at:
 
 To see the example of our method's output over a collection of 500 financial reports (Form-10K), hit the "Load example" button (marked by the red arrow below)
 
-<img src="./examples/load-example.png" alt="load-example" width="500" margin="auto"/>
+<img src="appendix/load-example.png" alt="load-example" width="500" margin="auto"/>
 
 
 ## Quickstart
@@ -149,4 +149,57 @@ Rerun the `./run_all.sh` command as described in [#Quickstart](#quickstart), and
 
 ## Reproduce Results From Paper
 
-First, you will need to download the datasets used in the paper.
+First, you will need to download the datasets used in the paper. Form-10k and CUAD datasets are available under the following link:
+
+[https://drive.google.com/drive/folders/1OHbOlPfr4GUga4s3xXLVwDUtIu7OSolB?usp=share_link](https://drive.google.com/drive/folders/1OHbOlPfr4GUga4s3xXLVwDUtIu7OSolB?usp=share_link)
+
+Next, we assume you already ran the environment setup as described in [#Prepare the environment](#prepare-the-environment).
+
+### Reproduce Form-10k Results:
+
+```
+export DATA_DIR=<path to the directory which you downloaded Form-10k dataset>
+cd parser
+./run_all.sh -m all-mpnet-base-v2 --ds_name Form-10k -i DATA_DIR/Form-10K-docs  \
+    -o 10K_OUTPUT_DIR --w_title 7 --w_text 0 --w_index 3 --percentile 0.995
+```
+
+We supply our intruder results from mechanical turk in the directory [utils/intruder_results/Form-10k/](utils/intruder_results/Form-10k/), which you can then run the intruder evaluation script:
+
+```
+python utils/intruder_eval.py --path utils/intruder_results/Form-10k
+```
+
+You can also run the grounding evaluation script, with our provided gold labels for Form-10k grounding:
+
+```
+python utils/grounding_eval.py --predictions 10K_OUTPUT_DIR/all-mpnet-base-v2/0.7title_0.0text_0.3index/meta_filtered.csv --gold appendix/grounding_annotations/Form-10k/gold_labels.csv --out_dir OUT_DIR --toc_mapping appendix/grounding_annotations/Form-10k/labels_mapping_to_predictions.json
+```
+
+### Reproduce CUAD Results:
+
+```
+export DATA_DIR=<path to the directory which you downloaded Form-10k dataset>
+cd parser
+./run_all.sh -m all-mpnet-base-v2 --ds_name CUAD -i DATA_DIR/CUAD_processed_txt  \
+    -o CUAD_OUTPUT_DIR --w_title 5 --w_text 3 --w_index 2 --percentile 0.996
+```
+
+For CUAD we provide the intruder results in [appendix/intruder_annotations/CUAD/](appendix/intruder_annotations/CUAD/), but we did not collect the gold labels for grounding evaluation.
+
+To run the intruder evaluation:
+
+```
+python utils/intruder_eval.py --path appendix/intruder_annotations/CUAD
+```
+
+
+### Hebrew-verdicts Results:
+
+Due to the sensitive information provided in this dataset (sexual assault court verdicts), we cannot provide the dataset itself nor the gold labels for grounding annotation. However, we provide the intruder results in [appendix/intruder_annotations/Hebrew-verdicts/](appendix/intruder_annotations/Hebrew-verdicts/). This only include section headers from the verdicts, which does not contain sensitive information about the cases.
+
+To run the intruder evaluation:
+
+```
+python utils/intruder_eval.py --path appendix/intruder_annotations/Hebrew-verdicts
+```

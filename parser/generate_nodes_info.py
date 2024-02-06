@@ -62,7 +62,7 @@ def is_title_candidate(line, ds_name, sentence_tokenizer):
     implement a boolean function similarly to CUAD and 10k """
     if ds_name == 'CUAD':
         return is_title_candidate_cuad(line, sentence_tokenizer)
-    elif ds_name == '10k':
+    elif ds_name == 'Form-10k':
         return is_title_candidate_10k(line, sentence_tokenizer)
     # elif DATASET == <name>:  # template for a new dataset
     #     return <user implementation>(line)

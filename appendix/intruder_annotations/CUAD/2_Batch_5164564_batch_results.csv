@@ -1,0 +1,1346 @@
+"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.cluster_id","Input.cluster_rep","Input.index_intruder_in_df","Input.title_intruder","Input.community_intruder","Input.intruder_rank","Input.in_test_intruder_location","Input.index_0","Input.sentence_0_text","Input.index_1","Input.sentence_1_text","Input.index_2","Input.sentence_2_text","Input.index_3","Input.sentence_3_text","Input.index_4","Input.sentence_4_text","Input.index_5","Input.sentence_5_text","Input.index_6","Input.sentence_6_text","Input.index_7","Input.sentence_7_text","Input.index_8","Input.sentence_8_text","Input.index_9","Input.sentence_9_text","Answer.answers.0","Answer.answers.1","Answer.answers.2","Answer.answers.3","Answer.answers.4","Answer.answers.5","Answer.answers.6","Answer.answers.7","Answer.answers.8","Answer.answers.9","Answer.description","Approve","Reject"
+"3XH7ZM9YX4BCJ2FC8NHQFNM2W6H9RN","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:21 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:21 PST 2023","","","3VHP9MDGRQ1K0UF0JFWPO85JS9ZFC3","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:15:53 PST 2023","Tue Dec 05 15:16:05 PST 2023","Fri Dec 08 15:16:05 PST 2023","Fri Dec 08 15:16:09 PST 2023","","","12","100% (70011/70011)","100% (151/151)","100% (150/150)","19","Governing Law","13259","Section 2.02 Receipt of and Payment for Equipment.","4","6.0","5","3655","22.4 
+Governing Law.","2183","19.4  
+LICENSES, PERMITS, ETC.","12142","15.7Compliance with Laws.","7774","12.3 
+Jurisdiction.","12797","25. 
+Choice of Law.","13259","Section 2.02 Receipt of and Payment for Equipment.","2247","14. GENERAL PROVISIONS 
+14.
+
+1 Governing Law.","12298","13.5 
+Governing Law; Jurisdiction; Waiver of Jury Trial.","4511","8.05  
+GOVERNING  LAW.","12489","Page of 7 of Sponsorship Agreement 
+17.
+
+Governing Law and Venue.","false","false","false","false","false","true","false","false","false","false","Governing Law"
+"3ZCC2DXSD9L0H4Z6UU10M08Q82GYY2","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:21 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:21 PST 2023","","","3KB8R4ZV1HO74PJPGZ6CV9ZDB3ZGBW","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:28:41 PST 2023","Tue Dec 05 15:28:59 PST 2023","Fri Dec 08 15:28:59 PST 2023","Fri Dec 08 15:29:09 PST 2023","","","18","100% (70011/70011)","100% (151/151)","100% (150/150)","5","C Entire Agreement","3932","Wages include expenses for VP – Operations.","-1","","8","2511","Article XV.
+
+Miscellaneous 
+Entire Agreement.","6839","12 
+ARTICLE V EXCLUDED AGREEMENTS","9878","12.3.
+ Entire Agreement.","7423","14. [Intentionally Omitted.] 
+15.","2000","17.15 Entire Agreement.","13161","Entire Agreement; Counterparts.","13077","8.5
+ Entire Agreement.","12424","17. 
+Authority to Contract.","3932","Wages include expenses for VP – Operations.","6792","16. ENTIRE AGREEMENT.","false","false","false","false","false","false","false","true","true","false","Agreement"
+"3BAKUKE49JTUUXCH4A2X0H4JYUT1R6","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:21 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3L2IS5HSFDZSAG9H3U02QJ0Y2BDUN7","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:56:20 PST 2023","Wed Dec 13 08:56:32 PST 2023","Sat Dec 16 08:56:32 PST 2023","","","","12","100% (2/2)","100% (2/2)","100% (2/2)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","5846","reporting services.","-1","","0","5846","reporting services.","9436","KIOSK CONCEPTS, INC.:","1434","Vin Thomas 
+E-Mail: vinthomas@curo.com","106","By: /s/","10597","Glu Mobile, Inc.","1747","By: /s/","12807","By: /s/","4109","Chandra Torrence 
+Telephone:
+
+[***] 
+Email:","8971","John Madden 
+Name:","12006","S.K. Vereschagin NAME:
+
+Jeff Yelton 
+TITLE: Director, Finance TITLE:","false","false","false","true","false","true","true","false","false","false","BY"
+"32CAVSKPCG6MAP4Y84X25SR35TWU12","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:21 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:21 PST 2023","","","34QN5IT0T28RRNAXZLXZJFMWWGP80M","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:19:37 PST 2023","Tue Dec 05 15:19:53 PST 2023","Fri Dec 08 15:19:53 PST 2023","Fri Dec 08 15:20:09 PST 2023","","","16","100% (70011/70011)","100% (151/151)","100% (150/150)","8","Insurance And Indemnification","8604","that (i) Harpoon’s","-1","","6","8906","11. Indemnification.","11880","23.
+ INDEMNITY.","5056","13.2
+ Products, Services and Content.
+
+(a)
+ Women.com
+
+Liability.","2034","8. Indemnification.
+
+8.1 
+By Licensor.","13028","2.6 Certain Claims","693","WHETHER EXPRESS OR IMPLIED, AND LICENSOR HEREBY DISCLAIMS
+
+ANY AND ALL SUCH WARRANTIES.
+
+9 
+ARTICLE VIII INDEMNIFICATION 
+8.1.
+
+Indemnification by Licensor.","8604","that (i) Harpoon’s","5946","Representations, Warranties, and Covenants.","3650","Limitation of Liability 
+18.","10831","13.5
+ Liquidated Damages.","false","false","false","false","false","false","true","false","false","false","Indemnity"
+"3H5TOKO3DB0I0DBGZ4I1NKKQERP46O","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:21 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:21 PST 2023","","","382M9COHEKWOGAW4AVXJ0W6PNAQEUX","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:46:45 PST 2023","Fri Dec 08 05:47:26 PST 2023","Mon Dec 11 05:47:26 PST 2023","Mon Dec 11 05:48:09 PST 2023","","","41","100% (70011/70011)","100% (151/151)","100% (150/150)","4","Payments Currency","7314","(a) General.","-1","","3","13003","1. 
+Compensation.","3864","Interest.","8899","All payments shall be made in U.S. Dollars.","7314","(a) General.","1914","3.6 Taxes.","12498","2 
+4. COMPENSATION","1325","HOSTING FEE.","7312","47 
+9.5 
+Payment Terms; Exchange Rate.","10025","2. 
+Compensation and Expenses.","1097","5.  COMPENSATION.","false","false","false","true","false","false","false","false","false","false","Payment"
+"3XD2A6FGFPBOKHFPNCHV5XRYI809SB","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:21 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:21 PST 2023","","","3KB8R4ZV1HO74PJPGZ6CV9ZDB3ZBGR","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:27:18 PST 2023","Tue Dec 05 15:27:27 PST 2023","Fri Dec 08 15:27:27 PST 2023","Fri Dec 08 15:28:09 PST 2023","","","9","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","38","2.4 
+Trademark License and Use.","0","8.0","1","9848","6.3 
+Effect of Termination.","38","2.4 
+Trademark License and Use.","9123","Effect of Termination.","7077","TERM AND TERMINATION 
+3.1","2238","11. TERM AND TERMINATION 
+11.1 Term.","3910","14.4. 
+Effect of Termination.","10046","6.3.
+Termination for Breach.
+
+(a)
+By Licensor.","4459","ARTICLE 4.
+
+TERM AND TERMINATION 
+4.1.
+
+Term.","7330","(c) 
+Termination for Insolvency.","1173","15.3 Effect of Termination.","false","true","false","false","false","false","false","false","false","false","Termination"
+"3BJKPTD2QETV3HOQ6TM76NNEQDJRT4","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3HYA4D452U072CNYMM7JCVWXGKLF2X","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:59:16 PST 2023","Fri Dec 08 06:00:08 PST 2023","Mon Dec 11 06:00:08 PST 2023","Mon Dec 11 06:00:09 PST 2023","","","52","100% (70011/70011)","100% (151/151)","100% (150/150)","14","Financial Records Audits","9880","12.5.
+ Severability.","7","13.0","5","2682","6.  
+Filing of Reports by PSS.","9529","Section 7.5  BOOKS AND RECORDS.","12153","(h)Financial Statements.","11104","Fed ABA 
+
+
+026009593 
+7 
+8.06.","4388","15.  ACCOUNTING, REPORTS AND FINANCIAL STATEMENTS.
+
+15.A.  ESTABLISHMENT OF ACCOUNTING SYSTEM.","9880","12.5.
+ Severability.","9948","(c)  
+Records.","5216","8. BOOKS, RECORDS AND RIGHT OF AUDIT.","11672","6.2 Financial Statements.","8863","(d) 
+Security Audit","false","false","false","false","false","true","false","false","false","false","Financial Statements"
+"307FVKVSYTW14DPLIENTTYKM92947N","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3PXX5PX6L0F6UY6MUZE2ZNOAEJ7ABM","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:52:35 PST 2023","Wed Dec 13 08:53:08 PST 2023","Sat Dec 16 08:53:08 PST 2023","","","","33","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","11577","RM: 64 Megs 
+     .
+
+HDD: 1.2 GB     .
+
+Video.","-1","","7","576","internet Back office Maintenance And Deployment of medical Service.
+
+Term 
+4.","2986","(e) 
+Acceptable Forecast Variance.","214","5.10 
+Manufacturing; Distribution; Marketing.","6560","8 
+4.7 Equipment and Supplies.","10110","3.  EXCLUSIVITY 
+      3.1 Exclusivity Period.","3063","as indicated below.","1214","4.2 
+Development Reporting.","11577","RM: 64 Megs 
+     .
+
+HDD: 1.2 GB     .
+
+Video.","12816","5. Additional Titles.","747","3. CONSULTING SERVICES.","true","false","true","false","false","false","true","false","false","true","MARKETING"
+"37VHPF5VYEK8ZV7JLYLHQWS5CZWC8V","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3QY7M81QHA3P4ZCIT9FBOZ5AZUO7K3","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:29:15 PST 2023","Tue Dec 05 14:29:33 PST 2023","Fri Dec 08 14:29:33 PST 2023","Fri Dec 08 14:30:09 PST 2023","","","18","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","1136","2.7 
+No Other Rights.","-1","","0","1136","2.7 
+No Other Rights.","12114","11.3Effect of Termination.","11954","AGREEMENT TERMINATION.
+
+5.1 
+Termination for Cause.","2409","4. AMENDMENT OF TERMINATION PROVISIONS.","13316","10 
+Termination for Insolvency or Bankruptcy.","1717","3. EFFECTIVE DATE AND DURATION","12487","OR WILLFUL BREACH OF THIS AGREEMENT.
+
+15. 
+Survival.","6546","8.4Subsection 8.1 shall survive the termination of this Agreement.","5887","Termination.","12818","7. Term and Termination.","true","false","false","false","false","false","false","false","false","false","Termination"
+"32TMVRKDGPF54RU4SJFZ7YGHKMF48A","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3TK8OJTYM42SQGAUOZNZQU7CGXNVPT","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:54:44 PST 2023","Wed Dec 13 08:54:58 PST 2023","Sat Dec 16 08:54:58 PST 2023","","","","14","100% (2/2)","100% (2/2)","100% (2/2)","5","C Entire Agreement","3478","2.0 Definitions 
+2.1 
+Affiliate.","-1","","4","11697","9.8 Entirety of Agreement, Amendments.","7679","13.9 
+Entire Agreement; Amendment.","393","12. Miscellaneous.
+
+a. 
+Entire Agreement.","13387","ARTICLE 18 - ASSIGNMENT BY NVOS 
+18.1","3478","2.0 Definitions 
+2.1 
+Affiliate.","6155","9.12  
+Entire Agreement.","6441","14.
+10  COMPLETE UNDERSTANDING.","6680","11. Conditions Precedent","4136","c) 
+
+
+Returns form to Project Administrator.","2369","8. FURTHER ASSURANCES","true","true","false","false","false","true","false","false","false","false","Entire"
+"3T8DUCXY0PNPZHS4CCMLF2NKKRE9T0","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3UNH76FOCVM3978M1UIRGPHBS0SMYS","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:48:35 PST 2023","Fri Dec 08 05:48:50 PST 2023","Mon Dec 11 05:48:50 PST 2023","Mon Dec 11 05:49:09 PST 2023","","","15","100% (70011/70011)","100% (151/151)","100% (150/150)","11","Amendment Waiver","1753","Notices 
+20.1","10","11.0","3","2665","2. 
+Non Waiver.","2920","17.
+ Waiver.","6368","Amendment or Modification.","1753","Notices 
+20.1","4223","18. Modification.","6973","Amendment Waivers, etc.","4588","MODIFICATION","1289","14.8 
+Waiver and Non-Exclusion of Remedies.","3205","(b) 
+Amendments; Waiver.","11179","(g) 
+Jury Trial Waiver.","false","false","false","true","false","false","false","false","false","false","Waivers"
+"36U4VBVNQQUA3U3F6YCHBJ9G9RQRUV","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3NPFYT4IZFLEHSMQLVYUK6Q5U7BXGC","A1689LPUF6HS1A","Approved","Thu Dec 07 20:46:28 PST 2023","Thu Dec 07 20:54:01 PST 2023","Sun Dec 10 20:54:01 PST 2023","Sun Dec 10 20:54:09 PST 2023","","","453","100% (12/12)","100% (12/12)","100% (10/10)","16","Headings","13399","13. Miscellaneous Provisions.
+
+(a) 
+Notices.","10","11.0","6","7970","14.15 Construction.","10888","Section 10.
+
+Contribution.","9274","18. 
+Counterparts  and Execution by Fax.","1504","10.15 
+Rules of Construction.","10504","2. 
+1 BASIC TERMS.","408","Section 1.7","13399","13. Miscellaneous Provisions.
+
+(a) 
+Notices.","409","SECTION 2.","1029","Article IV","4443","25.B.  TERMINOLOGY.","false","false","false","false","true","false","false","false","false","false","The sentence ""2. 1 BASIC TERMS."" does not seem to belong to the group as it appears to be a formatting or labeling error, given that it lacks a clear context or content related to construction, contribution, counterparts and execution by fax, rules of construction, miscellaneous provisions, notices, sections, or terminology. The group of sentences without the one marked as omitted could be described as a set of clauses or provisions related to construction, contribution, counterparts and execution by fax, rules of construction, miscellaneous provisions, notices, sections, and terminology."
+"3OJX0UFJ01O4ZU7TCHCVKY9M35L9UR","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3DEL4X4EL92E3J7QF1K0R6X9Z2BXYI","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:23:12 PST 2023","Tue Dec 05 14:23:42 PST 2023","Fri Dec 08 14:23:42 PST 2023","Fri Dec 08 14:24:09 PST 2023","","","30","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","10322","4. TERMS.","-1","","6","1260","11.2 
+Unilateral Termination by Vyera.","2786","13.4 
+Termination by Aimmune.","5813","Section 6.4 Effect of Termination.","13314","Survival of Article V.","7646","9 Term and Termination 
+9.1 
+Term.","2552","14. EARLY TERMINATION 
+14.1.","10322","4. TERMS.","9035","13 
+8. TERM AND TERMINATION 
+      8.1.
+
+Automatic Renewal.","11030","4.3  
+EFFECT OF TERMINATION.","8865","(e) Effect of Termination:","false","false","false","true","false","false","false","false","false","false","Termination"
+"3B6F54KMR4T6VCCUJZ22QR9FKWC1SU","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3S0TNUHWKWZLQ7BRBXLUYM6FQ5XD8J","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:27:48 PST 2023","Tue Dec 05 14:28:38 PST 2023","Fri Dec 08 14:28:38 PST 2023","Fri Dec 08 14:29:09 PST 2023","","","50","100% (70011/70011)","100% (151/151)","100% (150/150)","5","C Entire Agreement","1786","Trustee’s Fees.","-1","","1","7678","this Agreement without first submitting such matter to arbitration.","1786","Trustee’s Fees.","11715","13.
+10Entire agreement.","2666","Integrated Agreement.","5732","10.3  
+
+
+Entire Agreement.","2921","19.
+ Further Documentation.","1478","(c) 
+Absence of Conflicts.","2438","6.7 Entire Agreement.","9689","(g) Entire Agreement.","13037","ARTICLE 10.
+
+OTHER ARRANGEMENT","false","true","false","false","false","true","false","false","false","false","Agreement"
+"3OWZNK3RYN6TZAMUR8XGAB18XZAU2J","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","37W3JXSD69PZEJ205WOEPNJ2Q1VWYG","A1689LPUF6HS1A","Approved","Thu Dec 07 20:32:33 PST 2023","Thu Dec 07 20:39:51 PST 2023","Sun Dec 10 20:39:51 PST 2023","Sun Dec 10 20:40:09 PST 2023","","","438","100% (12/12)","100% (12/12)","100% (10/10)","0","Proprietary Rights","4969","12.3.3 
+Additional Insured.","-1","","0","4969","12.3.3 
+Additional Insured.","1379","of Additional Provisions).
+
+c. 
+License by WPT.","11036","SECTION 7.
+
+OWNERSHIP 
+      7.1  
+SPONSOR.","11835","Grant of License 
+4 
+2.1.
+
+Grant of rights 
+4 
+2.2.","7036","3.3 Intellectual Property Rights.
+
+(a) 
+Reservation of Rights.","7817","7.  LICENSED MARKS 
+7.01.","566","(d) 
+Company License and Credit.","11152","(b) 
+Sublicensing.","1076","c.  
+Client's Intellectual Property.","10920","(b) Trademarks.","false","true","false","false","false","false","false","false","false","false","The group of sentences that remain after marking the sentence as omitted could be described as a set of clauses or provisions covering various aspects such as additional insured, ownership, grant of license, intellectual property rights, licensed marks, company license and credit, sublicensing, client's intellectual property, and trademarks."
+"3O0M2G5VC8J5IWDEXBLD7UBS4SX49Z","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3TPZPLC3M3T8E78B4PHT7ZFTO5J3PC","A24G8ETQVVVMJX","Approved","Sun Dec 10 04:56:22 PST 2023","Sun Dec 10 05:03:13 PST 2023","Wed Dec 13 05:03:13 PST 2023","Wed Dec 13 05:04:09 PST 2023","","","411","100% (2/2)","100% (2/2)","100% (1/1)","16","Headings","5427","none","-1","","7","2803","15.10 
+Ambiguities; No Presumption.","4469","5.9. 
+Headings.","11023","2.3.2  
+Subject to (<#C25>)Section 2.4","10589","[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+
+[SIGNATURE PAGE FOLLOWS]
+
+15 [SIGNATURE PAGE TO COOPERATION AGREEMENT]
+
+IN WITNESS WHEREOF","5841","Section 10.17 Headings.","2874","o  
+Method of linking terms to encyclopedias.","1368","TITLES.","5427","none","6472","ARTICLE 9 - GENERAL 
+9.1  HEADINGS","8224","SECTION NINETEEN.","false","false","false","false","false","true","false","false","false","false","Legal Document Structure and Headings."
+"38LRF35D5NDIKSIDV8BLTL603DAU3U","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","34MAJL3QP74MPEMS65P5414YX6C344","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:20:43 PST 2023","Tue Dec 05 14:21:15 PST 2023","Fri Dec 08 14:21:15 PST 2023","Fri Dec 08 14:22:09 PST 2023","","","32","100% (70011/70011)","100% (151/151)","100% (150/150)","4","Payments Currency","12973","Name: 
+OWNER’S SPOUSE:
+
+Name: 
+OWNER’S SPOUSE:","-1","","8","589","Banking and Venture Funds 
+24.","3354","5.4.1.1. 
+Letter of Credit.","3351","5.2.3. 
+Taxes.","5674","12. REIMBURSEMENT OF EXPENSES.","5855","8. 
+Compensation.","117","18. BASE COMPENSATION","12915","6.8 Late Payments.","6722","c) 
+Subsequent Monthly Invoices.","12973","Name: 
+OWNER’S SPOUSE:
+
+Name: 
+OWNER’S SPOUSE:","2026","7 
+5.4 
+Taxes.","true","false","false","false","false","false","false","false","true","false","Compensation"
+"3V0TR1NRVCJJNFNJPHZD3PMCAAF4AE","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3TE3O85733P452S7DH7DTKAGJ6W2RB","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:19:17 PST 2023","Tue Dec 05 14:19:51 PST 2023","Fri Dec 08 14:19:51 PST 2023","Fri Dec 08 14:20:09 PST 2023","","","34","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","2977","Each Party shall obligate its Affiliates and Subcontractors accordingly.
+
+(b) 
+Communication to Regulatory Authorities.","-1","","3","8138","15.2.5 
+Termination by Licensee for Convenience.","54","5.2 
+Termination for breach.","4013","written notice to Aucta.","2977","Each Party shall obligate its Affiliates and Subcontractors accordingly.
+
+(b) 
+Communication to Regulatory Authorities.","9512","written notice terminate         this Agreement.","4502","5.02  TERMINATION.","13144","10. Term and Termination.
+
+10.1. 
+Term.","4235","4. Term; Termination; Termination Payment.
+
+4.1
+ Term; Termination.","3780","4. TERM AND TERMINATION 
+4.1","971","11  TERM AND TERMINATION.
+
+11.1  
+Term.","false","false","true","true","false","false","false","false","false","false","Termination"
+"3HEADTGN2R9AG9SFBOMM75BZNYZRVK","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3JWH6J9I9VUDEH0B33J7LT8ACFKBNY","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:46:16 PST 2023","Tue Dec 05 14:46:30 PST 2023","Fri Dec 08 14:46:30 PST 2023","Fri Dec 08 14:47:09 PST 2023","","","14","100% (70011/70011)","100% (151/151)","100% (150/150)","6","Confidential Information","8779","iPass may provide training in use of the Services.","-1","","5","1158","10.2 
+Non-Disclosure.","1976","-68-
+Confidentiality
+13. .","7823","CONFIDENTIAL INFORMATION 
+13.01","10488","19.
+ CONFIDENTIALITY AND NON-DISPARAGEMENT AGREEMENT.","3166","Confidentiality.
+
+5.1 
+Definition.","8779","iPass may provide training in use of the Services.","10567","10 
+8. Public Announcements.","330","ARTICLE VI 
+CONFIDENTIAL INFORMATION 
+Section 6.01.
+
+Confidentiality.","8656","6.13 
+Confidentiality.","7911","8.2.2 
+Confidential Information.","false","false","false","false","false","true","false","false","false","false","Confidentiality"
+"3HXCEECSQOA0MU9BQG3J07HSEWKYZT","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3HPZF4IVNPAQ0LWVO5ODDTCZZVACY5","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:52:19 PST 2023","Wed Dec 13 08:52:34 PST 2023","Sat Dec 16 08:52:34 PST 2023","","","","15","100% (2/2)","100% (2/2)","100% (2/2)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","3328","Accuray shall bill any actual freight costs to Distributor.","-1","","0","3328","Accuray shall bill any actual freight costs to Distributor.","10753","Attention: CEO 
+
+
+Attention: CEO 
+
+
+ul.","5867","By: /s/","12303","By: /s/","3462","Senior Vice President, Corporate Partnerships masseys@nfl.jaguars.com
+
+With a copy to:","8172","FEDERATED INVESTMENT MANAGEMENT COMPANY 
+/s/","8851","/s/ Jason A. Minio 
+(SEAL)","5864","Allison Transmission Holdings, Inc.
+
+By: /s/","2928","Cory Comstock 
+
+
+Norwalk, CT 06851","7212","Foundation Medicine, Inc. 
+
+
+
+
+/s/","false","false","true","true","false","true","true","false","false","false","BY"
+"3XDJY5RK5U232O1HVMG43QY6HD6U4F","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3DBQWDE4Y9FBP1J22TSUI78I2LYN5D","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:59:01 PST 2023","Fri Dec 08 05:59:16 PST 2023","Mon Dec 11 05:59:16 PST 2023","Mon Dec 11 06:00:09 PST 2023","","","15","100% (70011/70011)","100% (151/151)","100% (150/150)","11","Amendment Waiver","4037","Hardware is the tangible product made available to Distributor.","2","2.0","5","2181","19.2  NON-WAIVER.","139","12. Interpretation, Amendment and Enforcement.","3190","9.7 
+Amendment; Waiver.","258","13.7 
+Waiver of Jury Trial.","9685","12. GENERAL PROVISIONS.
+
+(a)
+ Amendments.","4037","Hardware is the tangible product made available to Distributor.","9828","MOVADO GROUP, INC. 
+            10.
+
+Amendment.","11071","No Waiver.","1188","Page 23 
+20.5 
+No Waiver.","68","11.6 
+No Waiver.","false","false","false","false","false","true","false","false","false","false","Waivers"
+"3V7ICJJAZCXO6PSBVVZ9Y06ISS04B9","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","3HL8HNGX48II2W8X7VMYMI4BMOVF9L","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:19:51 PST 2023","Tue Dec 05 14:20:23 PST 2023","Fri Dec 08 14:20:23 PST 2023","Fri Dec 08 14:21:09 PST 2023","","","32","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","5045","10.  TERM AND TERMINATION.
+
+10.1 Initial Term.","15","3.0","4","9379","10.3 
+Effect of Termination.
+
+Upon termination of this Agreement.","120","prior written consent.
+
+TERMINATION 
+22.","3804","ARTICLE 4 TERMINATION 
+4.1 
+Termination of Engagement.","3162","4.3 
+Termination of Lead Scaffolds.","5045","10.  TERM AND TERMINATION.
+
+10.1 Initial Term.","4262","5. Duration and Termination.","659","Section 4.4 Effect of Termination.","1406","Chase may revoke Affiliate’s license at any time.
+
+16. Service Interruption","4642","D. 
+Effect of Termination - Cash Consideration.
+
+a. 
+Termination by PAPA JOHN’S.","8901","6. Term and Termination.","false","false","false","true","false","false","false","false","false","false","Termination"
+"371QPA24C457ACP98Z7S0W51MFQ1TJ","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:22 PST 2023","","","33TIN5LC07RO2NPSCLEMB3BRS1L9YG","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:47:57 PST 2023","Fri Dec 08 05:48:14 PST 2023","Mon Dec 11 05:48:14 PST 2023","Mon Dec 11 05:49:09 PST 2023","","","17","100% (70011/70011)","100% (151/151)","100% (150/150)","4","Payments Currency","5591","5.7 
+Sufficiency of IP.","0","8.0","8","4177","E.  PAYMENT.","12414","7. 
+Union Dues and Fees.","791","3.6.
+ Method of Payment.","6058","(d) 
+Taxes.
+
+The Sponsor Fee is net of any commissions.","9419","5 
+4.5 Late
+
+Fee; Insufficient Funds Fee","3557","3.19 Invoicing and Payment 
+(a)","7799","Mr. Zheng Qing 
+
+
+Developer 
+
+
+USD50,000.00 
+
+
+3.
+
+Mr. Gu Xianwin 
+
+
+Developer 
+
+
+USD50,000.00 
+6.","8205","3 
+SECTION FOUR.
+
+REMUNERATION","5591","5.7 
+Sufficiency of IP.","3257","Section 7.3 Payment.","false","false","false","false","false","false","true","false","true","false","Payment"
+"3P520RYKCJNLY75H9RZE8I4KH91U5K","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3Y4W8Q93L21J1J74JQW4Q0QN2EKDVX","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:53:51 PST 2023","Wed Dec 13 08:54:09 PST 2023","Sat Dec 16 08:54:09 PST 2023","","","","18","100% (2/2)","100% (2/2)","100% (2/2)","5","C Entire Agreement","8557","12. NOTICE OF ARRIVAL, DELIVERY AT DESTINATION:","-1","","3","666","Section 6.8 Entire Agreement;
+
+Conflicting Provisions.","12147","(b)Moelis Holdings Agreement.","9658","Well and each Substitute Well and Additional Well.","8557","12. NOTICE OF ARRIVAL, DELIVERY AT DESTINATION:","1424","(b) 
+Due Qualification.","11475","6. 
+FURTHER ACTIONS.","12426","19. 
+Merger; Modification.","1120","25.  
+ENTIRE AGREEMENT.","11510","Section 18.
+
+Entire Agreement.","8253","Amendment to Exhibit A to Services Agreement.","true","true","false","false","false","false","false","true","true","true","Agreement"
+"3RQVKZ7ZRM0R1ZAYE0450JNOPOD72U","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:22 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3A1PQ49WVKYKRNW8Y8V5AXY5526H1L","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:51:00 PST 2023","Wed Dec 13 08:51:18 PST 2023","Sat Dec 16 08:51:18 PST 2023","","","","18","100% (2/2)","100% (2/2)","100% (2/2)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","8646","6.5.3 
+Reductions.","-1","","2","9730","By: /s/
+
+Mark Christensen 
+Name:","1042","Vayyar Imaging Ltd. 
+
+
+IndeLiving Holdings, Inc.
+
+By: /s/
+
+Raviv Melamed
+
+By: /s/","8646","6.5.3 
+Reductions.","12269","VESA EQUITY INVESTMENT S.À R.L. 
+/s/","6866","Michael P. Ryan 
+Name:","403","Email: Lance.Mitchell@","1126","Dated:  
+TRUELINK, INC.","12363","Attn:","545","On2 shall contact these people directly.","12302","ARMSTRONG FLOORING, INC.","true","false","false","false","true","true","true","false","false","false","NAME"
+"341H3G5YF2V3PZDQI8SA8FN82J5Z0T","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","32SVAV9L3IQ1R329F6ZWH4QYPG93AG","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:24:11 PST 2023","Tue Dec 05 15:24:25 PST 2023","Fri Dec 08 15:24:25 PST 2023","Fri Dec 08 15:25:09 PST 2023","","","14","100% (70011/70011)","100% (151/151)","100% (150/150)","11","Amendment Waiver","3888","Molecular Clinical Diagnostics.","-1","","6","12860","9.15 
+No Oral Modifications.","5549","Section 10.4 Amendment.","7987","8.4. Litigation","7542","7 
+15.4 
+Amendments and Waivers.","1364","NO WAIVER.","2052","11.9 
+Amendment and Modification; Waiver.","3888","Molecular Clinical Diagnostics.","3770","16. No Waiver.","6152","9.8  
+Waiver  and  Modification.","10960","Section 11.15.
+
+Waivers of Default.","false","false","true","false","false","false","true","false","false","false","Waivers"
+"33N1S8XHHO23WOY8ERWAMK6I7BBZ1W","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3OE22WJIGL5DDDM9JMSJUDV36BEQUH","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:42:51 PST 2023","Tue Dec 05 14:46:15 PST 2023","Fri Dec 08 14:46:15 PST 2023","Fri Dec 08 14:47:09 PST 2023","","","204","100% (70011/70011)","100% (151/151)","100% (150/150)","8","Insurance And Indemnification","11315","[***] or (b)","3","16.0","1","61","INDEMNIFICATION BY GOOGLE.","11315","[***] or (b)","6658","3 
+5. Producer’s Representations and Warranties.
+
+The Producer represents and warrants for the benefit of ConvergTV","8126","13.3 
+Indemnification Procedure.","3027","INSURANCE COVERAGE FOR SUCH AGGREGATE LIABILITY.
+
+12.2 No Liability for Clinical Trials.","378","7. Indemnification.","4217","Representations and Warranties of ESSI.","5057","(b)
+ eDiets Liability.","13267","This payment is non-refundable.","4649","G. 
+LIMITATION OF LIABILITY.","false","true","false","false","false","false","false","false","false","false","Liability"
+"3XBYQ44Z6RL0BD5C5NWDTMVVISYWTC","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","31JLPPHS2XBQT7WAPP4EIZA3F8Z3OO","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:55:20 PST 2023","Wed Dec 13 08:55:45 PST 2023","Sat Dec 16 08:55:45 PST 2023","","","","25","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","573","8.
+ Design adaptation to other languages.","-1","","1","10494","3.7 
+Product Acceptance 3.7.1","573","8.
+ Design adaptation to other languages.","12038","2.4 RESTRICTIONS ON COMMUNICATIONS.","7300","41 
+Article VIII.
+
+COMMERCIALIZATION 
+8.1 
+General.","6414","5.
+7  SALES AND MARKETING EFFORTS.","3998","3.5 
+Competitive Products.","8326","(b) 
+Facility Maintenance.","1051","9. PROGRAM TERMS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a.","12412","5. 
+Consideration.","6411","5.
+3  SOFTWARE SUPPORT AND MAINTENANCE.","true","true","false","true","true","false","false","false","false","false","SALES"
+"3SMIWMMK63MFBQK15SMNYIHX165WU3","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3C2NJ6JBKDYJQ40FKAQWK056IB7N2C","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:54:32 PST 2023","Fri Dec 08 05:56:06 PST 2023","Mon Dec 11 05:56:06 PST 2023","Mon Dec 11 05:56:09 PST 2023","","","94","100% (70011/70011)","100% (151/151)","100% (150/150)","11","Amendment Waiver","12912","(b) 
+Regional Advertising Cooperative.","-1","","6","7962","14.7 
+Amendments; Assignment.","3136","15.6 
+Non-Waiver.
+
+All waivers must be in writing.","7443","Amendment.","705","Amendment.","5118","14.6 Rights to Injunctive Relief.","10767","18.7 
+
+
+Amendments and Waiver","12912","(b) 
+Regional Advertising Cooperative.","10082","4.7. Specific Performance and Injunctive Relief.","6797","21. WAIVER.","8482","11.3.  AMENDMENT/WAIVER.","false","false","false","false","false","false","true","false","false","false","Waivers"
+"32CAVSKPCG6MAP4Y84X25SR35TX1UA","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3T3IWE1XG94YD07KJH29PH91NX7QTQ","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:42:33 PST 2023","Tue Dec 05 14:42:51 PST 2023","Fri Dec 08 14:42:51 PST 2023","Fri Dec 08 14:43:09 PST 2023","","","18","100% (70011/70011)","100% (151/151)","100% (150/150)","18","Disputes And Arbitration","10851","21.6
+ Balancing and Controls.","-1","","3","257","13.6.2 
+Arbitration of Other Disputes.","5990","[ARBITRATION].","11176","(b) 
+Dispute Resolution.","10851","21.6
+ Balancing and Controls.","6735","13.03 
+Cost of Arbitration.","10690","Governing Law and Dispute Resolution.","4999","15.10 
+Dispute Resolution.","5155","15. DISPUTE RESOLUTION AND APPLICABLE LAW.","12395","12.
+7 DISPUTE RESOLUTION PROCESS.","8367","Section 9.5 Dispute Resolution: Governing Law.","false","false","false","true","false","false","false","false","false","false","Arbitration"
+"31KSVEGZ369NVYSK1YRIT7UDU71RWU","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3LYA37P8IT4C6BF86QRRT1R6IL4KBT","A1689LPUF6HS1A","Approved","Thu Dec 07 20:32:36 PST 2023","Thu Dec 07 20:41:52 PST 2023","Sun Dec 10 20:41:52 PST 2023","Sun Dec 10 20:42:09 PST 2023","","","556","100% (12/12)","100% (12/12)","100% (10/10)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","9440","[INITIALS ILLEGIBLE]        20.3.98
+
+[INITIALS ILLEGIBLE]","-1","","3","2585","Todos Medical Ltd.
+
+/s/ Herman Weiss 
+
+
+Care G. B. Plus Ltd.","6837","By: /s/","671","+847.576.4688 
+Email: michael.annes@motorolasolutions.com
+
+Attention:","9440","[INITIALS ILLEGIBLE]        20.3.98
+
+[INITIALS ILLEGIBLE]","10023","[DISTRIBUTOR] 
+
+
+
+
+/s/
+
+Paul Grzebielucha  
+----------------------------","12001","SUPPLIER 
+(Name of Company - Please Print)
+
+By: 
+Title:","8849","NMS COMMUNICATIONS CORP.","13196","By: /s/ John E. Reardon 
+
+
+By: /s/
+
+Les Garland 
+
+
+Title: President 
+
+
+Title: President","10430","By: /s/","13540","By: /s/","true","false","false","false","false","false","false","false","false","false","It seems like the provided text is a collection of signatures and contact information, and it's not clear which sentence or set of sentences doesn't belong to the group without more context. Please provide more specific information or clarify, and I'll be happy to assist you."
+"372AGES0I6M2KYXAB3N4VQ8K397RXN","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3EFVCAY5L6QYTTBJLT751K1SW0G8J1","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:53:09 PST 2023","Wed Dec 13 08:53:22 PST 2023","Sat Dec 16 08:53:22 PST 2023","","","","13","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","2399","12.4 WAIVER","11","10.0","9","12410","3. 
+Grant.","3850","4 
+3.3. 
+Orders.","4690","(b) 
+Forecasts.","11937","3.9 
+Acceptance.","10974","3.3  (<#C4>)Boxlot Banners.","11218","2. Scope of the Joint Venture Business.","3317","Customer Complaints.","12381","1. SCOPE","6559","4.
+6 Manual.","2399","12.4 WAIVER","false","true","false","true","false","false","true","false","false","false","ORDER"
+"3Z33IC0JC234C9WTH7M0GKB5HCU9VG","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3TE3O85733P452S7DH7DTKAGKHWR2N","AYZCJQUEL9DUU","Submitted","Tue Dec 12 19:12:09 PST 2023","Tue Dec 12 19:33:34 PST 2023","Fri Dec 15 19:33:34 PST 2023","","","","1285","100% (1/1)","100% (1/1)","100% (1/1)","2","Distributor Personnel","1193","20.
+10 Assignment.","9","14.0","5","5963","2.7 VerticalNet shall add a Neoforma Link to each VerticalNet","3849","3.2. 
+Forecast.","2069","Hosting Agreement.","427","6. 
+Applications.","6129","2.3  
+Marketing  by  SpinRecords.com.","1193","20.
+10 Assignment.","8328","(d) 
+Spare Parts.","508","2.2 Personnel.","2070","2. Provision of Services.","12326","3.2 
+Support Services.","false","false","true","false","false","false","false","false","false","false","Yes,As you can see from the revised table, all the sentences that belong to the group have the feature ""Section"". The only sentence that does not have this feature is ""Hosting Agreement"", which has the feature ""Title"". This is why this sentence does not belong to the group."
+"3P7QK0GJ3V2AL9G4XVWOR3GNZHPZ2D","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3E4GGUZ1TB8IIYFCNXYGS8O2OE32KJ","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:16:49 PST 2023","Tue Dec 05 15:17:14 PST 2023","Fri Dec 08 15:17:14 PST 2023","Fri Dec 08 15:18:09 PST 2023","","","25","100% (70011/70011)","100% (151/151)","100% (150/150)","19","Governing Law","11651","4.1.1.2 Maintenance Authority.","-1","","6","4465","Chief Executive Officer 
+5.5.
+
+Governing Law.","11720","15Law and Jurisdiction.","3117","Authority.","5063","15.3
+ Governing Law.","8368","Section 9.6 Governing Law, Jurisdiction, Venue.","12858","9.13 
+Governing Law.","11651","4.1.1.2 Maintenance Authority.","1496","10.7 
+Governing Law.","7366","15.5 Governing Law.","6665","Governing Law.","false","false","true","false","false","false","true","false","false","false","Governing Law"
+"3T2HW4QDUXO8D0QTQQRVQSNGW5EC9K","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3IX2EGZR7E04BYQFK2D5S1WXLHWJRT","APRZ7BR8C0ZMQ","Approved","Wed Dec 06 03:49:35 PST 2023","Wed Dec 06 03:50:27 PST 2023","Sat Dec 09 03:50:27 PST 2023","Sat Dec 09 03:51:09 PST 2023","","","52","100% (340/340)","100% (8/8)","100% (3/3)","16","Headings","7611","Microgenics will develop a manufacturing transition plan that will highlight","-1","","7","7548","15.10 
+Titles and Subtitles.","73","11.11 
+Counterparts.","3141","15.12 
+Counterparts.","11886","29.
+ SIGNIFICANCE OF HEADINGS.","739","12.
+10 Headings.","2453","4. Miscellaneous. 
+4.1 
+Captions.","12997","Section 13.
+
+Miscellaneous.","7611","Microgenics will develop a manufacturing transition plan that will highlight","7418","21.
+3 Headings.","6522","Page 23 of 29 
+14.
+3
+
+The headings hereof are inserted for reference only.","false","true","true","false","false","false","true","false","false","false","titles and subtitles"
+"32W3UF2EZQ27GUKH9VV49KC0AD04CG","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3TOK3KHVJWZ8UQXXR174VGMJJZY7ON","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:31:14 PST 2023","Tue Dec 05 14:31:45 PST 2023","Fri Dec 08 14:31:45 PST 2023","Fri Dec 08 14:32:09 PST 2023","","","31","100% (70011/70011)","100% (151/151)","100% (150/150)","12","Force Majeure","10119","10.  GENERAL 
+      10.1 Taxes.","-1","","3","11045","8.6  FORCE MAJEURE.","6578","11.2 Casualty.","3143","15.14 
+Force Majeure.","10119","10.  GENERAL 
+      10.1 Taxes.","3539","3.12 Force Majeure 
+(a)","13587","Force Majeure.","1633","(d) Force Majeure.","529","10.2 Force Majeure.","7360","Article XV.
+
+GENERAL PROVISIONS 
+15.1 Force Majeure.","8304","11.15 Force Majeure.","false","false","false","true","false","false","false","false","false","false","Force Majeure"
+"3J9L0X0VDH3HRYWY7HRW2MUJOLW9WQ","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","37KGEN7NJ67FLWDY2NE0K2IUT00PPX","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:56:06 PST 2023","Fri Dec 08 05:56:33 PST 2023","Mon Dec 11 05:56:33 PST 2023","Mon Dec 11 05:57:09 PST 2023","","","27","100% (70011/70011)","100% (151/151)","100% (150/150)","0","Proprietary Rights","3622","Vendor except under written agreement by the contracting parties.","17","15.0","3","10706","3.2 
+HSWI’s Ownership Rights.","8659","7.2 Maintenance and Prosecution of Patents.","6360","12. MISCELLANEOUS 
+    12.1.
+
+Intellectual Property.","3622","Vendor except under written agreement by the contracting parties.","421","2.  
+LICENSING.","10755","(iii) FOX INTELLECTUAL PROPERTY:","6132","NETTAXI hereby grants to             -----------------------------------------","5537","Section 5.2 Reserved.
+
+Section 5.3 Reserved.
+
+Section 5.4 Cross-Licenses of Software.","8265","3.2
+ Ownership by (<#C10>)Dassault Systemes.","10975","4.2  Trademarks.","false","false","false","true","false","false","false","false","false","false","Intellectual Property"
+"3PR3LXCWSHGWGY1OHMNI458QXN29XJ","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3MH9DQ757ZTM0OSVGQN70ZR11ZRUGZ","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:56:03 PST 2023","Wed Dec 13 08:56:19 PST 2023","Sat Dec 16 08:56:19 PST 2023","","","","16","100% (2/2)","100% (2/2)","100% (2/2)","16","Headings","1686","Section 10.8 No Waiver; Remedies.","-1","","4","8829","Page 15 of 22","1740","Article VI.","10775","1.2  Definitions.","6825","Page 20 
+Article 86","1686","Section 10.8 No Waiver; Remedies.","2936","SIGNATURES APPEAR","10090","RH  JS  
+Page 4 
+13.4.","2468","(xviii) Multibranch Party.","6292","14.7 Headings.","13560","Page 5 of 12 
+b. 
+Golf Bag.","true","false","false","true","false","false","false","false","false","true","Page"
+"3RHLQY6EDVLHLMQV9RQFTQUIVDC4DG","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3Q8GYXHFESJSYXMBD3JG2WE63GBC59","A1689LPUF6HS1A","Approved","Thu Dec 07 22:15:12 PST 2023","Thu Dec 07 22:24:46 PST 2023","Sun Dec 10 22:24:46 PST 2023","Sun Dec 10 22:25:09 PST 2023","","","574","100% (12/12)","100% (12/12)","100% (10/10)","3","Omissions Are Designated As","3514","Vendor except under written agreement by the contracting parties.","-1","","9","1839","Omissions are designated as [***].","3992","Exhibit 10.1 
+Certain information identified by bracketed asterisks (","8490","hereinafter set forth.","618","(o) 
+Intentionally 
+
+Omitted.","177","OMISSIONS ARE DESIGNATED","13229","Exhibit 10.1","6479","BACKGROUND:","5893","(""Pey Dirt"").","7730","[***] non-","3514","Vendor except under written agreement by the contracting parties.","false","false","false","false","false","false","true","true","false","false","The sentence ""BACKGROUND: (""Pey Dirt"")."" does not seem to belong to the group, as it appears to be specific information or a heading related to background details and may not directly relate to the concept of omissions designated by bracketed asterisks.  The group of sentences without the one marked as omitted could be described as a set of clauses or provisions related to omissions designated by bracketed asterisks, certain information identified by bracketed asterisks in Exhibit 10.1, intentionally omitted sections, and the restriction on disclosing non-[***] Vendor information except under a written agreement by the contracting parties."
+"3BFNCI9LYM7GMH6HI0IAJTSGV2D735","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3WSELTNVR6J6QK03UL5NZHUWKQ7ATC","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:53:40 PST 2023","Wed Dec 13 08:53:50 PST 2023","Sat Dec 16 08:53:50 PST 2023","","","","10","100% (2/2)","100% (2/2)","100% (2/2)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","1430","(h) 
+Compliance with Laws.","-1","","8","3145","By: /s/
+
+Judson Hannigan 
+
+
+Name:","5132","By:  /s/","2704","Address","153","By: /s/","5843","Reynolds Group Holdings Inc.
+
+By: 
+Name:
+
+Title: 
+Reynolds Consumer Products Inc.
+
+By: 
+Name:","4232","STEPHEN MARLEY","672","Facsimile:
+
++847.576.4688 
+Email: mark.hacker@motorolasolutions.com
+
+Attention:","2692","Very truly yours, 
+                              /s/","1430","(h) 
+Compliance with Laws.","12805","By: 
+
+
+By: /s/","true","true","false","true","false","false","false","false","false","true","BY"
+"3CZH926SIEVMDS4V5M1ZZ8C3VPD4E9","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3018Q3ZVOL7TA5NBQW0SZ2TEVUOARQ","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:34:51 PST 2023","Tue Dec 05 14:41:53 PST 2023","Fri Dec 08 14:41:53 PST 2023","Fri Dec 08 14:42:09 PST 2023","","","422","100% (70011/70011)","100% (151/151)","100% (150/150)","4","Payments Currency","8369","THE PARTIES HEREBY IRREVOCABLY SUBMIT TO THE EXCLUSIVE JURISDICTION","19","12.0","7","5673","11. ADDITIONAL FEES.","11102","8. Payments. 
+8.01.","1242","8.13 
+Equity Investment.","10768","- 25 -
+
+
+
+
+18.11 
+
+
+Costs","1330","[REVENUE SHARING]. 
+     4.7.
+
+TAXES.","2829","On system completion                                                        date $150,000 
+
+
+            19.2.6.
+
+On 1 January 1999
+                                                        $175,000 
+
+
+            19.2.7.
+
+On 1 April 1999
+                                                        $175,000 
+
+
+            19.2.8.
+
+On 1 July 1999
+                                                        $175,000 
+
+
+            19.2.9.","12014","9. 
+Expenses.","8369","THE PARTIES HEREBY IRREVOCABLY SUBMIT TO THE EXCLUSIVE JURISDICTION","4044","6.0 PAYMENT.","3156","Both parties will agree on payment conditions.","false","false","true","false","false","false","false","true","false","false","Payment"
+"302OLP89D1OMIJ0YIW5VMNY02NWCAZ","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3X73LLYYQ4VN5U3X3VT374B87UPHNO","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:47:26 PST 2023","Fri Dec 08 05:47:48 PST 2023","Mon Dec 11 05:47:48 PST 2023","Mon Dec 11 05:48:09 PST 2023","","","22","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","11882","25.
+ ASSIGNMENT.","9","14.0","0","11882","25.
+ ASSIGNMENT.","7985","No Reliance............................................................................................................................... 8 
+21.
+
+Early Termination...................................................................................................................... 8 
+22.
+
+Captions.....................................................................................................................................
+
+8 
+23. Entire Agreement.......................................................................................................................","6494","Voluntary Withdrawal of a Participant 
+28.","9703","9. TERMS AND TERMINATION 
+     9.1 TERM.","12384","4.
+4 EFFECT OF TERMINATION.","7770","11.5 
+Termination for Convenience.","2894","TERM AND TERMINATION 
+INITIAL TERM AND RENEWALS:","972","11.2  
+Termination.","13318","Reimbursement for Termination Assistance.","10600","1.2
+ TERM.","true","false","false","false","false","false","false","false","false","false","Termination"
+"307FVKVSYTW14DPLIENTTYKM92974Q","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","388U7OUMFAIX9SPTYU3ZAWH1M8C0RP","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:27:28 PST 2023","Tue Dec 05 14:27:47 PST 2023","Fri Dec 08 14:27:47 PST 2023","Fri Dec 08 14:28:09 PST 2023","","","19","100% (70011/70011)","100% (151/151)","100% (150/150)","17","Independent Contractors","12064","12.3 PUBLICITY.","-1","","8","9989","NATURE OF RELATIONSHIP.
+
+(a) 
+Independent Contractor Status.","11204","11. 
+Independent Contractor.","3298","Section 14.12 Independent Contractors.","7482","(<#C36>)Section 9.04
+
+[Independent Contractors].
+
+Independent Contractors.","3769","15. No Third Party Beneficiaries.","13522","9.
+ INDEPENDENT CONTRACTOR.","13062","2.5 
+Not Employment.","7372","15.12 Independent Contractors.","12064","12.3 PUBLICITY.","11564","(d)
+ Independent Contractor.","false","false","false","false","false","false","false","false","true","false","Independent Contractors"
+"3SZYX62S5IHJ0WTLWJ63YQQ09Y475V","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","35K3O9HUAEUZXSZEF62KEW5MEWYEF4","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:56:47 PST 2023","Wed Dec 13 08:57:03 PST 2023","Sat Dec 16 08:57:03 PST 2023","","","","16","100% (2/2)","100% (2/2)","100% (2/2)","16","Headings","1332","INTEREST.","-1","","1","6520","Page 21 of 29 
+13.
+2","1332","INTEREST.","3983","21.
+5. COUNTERPARTS.","3209","(f) 
+Headings.","3798","4. 
+Counterparts.","416","Section 8.2","3359","Sections 5.4.1.1","13402","(f) 
+Counterparts.","1439","Section 17.
+
+Headings.","5684","30.  
+CAPTION REFERENCES.","false","false","false","false","false","true","true","false","false","false","Section"
+"3UV0D2KX1O0EJ64R0XL5HQX37QS4FR","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3QEMNNSB20GHQT681STOKMAKGWD7DZ","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:51:18 PST 2023","Wed Dec 13 08:51:42 PST 2023","Sat Dec 16 08:51:42 PST 2023","","","","24","100% (2/2)","100% (2/2)","100% (2/2)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","7071","[Redacted]","-1","","8","3792","NATIONAL FOOTBALL MUSEUM, INC.","8492","DONG-A ST CO., LTD.
+
+By: /s/","5737","BW-3 FRANCHISE SYSTEMS, INC.","8450","Don Katz","4823","Hans van Leeuwen 
+Name:","7209","150 Second Street 
+Cambridge, Massachusetts 02141
+
+Attn:
+
+Legal Department Facsimile No.:","2418","By: /s/","2690","Very truly yours, 
+                              /s/","7071","[Redacted]","8540","CARRIER:","false","true","false","false","false","true","true","true","false","false","ADDRESS"
+"39WICJI5AV9Z6RCN1VATADLF5VPZ3O","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3QHK8ZVMIPZNQHXQRQ3S814L7KLBLX","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:29:00 PST 2023","Tue Dec 05 15:32:40 PST 2023","Fri Dec 08 15:32:40 PST 2023","Fri Dec 08 15:33:09 PST 2023","","","220","100% (70011/70011)","100% (151/151)","100% (150/150)","19","Governing Law","4398","17.G.  PRETZEL TIME'S FIRST RIGHT OF REFUSAL.","-1","","6","7840","10. 
+JURISDICTION AND VENUE.","5651","23. GOVERNING LAW.","4428","23.G.  APPLICABLE LAW.","5731","10.2  
+
+
+Jurisdiction and Venue.","31","6.9  
+Governing Law.","10995","12.  GENERAL.
+
+12.1  Compliance with Laws.","4398","17.G.  PRETZEL TIME'S FIRST RIGHT OF REFUSAL.","6793","GOVERNING LAW.","608","Jurisdiction 
+54.","13257","Section 1.02 Powers.","false","false","false","false","false","false","true","false","false","false","Governing Law"
+"3DWGDA5POHLMN4TYDU771ETMJ061VZ","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:23 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:23 PST 2023","","","3TXMY6UCAH5HRJ59XV7J079XZB7CQT","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:21:37 PST 2023","Tue Dec 05 14:22:32 PST 2023","Fri Dec 08 14:22:32 PST 2023","Fri Dec 08 14:23:09 PST 2023","","","55","100% (70011/70011)","100% (151/151)","100% (150/150)","17","Independent Contractors","8907","12. General Provisions: 
+a. 
+Assignment.","-1","","1","9268","11. 
+Employment  by  Affiliates.","8907","12. General Provisions: 
+a. 
+Assignment.","4070","Each party hereto is an independent contractor.","5733","13 
+   14 
+        10.4  Independent Contractors.","4758","17.10 
+Independent Contractors.","3789","7.9 
+Independent Contracting Parties.","1737","IV. Assistance in Works Quantity Counting & Valuation.","3638","Hereinafter referred to as “Contractor.”","10299","14.Relationship of the Parties.","348","Section 11.07.
+
+Third-Party Beneficiaries.","false","true","false","false","false","false","true","false","false","false","Contractors"
+"3PKVGQTFIJ1RK3NKGZ96E4FT5F1RYT","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3U0SRXB7CGM0UOH0Z05XL8DEVC9NRW","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:54:10 PST 2023","Wed Dec 13 08:54:20 PST 2023","Sat Dec 16 08:54:20 PST 2023","","","","10","100% (2/2)","100% (2/2)","100% (2/2)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","10552","BLACKSTONE/ GSO LONG-SHORT CREDIT INCOME FUND
+
+By: /s/","13","1.0","9","11427","Attn:","11147","By: /s/ Darcy Davenport 
+
+
+By: /s/","5658","ROGERS CABLE COMMUNICATIONS INC.
+
+Per: 
+Name:","9884","By: /s/","7130","LOUISVILLE GAS AND ELECTRIC COMPANY
+
+By: /s/","12509","Sponsor: Eco Science Solutions, Inc.
+
+/s/Jeffery Taylor","11752","By /s/
+
+Paul Zuzelo","13404","Its: Chief Executive Officer","2860","Searching Full","10552","BLACKSTONE/ GSO LONG-SHORT CREDIT INCOME FUND
+
+By: /s/","false","true","false","true","false","false","true","false","false","false","BYH"
+"336OE47KI41FO591AIWSU4JGFDEWVS","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","34QN5IT0T28RRNAXZLXZJFMWWHE80D","A1689LPUF6HS1A","Approved","Thu Dec 07 20:54:02 PST 2023","Thu Dec 07 21:18:37 PST 2023","Sun Dec 10 21:18:37 PST 2023","Sun Dec 10 21:19:09 PST 2023","","","1475","100% (12/12)","100% (12/12)","100% (10/10)","3","Omissions Are Designated As","7261","Article III.
+
+LICENSE 
+3.1 Licenses and Option to Sanofi.
+
+Licenses.","-1","","4","11216","[***] 
+Time to achieve:","4106","Exhibit 10.16","4100","[NOTE:","11215","[***] 
+
+
+MILESTONE 1","7261","Article III.
+
+LICENSE 
+3.1 Licenses and Option to Sanofi.
+
+Licenses.","11317","1.98 “[***]” means","7731","[***] Notice.","178","OMISSIONS ARE DESIGNATED","11315","[***] or (b)","7656","10.4 
+Debarment and Exclusion.","false","false","false","false","false","false","false","true","false","false","The group of sentences without the one marked as omitted could be described as a set of clauses or provisions related to exhibits, milestones, articles, notices, omissions, and debarment and exclusion."
+"3NC6WP7WJJ1S3U960S1OG62UMMGWW2","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3S3AMIZX3XMN2A14S91Z082YGWIDCP","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:28:58 PST 2023","Tue Dec 05 14:29:15 PST 2023","Fri Dec 08 14:29:15 PST 2023","Fri Dec 08 14:30:09 PST 2023","","","17","100% (70011/70011)","100% (151/151)","100% (150/150)","9","D Assignment","2005","OR PRACTICES DISCLOSED BY COMPANY; OR (C)","6","9.0","1","9248","20.7 Assignment.","2005","OR PRACTICES DISCLOSED BY COMPANY; OR (C)","10545","(d) 
+Assignment.","5878","(c) 
+Successors and Assigns.","12790","Assignment.","2082","12. Miscellaneous.","540","10.11 Assignment.","878","No Transfer without Our Prior Written Consent.","5698","10. 
+Binding Effect.","1712","2. Miscellaneous.","false","true","false","false","false","true","false","false","false","true","Assignment"
+"3QE4DGPGBTSKX60MBHRNZBXF85S4GQ","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3QAVNHZ3EPLI77SYLC3WDQKFQDLLAK","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:54:21 PST 2023","Wed Dec 13 08:54:44 PST 2023","Sat Dec 16 08:54:44 PST 2023","","","","23","100% (2/2)","100% (2/2)","100% (2/2)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","4647","17 
+C. 
+Indemnification Process.","8","5.0","3","13219","The COMPANY  
+
+
+CELEBRITY","13228","By: /s/","6379","BETWEEN: 
+
+
+ORGANIC PREPARATIONS INC. 
+2nd
+
+Floor, Transpacific Haus Lini Highway, Port Vila.","4647","17 
+C. 
+Indemnification Process.","13038","PHOTRONICS, INC.
+
+By: 
+Name:
+
+[***] Title:","6389","ARCA U.S. TREASURY FUND
+
+By: 
+Name:","13256","SNOTARATOR LLC 
+/s/
+
+Orsolya Peresztegi","6391","Pirkko Suominen 
+
+
+
+
+Name:","10650","By: /s/","5484","By: /s/","true","false","true","true","false","false","false","false","false","false","ADDRESS"
+"3X2YVV51PWLZ2TT334C3NGC0Q981W9","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3RXPCZQMQSS6RR1XE2DNPXM4PR7G1C","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:33:36 PST 2023","Tue Dec 05 14:33:55 PST 2023","Fri Dec 08 14:33:55 PST 2023","Fri Dec 08 14:34:09 PST 2023","","","19","100% (70011/70011)","100% (151/151)","100% (150/150)","6","Confidential Information","1699","“Marketing Agent” means Cellco.","-1","","7","12876","Supplier agrees to promptly disclose any Inventions to Customer.","12819","5 
+8. Privacy and Data Collection; Reports.","12357","9.3 
+Return of Confidential Information.","10117","7.3 Confidential Information and Non-Disparagement.","10720","7.2 
+Disclosures Required by Law.","4603","C. 
+Confidential Information.","13222","5. Exchange Authorization 
+     A.","1699","“Marketing Agent” means Cellco.","4943","10.3 
+Return of Confidential Information.","1213","3.4 
+Information Disclosure.","false","false","false","false","false","false","true","true","false","false","Confidentiality"
+"3HO4MYYR145HHB5VEA9J0OIKD4CU60","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3I7DHKZYGQHZ196L459HA2Z90SC5FK","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:31:46 PST 2023","Tue Dec 05 14:32:01 PST 2023","Fri Dec 08 14:32:01 PST 2023","Fri Dec 08 14:32:09 PST 2023","","","15","100% (70011/70011)","100% (151/151)","100% (150/150)","6","Confidential Information","1570","(f) Effective Period and Termination.","15","3.0","5","1469","5.2 
+Confidential Information.","1054","12.  CONFIDENTIALITY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a.","10101","3. PRESERVATION OF SECRECY AND CONFIDENTIALITY.","10056","ARTICLE IX 
+CONFIDENTIALITY 
+9.1.
+
+Confidential Information.","11912","11.4 Required Disclosure","1570","(f) Effective Period and Termination.","332","Section 6.03.
+
+Compulsory Disclosure of Confidential Technical Information.","12877","12.5 Employee Confidentiality and Invention Assignment.","4192","Proprietary Information as required by this Agreement.","25","5.8. Nonpublic Information.","false","false","false","false","false","true","false","false","false","false","Confidentiality"
+"3TUOHPJXYJE7SUEWAXXAIPG1VOMWXV","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3X1FV8S5J08MD3HVLGXCWLTKEVEVGG","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:18:01 PST 2023","Tue Dec 05 15:18:20 PST 2023","Fri Dec 08 15:18:20 PST 2023","Fri Dec 08 15:19:09 PST 2023","","","19","100% (70011/70011)","100% (151/151)","100% (150/150)","8","Insurance And Indemnification","6584","13.2.2.3 Transfer On Death.","-1","","4","10662","7.3 
+Indemnity.","9462","computer processing time.
+
+8. INDEMNIFICATION.","4218","4 
+13. 
+Indemnity.","4814","12. LIMITATION OF LIABILITY 
+12.","6584","13.2.2.3 Transfer On Death.","333","Limitation on Liability.","602","Page 9 of 13 
+Insurance 
+48.","6356","11.4.  Indemnification by LeadersOnline.
+
+Subject to (<#C88>)Section 11.6","3199","3. Representations of the Company.","1168","EITHER PARTY BE LIABLE UNDER THIS AGREEMENT,","false","false","false","false","false","false","false","false","true","false","Indemnity"
+"39I4RL8QGLYYX2VXVN95KB9GN554HP","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3IOEN3P9SA04UYCR2P41D69FWOR165","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:55:46 PST 2023","Wed Dec 13 08:56:02 PST 2023","Sat Dec 16 08:56:02 PST 2023","","","","16","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","5129","SKYPE COMMUNICATIONS, S.A.","13","1.0","8","8548","“Carrier” means
+
+[PennTex North Louisiana","10150","3.
+1.4 Meetings.","7432","6. 
+Sales Disclosures.","2204","(d) Samples and Logistics.","12522","3.6 
+Brand Fund.","10151","3.1.5 Decision-Making.","10762","“EDI” means electronic data interchange.","13230","ARTICLE  I 
+APPOINTMENT OF DISTRIBUTORSHIP 
+1.01.
+
+Distribution Right.","5129","SKYPE COMMUNICATIONS, S.A.","4372","13.  UNIT IMAGE AND OPERATION.
+
+13.A.  CONDITION AND APPEARANCE OF UNIT.","false","true","false","false","true","true","false","false","false","false","Meetings"
+"30QQTY5GMM10LBJ0XKEB62IG8FWU7Z","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3WJ1OXY92DXNS08FRNUS8LY96BZ8AU","A2VH9GIE455YIQ","Submitted","Tue Dec 12 03:19:34 PST 2023","Tue Dec 12 03:39:28 PST 2023","Fri Dec 15 03:39:28 PST 2023","","","","1194","100% (1/1)","100% (1/1)","100% (1/1)","8","Insurance And Indemnification","4248","10.4 Waiver of Breach.","-1","","0","4248","10.4 Waiver of Breach.","3029","13.3 
+Survival of Indemnification Obligations.","3185","8.4 
+Insurance.","13519","7.
+ LIMITATIONS OF LIABILITY; INDEMNIFICATION OF CONTRACTOR.","6077","(a) 
+Indemnification.","7803","Week 19 - 21 
+
+
+5 
+
+
+·
+
+Bug Fixing Warranty Time. 
+·","7414","19.
+3 Entire Liability.","3729","SUBROGATION 
+8.
+
+ASSIGNMENT OF THE CONTRACT 
+9.
+
+COEXISTING INSURANCE 
+10.","11033","5.2  
+SPONSOR REPRESENTATIONS AND WARRANTIES.","10094","C) 
+DEFECTIVE EQUIPMENT RETURN.","false","false","false","true","true","true","false","false","true","true","The common theme among the remaining sentences is the legal and contractual aspects of liability, indemnification, bug fixing warranty, sponsor representations, warranties, and defective equipment return."
+"375VSR8FVYQRPTXPCLBPSBOVB95RZK","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","33TIN5LC07RO2NPSCLEMB3BRSZLY91","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:21:46 PST 2023","Tue Dec 05 15:22:19 PST 2023","Fri Dec 08 15:22:19 PST 2023","Fri Dec 08 15:23:09 PST 2023","","","33","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","317","License Grants.
+
+(a) 
+Patents.","-1","","9","661","Section 6.3 Effect of Merger or Change of Control.","11955","5.2 
+Termination for Convenience.","372","AGREEMENT 
+1. 
+Term.","5986","11.2 TERMINATION FOR CAUSE.","11417","TERM AND TERMINATION 
+13.1 Term.
+
+13.1.1 General.","4743","16. TERMS AND TERMINATION 
+16.1 
+Term.","7329","12.2 Termination.
+
+(a) Terminations by Sanofi.
+
+(i) 
+Termination by Sanofi for Convenience.","10631","5 
+   6 
+                  7.2
+ TERMINATION.","11858","19.4. Early Termination for Material Breach","317","License Grants.
+
+(a) 
+Patents.","false","false","false","false","false","false","false","false","false","true","Termination"
+"3BC9H1KCYWTWSZ46FTJC13NAXUGWY1","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3FTYUGLFSX223PSPDZERM2WOOFW5D9","APRZ7BR8C0ZMQ","Approved","Tue Dec 05 14:30:50 PST 2023","Tue Dec 05 14:31:54 PST 2023","Fri Dec 08 14:31:54 PST 2023","Fri Dec 08 14:32:09 PST 2023","","","64","100% (340/340)","100% (8/8)","100% (3/3)","19","Governing Law","5336","[***] 
+1. Additional","3","16.0","6","3448","18.  EXPORT CONTROLS AND LEGAL COMPLIANCE.","4761","52 
+17.13 
+Waiver of Rule of Construction.","2012","18.04 Governing Law; Jurisdiction.","13214","9.  
+
+
+Governing Law.","11291","Compliance with Laws.","12181","-11-
+     14. Governing Law.","5336","[***] 
+1. Additional","4602","B. 
+Governing Law.","10617","4.12
+ GOVERNING LAW.","8483","11.4. GOVERNING LAW.","true","true","true","true","true","true","false","true","true","true","Law"
+"33KGGVH24WYERTYTD98PPZQ7ZBE1X2","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3NPI0JQDARMDDO65J4NKPCJRI3LPT2","A2FV0CMG9S8CU0","Approved","Fri Dec 08 06:00:19 PST 2023","Fri Dec 08 06:00:27 PST 2023","Mon Dec 11 06:00:27 PST 2023","Mon Dec 11 06:01:09 PST 2023","","","8","100% (70011/70011)","100% (151/151)","100% (150/150)","9","D Assignment","9849","ARTICLE 7 -CONFIDENTIAL","6","9.0","3","4589","25. ASSIGNMENT OR DELEGATION","9473","D. 
+ASSIGNMENT.","2520","Permitted Assignments.","9849","ARTICLE 7 -CONFIDENTIAL","10738","11.8 
+Assignment.","5834","Section 10.10 Assignment.","9561","Section 15.7  ASSIGNMENT.","9877","12.2.
+ Assignability.","12975","2. 
+Assignment.","3390","12.6. 
+Assignment.","false","false","false","true","false","false","false","false","false","false","Assignment"
+"32CXT5U14IK4LPOJ7P6HK2EBJZ2U8M","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","39JEC7537XI9WR1QJU1T6U85G3LVC5","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:21:16 PST 2023","Tue Dec 05 14:21:36 PST 2023","Fri Dec 08 14:21:36 PST 2023","Fri Dec 08 14:22:09 PST 2023","","","20","100% (70011/70011)","100% (151/151)","100% (150/150)","5","C Entire Agreement","9488","CONSULTATION","-1","","3","4429","23.H.  ENTIRE STATUS OF AGREEMENT.","5913","omitted.
+
+22.  
+Entire Agreement.","12966","17.17 Timing Is Important.
+
+Time is of the essence of this Agreement.","9488","CONSULTATION","12826","15. Disclaimers.","8449","11.13  Entire Agreement.","2477","(b) Assessment and Understanding.","2794","15.2 Entire Agreement; Amendment.","6014","16.7 ENTIRE AGREEMENT.","9969","Authorized signatory: /s/","false","false","false","true","false","false","false","false","false","false","Agreement"
+"3YOAVL4CA2YKONVR19FCKIDLJVLZ49","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","39DD6S19JSS529QEGIWRHOL4PS5EZM","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:56:34 PST 2023","Fri Dec 08 05:58:29 PST 2023","Mon Dec 11 05:58:29 PST 2023","Mon Dec 11 05:59:09 PST 2023","","","115","100% (70011/70011)","100% (151/151)","100% (150/150)","8","Insurance And Indemnification","12582","Page 27 of 80 
+13.2.3","-1","","5","2548","10. LIABILITY 
+10.1.","13251","9.03. Indemnity.","9056","12.4. Indemnification by PaperExchange.","13573","15. 
+Indemnification.","10396","16. 
+Environmental Indemnity.","12582","Page 27 of 80 
+13.2.3","12229","13 
+8.3 Indemnification Process.","3183","8.2 
+Indemnification by OntoChem.","5670","INDEMNIFICATION","10211","11.5Disclaimer of Warranty.","false","false","false","false","false","true","false","false","false","false","Indemnification"
+"379OL9DBSUVLG3RYMI9KNJFZZTW9YP","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3GDTJDAPVXSOU1H4OQKXHCT90UPM8X","AYZCJQUEL9DUU","Submitted","Tue Dec 12 19:12:08 PST 2023","Tue Dec 12 19:27:37 PST 2023","Fri Dec 15 19:27:37 PST 2023","","","","929","100% (1/1)","100% (1/1)","100% (1/1)","2","Distributor Personnel","5960","[CO-BRANDED TRAINING AND EDUCATION CENTER].","2","2.0","9","5581","4.5 
+Personnel; Representative Director.","4865","3.12.5 
+Regulatory Approvals.","7729","4.2 
+Diligence.","2205","(e) 
+Demand Forecast.","9012","5.2. Sales Force Visits.","12906","5. GUIDANCE; OPERATIONS MANUAL.
+
+5.1 Guidance and Assistance.","7104","Known/reported component vulnerabilities; and 
+16.","2982","ARTICLE 5 FORECASTS AND ORDERS 
+5.1 
+Forecasts.","6987","“Territory” means China.
+
+Other territories are subject to approval by IMNTV.
+
+2. DISTRIBUTOR OBLIGATIONS.
+
+2.
+1 Subscription Transactions.","5960","[CO-BRANDED TRAINING AND EDUCATION CENTER].","false","false","false","true","false","false","false","false","false","false","Yes, your analysis of the sentences and their features is correct. ""(e) Demand Forecast"" is the only sentence that does not belong to the group because it has the feature ""Other"" instead of ""Section"" or ""Sentence"". This suggests that it may be a heading or category label instead of a specific sentence within a section"
+"3PUOXASB59KLLT13I4B31QO15N09ZG","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3STRJBFXOZ8C2X9P6CICTVXSORFKTS","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:34:41 PST 2023","Tue Dec 05 14:34:50 PST 2023","Fri Dec 08 14:34:50 PST 2023","Fri Dec 08 14:35:09 PST 2023","","","9","100% (70011/70011)","100% (151/151)","100% (150/150)","10","Notices","9856","2.3.
+ Other Client Confidential Information.","6","9.0","9","8442","11.6  Notices.","4448","27.  NOTICES.
+
+27.A. DELIVERY OF NOTICES.","13078","8.6 Notice.","10633","Notices personally delivered are given when received.","2270","17. 
+Notices.","5785","3.  DEFAULT AND NOTICE.","11046","8.7  
+NOTICES.","6151","9.6  
+Notices.","1725","· Notifications 
+o","9856","2.3.
+ Other Client Confidential Information.","false","false","false","false","false","false","false","false","false","true","Notices"
+"309D674SH12R1T5QOA5RHYI6K5HCBU","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3X73LLYYQ4VN5U3X3VT374B87SPNHQ","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:32:38 PST 2023","Tue Dec 05 14:32:58 PST 2023","Fri Dec 08 14:32:58 PST 2023","Fri Dec 08 14:33:09 PST 2023","","","20","100% (70011/70011)","100% (151/151)","100% (150/150)","19","Governing Law","1734","II. Implementation Plan for Environmental Protection.","-1","","2","7489","(<#C43>)Section 9.11
+
+[Governing Law].
+
+Governing Law.","2558","14 
+17. GOVERNING LAW 
+17.1.","1734","II. Implementation Plan for Environmental Protection.","4265","7. 
+Governing Law.","11599","22. GENERAL 
+     a)
+ Governing Law.","7086","4.10 
+Governing Law and Jurisdiction.","7054","6.6 
+Subordination.","11797","19. 
+Applicable Law.","5680","GOVERNING LAW.","10247","16.4Governing Law.","false","false","true","false","false","false","true","false","false","false","Governing Law"
+"3KI0JD2ZU3ZFJ0TZ12G8QW405TF76B","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3OSWBBLG1HEB58CZJ5XMELN8HFVXD2","A1689LPUF6HS1A","Approved","Thu Dec 07 20:44:06 PST 2023","Thu Dec 07 20:45:55 PST 2023","Sun Dec 10 20:45:55 PST 2023","Sun Dec 10 20:46:09 PST 2023","","","109","100% (12/12)","100% (12/12)","100% (10/10)","15","Term And Termination","8781","iPass Confidential","-1","","4","11760","2.2. Early Termination. 
+2.2.1.","13181","12 
+10.TERMINATION: 
+(a)","6591","14.2 Immediate Termination by Us.","7534","12.4 
+Termination for Insolvency and Other Events.","8781","iPass Confidential","11203","Thomas Desbiens 
+10.
+
+Term and Termination.","5812","Section 6.3 Termination of Agreement.","2784","13.2 
+Termination for Breach.","1947","7.6 Termination for Breach of Anti-Bribery Representation.","1515","Term and Termination.","false","false","false","false","true","false","false","false","false","false","The sentence ""iPass Confidential"" does not seem to belong to the group as it appears to be a header or a label rather than a statement related to termination terms.  The group of sentences without the one marked as omitted could be described as a set of clauses or provisions related to early termination, termination for insolvency and other events, termination of the agreement, termination for breach, and termination for breach of anti-bribery representation."
+"3DIIW4IV8RCYTX6H15RQKNAVNIK4II","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3YMTUJH0DVXROVKMLKVWME8WSGB4TV","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:50:43 PST 2023","Wed Dec 13 08:51:00 PST 2023","Sat Dec 16 08:51:00 PST 2023","","","","17","100% (2/2)","100% (2/2)","100% (2/2)","3","Omissions Are Designated As","13346","By: /s/ R. Preston Pitts 
+
+
+By: /s/","13","1.0","5","5739","(""you"").","12191","OMISSIONS ARE DESIGNATED","6686","Non-Priority]","3795","Exhibit A Excluded Categories and Properties 
+1.","5340","Samples of [***] of Year 2","13346","By: /s/ R. Preston Pitts 
+
+
+By: /s/","13042","Omissions are designated as [***].","8395","[***], and (f)","36","* ]; (b) is the next
+
+[ * ] that occurs following a","10599","1 
+                                                                   EXHIBIT 10.14","false","false","false","true","false","false","false","false","false","true","EXHIBIT"
+"3CKVGCS3PIM6ONRCNGY2CMQ5F45S0H","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","32XVDSJFP2ED8MFF89BW7LG6DJY2MO","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:17:14 PST 2023","Tue Dec 05 15:18:00 PST 2023","Fri Dec 08 15:18:00 PST 2023","Fri Dec 08 15:18:09 PST 2023","","","46","100% (70011/70011)","100% (151/151)","100% (150/150)","8","Insurance And Indemnification","6134","4.  PAYMENT 
+     4.1  
+Payment.","4","6.0","8","8422","7.2  
+Indemnity.","2148","13.3  INDEMNITY.","3444","Page 17 
+14.  WARRANTY.","11681","(b) 
+Commercial General Liability Insurance.","7010","8.
+4 Disclaimer of Warranties.
+
+EXCEPT AS EXPRESSLY SET FORTH","3268","Section 10.2 NCM General Indemnification.","752","8.
+ COVENANTS OF CONSULTANT.","11855","17. Indemnities 
+17.1.","6134","4.  PAYMENT 
+     4.1  
+Payment.","12232","8.5 Insurance.","false","false","false","false","false","false","true","false","true","false","Indemnity"
+"3TX9T2ZCBBIWXPEBBFLVFAWC3OKWZS","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3X87C8JFV9SXY0U5UHXJFCDFLETQS1","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:42:21 PST 2023","Tue Dec 05 14:42:33 PST 2023","Fri Dec 08 14:42:33 PST 2023","Fri Dec 08 14:43:09 PST 2023","","","12","100% (70011/70011)","100% (151/151)","100% (150/150)","18","Disputes And Arbitration","12303","By: /s/","13","1.0","5","12766","Page 8 
+16.  ARBITRATION.","537","(d) Court Actions.","9039","Negotiation and Escalation.","1183","There will be one arbitrator.
+
+The language of the arbitration will be English.","2269","16. 
+Disputes and Arbitration.","12303","By: /s/","141","The number of arbitrator(s) shall be one.
+
+The seat of arbitration shall be Houston, Texas.","7945","13.4 
+Arbitration.","2009","18.01 Negotiations.","6811","39.0  
+
+
+ARBITRATION 
+
+
+39.1","false","false","false","false","false","true","false","false","false","false","Arbitration"
+"3L21G7IH49D3RYO3I5UR8DXG1H81Y8","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","33NF62TLXMJIOUDKUI48RPAJQQFKJG","A1689LPUF6HS1A","Approved","Thu Dec 07 22:24:52 PST 2023","Thu Dec 07 22:35:44 PST 2023","Sun Dec 10 22:35:44 PST 2023","Sun Dec 10 22:36:09 PST 2023","","","652","100% (12/12)","100% (12/12)","100% (10/10)","2","Distributor Personnel","9534","Section 7.10  COPYRIGHT AND OTHER PROPRIETARY NOTICES.","0","8.0","6","2095","4.3  
+SUBSTITUTE  DIRECTOR OF  OPERATIONS.","3855","4.3. Delivery Terms.","374","3. 
+Standard Operating Procedures.","953","5.1  
+Installation.","11612","7.  PLACEMENT 
+     a)","9771","(c) 
+Use of Endorsements.","9534","Section 7.10  COPYRIGHT AND OTHER PROPRIETARY NOTICES.","580","Page 2 of 13 
+Management Duties 
+12.","8254","Administration and Risk Management.","7995","3. 
+Reseller Activity.","false","false","false","false","true","false","false","false","false","false","The sentence ""7. PLACEMENT a)"" does not seem to belong to the group, as it is related to placement, which is different from the topics of substitute director of operations, delivery terms, standard operating procedures, installation, use of endorsements, copyright and other proprietary notices, page 2 of 13 management duties, administration and risk management, and reseller activity.  The group of sentences without the one marked as omitted could be described as a set of clauses or provisions related to substitute director of operations, delivery terms, standard operating procedures, installation, use of endorsements, copyright and other proprietary notices, page 2 of 13 management duties, administration and risk management, and reseller activity."
+"335VBRURDLHNAYA7MHXQGGNJHHRE9F","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","37UQDCYH60C3KA6USDTIQ8GRFSUV7C","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:20:23 PST 2023","Tue Dec 05 14:20:42 PST 2023","Fri Dec 08 14:20:42 PST 2023","Fri Dec 08 14:21:09 PST 2023","","","19","100% (70011/70011)","100% (151/151)","100% (150/150)","14","Financial Records Audits","10814","8.14
+ Modification of Terms and Pricing.","-1","","5","2128","14 
+      10.2  
+ANNUAL FINANCIAL STATEMENT.","1387","e. 
+Audit Rights.","8862","No period shall be audited more than once.","10328","AUDIT","2127","ACCOUNTING PROCEDURES;  RIGHT OF AUDIT.
+
+10.1  
+ACCOUNTING.","10814","8.14
+ Modification of Terms and Pricing.","1979","-69-
+15. Records and Audits.
+
+15.1 Records.
+
+Manufacturer will maintain complete and accurate Records.","6741","18.02 
+Audit Rights.","10476","6. INSPECTION AND AUDIT.","11891","Premier access to such records during normal working hours.","false","false","false","false","false","true","false","false","false","true","Audit"
+"3QGTX7BCHRJ2K6ZRFEYMPAJZJRGZ5E","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3LO69W1SU6UJHY517CV69CVINY3GLB","A1689LPUF6HS1A","Approved","Thu Dec 07 22:08:20 PST 2023","Thu Dec 07 22:15:05 PST 2023","Sun Dec 10 22:15:05 PST 2023","Sun Dec 10 22:15:09 PST 2023","","","405","100% (12/12)","100% (12/12)","100% (10/10)","16","Headings","13478","35 
+(c) No Material Adverse Change.","-1","","0","13478","35 
+(c) No Material Adverse Change.","2627","Page 12 of 32","6535","14.
+ Multiple Counterparts.","5881","(f) 
+Headings.","7491","(<#C44>)Section 9.12
+
+[Captions].
+
+Captions.","8248","22. SIGNIFICANCE OF HEADINGS.","4444","25.C.  COUNTERPARTS.","12763","Page 6 
+10.","2668","6. 
+Counterparts.","9253","20.13 Language.","false","false","false","false","true","false","false","false","false","false","The sentence ""(<#C44>)Section 9.12 [Captions]. Captions."" does not seem to belong to the group, as it appears to be a specific formatting or tagging instruction rather than a statement related to material adverse change, multiple counterparts, headings, captions, counterparts, language, or the significance of headings.  The group of sentences without the one marked as omitted could be described as a set of clauses or provisions related to material adverse change, multiple counterparts, headings, captions, counterparts, language, and the significance of headings."
+"37YYO3NWHF7ABYXW2A1MSIOO2QHCC1","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:24 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:24 PST 2023","","","3VSOLARPKEQNMKS4N0LWL9FEJYQ390","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:22:32 PST 2023","Tue Dec 05 14:23:12 PST 2023","Fri Dec 08 14:23:12 PST 2023","Fri Dec 08 14:24:09 PST 2023","","","40","100% (70011/70011)","100% (151/151)","100% (150/150)","4","Payments Currency","10333","USE ACKNOWLEDGEMENT","-1","","7","12913","6.6 Software and Programming Fees.","2074","5. Pricing and Payment.","7983","Payment Of Expenses................................................................................................................ 5 
+12.
+
+Approval Of Counsel................................................................................................................. 5 
+13.
+
+Notices....................................................................................................................................... 6 
+14.","8974","Thereafter, any net revenues exceeding","12868","1.3 Currency","7463","Payment Terms.","2753","8.3 Taxes.","10333","USE ACKNOWLEDGEMENT","7122","6.2 
+INCIDENTAL CHARGES –","4001","8 
+6.6 
+Taxes.","false","false","false","true","false","false","false","true","false","false","Expenses"
+"3OJX0UFJ01O4ZU7TCHCVKY9M35KU9B","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","32AT8R96GOQPQT1MBQHOPDA4OZZSU8","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:46:41 PST 2023","Tue Dec 05 14:46:57 PST 2023","Fri Dec 08 14:46:57 PST 2023","Fri Dec 08 14:47:09 PST 2023","","","16","100% (70011/70011)","100% (151/151)","100% (150/150)","17","Independent Contractors","12640","Post-Term.","-1","","3","2051","15 
+11.8 
+No Third-Party Beneficiaries.","10260","Independent Contractor.","12434","28. No Third Party Beneficiaries.","12640","Post-Term.","8164","16.8 
+Independent Contractors.","8620","Subcontracting.","262","13.11 
+Third Party Beneficiaries.","5667","7. EMPLOYEE STATUS.","3745","3. 
+Non-Solicitation.","13158","14. Miscellaneous.
+
+14.1. Independent Contractors.","false","false","false","true","false","false","false","false","true","false","Independent Contractors"
+"3WJGKMRWVKQKGQ3A26WXCO66NQTCD1","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","39OWYR0EPN8X3XG5F7EELZX2VXGFYA","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:32:58 PST 2023","Tue Dec 05 14:33:16 PST 2023","Fri Dec 08 14:33:16 PST 2023","Fri Dec 08 14:34:09 PST 2023","","","18","100% (70011/70011)","100% (151/151)","100% (150/150)","10","Notices","562","Update help file.
+
+Change branding from Wildform to On2.           .
+
+Delivery within 150 days.","-1","","9","1359","10.6. NOTICES.","10731","11.2 
+Notice.","5117","14.5 Notices.","13492","41 
+11. 
+Notices.","5551","Section 10.6 Notices.","5897","5. Notices and Submissions.","1753","Notices 
+20.1","2254","14.
+8 Notices.","987","14.4  
+Notices.","562","Update help file.
+
+Change branding from Wildform to On2.           .
+
+Delivery within 150 days.","false","false","false","false","false","false","false","false","false","true","Notices"
+"34YWR3PJ2AREK4DBHQ4PBU7XUJ7X0U","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3FTOP5WARI5GB46GQPUQ85VACRJ0JY","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:20:34 PST 2023","Tue Dec 05 15:21:46 PST 2023","Fri Dec 08 15:21:46 PST 2023","Fri Dec 08 15:22:09 PST 2023","","","72","100% (70011/70011)","100% (151/151)","100% (150/150)","10","Notices","13254","9.
+06. Separate Provisions.","-1","","7","1493","10.5 Notices.","9727","Attention:","6789","14. NOTICES.","9967","11.5 Notice 
+11.5.1","12836","(k) 
+Notice.","9745","Section 13.
+
+Notices.","12848","Notice shall be effective upon receipt.","13254","9.
+06. Separate Provisions.","4535","Attention:","2412","7.  
+CHANGE OF ADDRESSES FOR NOTICE.","false","false","false","false","false","false","false","true","false","false","Notices"
+"33KMQD9OFLVYN074KCL0WA4W04Z77A","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3FPRZHYEP1OLJR57Q1QSDR4BAQNV3M","APRZ7BR8C0ZMQ","Approved","Wed Dec 06 04:58:31 PST 2023","Wed Dec 06 04:59:16 PST 2023","Sat Dec 09 04:59:16 PST 2023","Sat Dec 09 05:00:09 PST 2023","","","45","100% (340/340)","100% (8/8)","100% (3/3)","8","Insurance And Indemnification","8300","11.12 Waiver of Jury Trial.","11","10.0","8","1108","12.  INDEMNITY.","6382","The Manufacturer indemnifies the Customer for the same.","6796","INDEMNITY AND INSURANCE.","6076","Indemnification and Insurance.","12823","6 
+12. Representations and Warranties.","1636","(b) 
+Proceedings.","1966","10.1 
+10.2 Indemnification of Manufacturer.","5108","12.2 Limitation of Liability.","8300","11.12 Waiver of Jury Trial.","13154","12. Indemnification.
+
+12.1. By EFS.","false","false","false","false","false","true","false","false","true","false","indemnification in warranties"
+"3H1C3QRA030P8WHAY17HI6ORN2UCEU","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","35LDD5557DL8P2J5XFH07H20UJJKMR","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:32:01 PST 2023","Tue Dec 05 14:32:15 PST 2023","Fri Dec 08 14:32:15 PST 2023","Fri Dec 08 14:33:09 PST 2023","","","14","100% (70011/70011)","100% (151/151)","100% (150/150)","4","Payments Currency","11336","3.7 Alliance Managers.","-1","","3","8466","Attorneys' Fees.","11064","Expenses.","6331","[Revenue Sharing]. and 6.3.2.
+
+6.4.  Taxes.","11336","3.7 Alliance Managers.","10521","Cooperation Fee 
+1.Cooperation Fee","10183","6.7Manner of Payments.","13375","ATTORNEYS’ FEES","749","5.
+ COMPENSATION TO CONSULTANT.","6568","8.5 Application of Fees.","1098","Invoices will be paid within 15 days of receipt.","false","false","false","true","false","false","false","false","false","false","Fees"
+"3ZXV7Q5FJD5HEAH6TCRN0O9RZ39CFC","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3J2UYBXQQOT4N9R96601Z1Q5QLZ60Y","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:27:48 PST 2023","Tue Dec 05 15:28:04 PST 2023","Fri Dec 08 15:28:04 PST 2023","Fri Dec 08 15:28:09 PST 2023","","","16","100% (70011/70011)","100% (151/151)","100% (150/150)","11","Amendment Waiver","2095","4.3  
+SUBSTITUTE  DIRECTOR OF  OPERATIONS.","2","2.0","5","6436","2  WAIVER AND AMENDMENT.","1999","17.14 Amendments.","6859","9.4 
+Amendments and Waivers.","5683","28.  
+WAIVER.","5697","6 
+9. 
+Waiver.","2095","4.3  
+SUBSTITUTE  DIRECTOR OF  OPERATIONS.","11562","18.  
+Miscellaneous.
+
+-------------
+     (a)
+ Amendments and Waivers.","8468","19. No Implied Waivers.","7380","2. No Other Amendments.","13175","5 
+(c) 
+Preemption.","false","false","false","false","false","true","false","false","false","false","Waivers and Amendments"
+"31D0ZWOD0CG2OR5I6GCBRMWZTYZA04","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3YZ8UPK3VW39JCCQE4ROA86M2YDCU2","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:54:17 PST 2023","Fri Dec 08 05:54:32 PST 2023","Mon Dec 11 05:54:32 PST 2023","Mon Dec 11 05:55:09 PST 2023","","","15","100% (70011/70011)","100% (151/151)","100% (150/150)","9","D Assignment","4203","[*] TO NETGEAR PURSUANT TO THE AGREEMENT.","-1","","3","8813","12. GENERAL
+
+TERMS 
+12.1","12853","9.8 
+Assignment.","10033","10. Miscellaneous.","4203","[*] TO NETGEAR PURSUANT TO THE AGREEMENT.","8519","ARTICLE XVI ASSIGNMENT 
+16.
+
+1 Restrictions on Assignment.","3206","(c) 
+Successors and Assigns.","1287","14.6 
+Assignment.","3191","9.8 
+Assignment.","335","ARTICLE VIII 
+TRANSFERABILITY AND ASSIGNMENT 
+Section 8.01.
+
+No Assignment or Transfer Without Consent.","9911","18. GENERAL 
+18.1
+ Assignment.","true","false","true","false","false","false","false","false","false","false","Assignment"
+"356TQKY9XHE2NECNUHD6AA0RBO578X","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","39LOEL67OVMN8F9UI8FILDK3ZU883K","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:58:30 PST 2023","Fri Dec 08 05:58:40 PST 2023","Mon Dec 11 05:58:40 PST 2023","Mon Dec 11 05:59:09 PST 2023","","","10","100% (70011/70011)","100% (151/151)","100% (150/150)","9","D Assignment","8880","By: /s/","13","1.0","4","2670","8. Assignment.","5061","15.1
+ Assignment.","11042","8.3  
+ASSIGNMENT.","9511","Assignment.","8880","By: /s/","760","(f) 
+Assignment.","7128","4 
+ARTICLE XIV – ASSIGNMENTS 
+14.1","6088","(g) 
+Assignment.","624","Section 1.2 Construction.","6288","14.3 
+Assignment.","false","false","false","false","true","false","false","false","true","false","Assignment"
+"3DWNFENNE5CUO8QNJNCQWOPV0X94JU","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","39O5D9O87W9PKIZ7ZKVNNZGMQUG3CR","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:54:58 PST 2023","Wed Dec 13 08:55:20 PST 2023","Sat Dec 16 08:55:20 PST 2023","","","","22","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","236","9.2 
+Public Announcements.","6","9.0","8","10256","1. 
+Services.","12444","10.4 
+Plant Inspection:","10017","1.
+4  Deleted.","4478","6. Personnel 
+A)","3955","FUTURE PRODUCTS AND DEVELOPMENTS 8 
+9.","9889","3.3  
+Total
+
+[***] Impressions.
+
+Intuit estimates but does not guarantee to deliver     -----------------------","1218","5.3 
+Commercialization Reports.","5028","2.2
+ Delivery of Content.","236","9.2 
+Public Announcements.","10148","3.1.2 Members; Officers.","true","false","true","true","false","false","true","false","false","false","Commercialization"
+"3RDTX9JRT0I21JVXZ9JKA6V2VUN79M","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3YGXWBAF73YA2EIBZY06X48S4SG4CD","A2OXQN2EYB3EEB","Submitted","Tue Dec 12 08:52:32 PST 2023","Tue Dec 12 09:00:31 PST 2023","Fri Dec 15 09:00:31 PST 2023","","","","479","100% (1/1)","100% (1/1)","100% (1/1)","2","Distributor Personnel","10053","WHETHER EXPRESS OR IMPLIED, AND LICENSOR HEREBY DISCLAIMS
+
+ANY AND ALL SUCH WARRANTIES.
+
+9 
+ARTICLE VIII INDEMNIFICATION 
+8.1.
+
+Indemnificationby Licensor.","-1","","4","7593","2.3 Information Exchange, Records and Compliance.
+
+2.3.1 
+Technology Transfer.","1413","Servicing Duties of the Servicer.","9841","5.2 
+Options.","9840","3.3 
+Additional Services.","10053","WHETHER EXPRESS OR IMPLIED, AND LICENSOR HEREBY DISCLAIMS
+
+ANY AND ALL SUCH WARRANTIES.
+
+9 
+ARTICLE VIII INDEMNIFICATION 
+8.1.
+
+Indemnificationby Licensor.","6323","3.2. Purchase Requirements.","1871","20 
+Exhibit 1.13 — Current Bromelain SP Specifications","9499","2. Marketing and Distribution.
+
+a.  
+Time Life Distribution.","2676","(""Merger Corp."") and GSMS.","11217","1. Name of the Joint Venture.","false","false","false","false","false","false","false","false","true","false","GSMS is the correct answer as all other sentences that I marked as omitted."
+"3A520CCNWPH1FHKCENBQCBY3NZ9EAU","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3KIBXJ1WD8BWP54HAVWDZLR5PLYKOA","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:49:21 PST 2023","Fri Dec 08 05:49:34 PST 2023","Mon Dec 11 05:49:34 PST 2023","Mon Dec 11 05:50:09 PST 2023","","","13","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","11077","Shelly C. Lombard is currently an independent consultant.","-1","","6","9294","12. TERM 
+12.1 
+Term and Termination.","11251","(b) 
+Bankruptcy.","1172","(c) Termination by DIALOG.","12013","Termination Fee.","593","Dissolution of the Joint Venture 
+36.","11819","8.2 
+Termination by Either Party.","11077","Shelly C. Lombard is currently an independent consultant.","8433","10.5  
+Effect of Termination.
+
+10.5.1  
+General.","3163","4.4 
+Termination for Cause.","660","Section 4.5 Bankruptcy.","false","false","false","false","false","false","true","false","false","false","Termination"
+"3R16PJFTS58PZSW518C2X3P8FM94KT","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","39GXDJN2OWV7KOBD2ILO48CMRNO8VN","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:56:33 PST 2023","Wed Dec 13 08:56:46 PST 2023","Sat Dec 16 08:56:46 PST 2023","","","","13","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","11911","11.2 Exceptions to Confidential Information","6","9.0","7","12748","DISTRIBUTOR AGREEMENT 
+1.","2199","3. COLLABORATION 
+3.
+1 Purpose.","11837","Business Plan 
+7 
+3.6.
+
+Payment Terms 
+7 
+5.
+
+Development Work 
+8 
+6.
+
+Further Development Work 
+8 
+7.
+
+Brand Name and Trademarks 
+9 
+8.
+
+Labelling and Packaging 
+9 
+9.
+
+Regulatory Obligations and Procedures 
+10 
+9.1.","8066","3.3 Information.","4477","5. Duties of The Distributor 
+A)","9886","2.3  
+Additional Banner Advertisements.","1140","4. PRODUCT COMMERCIALIZATION.
+
+4.1 Commercialization Plan.","11911","11.2 Exceptions to Confidential Information","7302","8.3 
+Distributorships.","9888","3.2  
+Additional Banner Advertisements.","true","false","false","false","true","false","false","false","true","false","Distributorships"
+"33KGGVH24WYERTYTD98PPZQ7ZBDX1X","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3F6KKYWMNEI6TEYVHZADGJWAF0WNDH","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:32:16 PST 2023","Tue Dec 05 14:32:38 PST 2023","Fri Dec 08 14:32:38 PST 2023","Fri Dec 08 14:33:09 PST 2023","","","22","100% (70011/70011)","100% (151/151)","100% (150/150)","19","Governing Law","162","OMISSIONS ARE DESIGNATED","-1","","1","11465","SEC & LEGAL COMPLIANCE.","162","OMISSIONS ARE DESIGNATED","13253","9.
+05.  Applicable Law.","2277","22. Governing Law.","12430","23. 
+Choice of Law.","2806","15.13 Governing Law and Equitable Relief.
+
+15.13.1 Governing Law.","533","10.7 Governing Law; Forum.","11139","THE PARTIES CONSENT TO THE EXERCISE OF PERSONAL JURISDICTION","7053","6.5 
+Governing Law; Venue.","122","MISCELLANEOUS PROVISIONS 
+24.","false","true","false","false","false","false","false","false","false","true","Governing Law"
+"3VGZ74AYTIXNSAD14WX5I9930I9CGB","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","31JLPPHS2XBQT7WAPP4EIZA3EXC3OE","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:29:34 PST 2023","Tue Dec 05 14:30:48 PST 2023","Fri Dec 08 14:30:48 PST 2023","Fri Dec 08 14:31:09 PST 2023","","","74","100% (70011/70011)","100% (151/151)","100% (150/150)","15","Term And Termination","13346","By: /s/ R. Preston Pitts 
+
+
+By: /s/","13","1.0","9","2452","3. Term and Termination of Agreement.","1570","(f) Effective Period and Termination.","8864","CHT’s Right to Terminate:","10825","REDACTED 
+     11.4 Termination Assistance.","6590","less than ten (10) days;","7533","12.3 
+Termination for Cause.","6515","Article 10 Liabilities for Breach of Agreement 
+10.","4985","14.2.6 Termination for Change of Control of PB.","6941","8.3
+Termination for Cause.","13346","By: /s/ R. Preston Pitts 
+
+
+By: /s/","false","false","false","false","false","false","false","false","false","true","Termination"
+"3P458N04Q3YLGEGPWD83UI0CRHRX2E","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3B2X28YI3ZW57WUJ4MXQJIMOHPV6BJ","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:42:01 PST 2023","Tue Dec 05 14:42:20 PST 2023","Fri Dec 08 14:42:20 PST 2023","Fri Dec 08 14:43:09 PST 2023","","","19","100% (70011/70011)","100% (151/151)","100% (150/150)","19","Governing Law","12728","In sum, Minn. Stat.
+
+§80C.14 (subd.","-1","","2","10670","10.5 
+Governing Law.","5882","(g) Governing Law; Choice of Venue.","12728","In sum, Minn. Stat.
+
+§80C.14 (subd.","2584","15.6 
+Governing Law.","4590","27. GOVERNING LAW","758","(d) 
+Compliance with Regulatory Agencies.","1987","17.3 Governing Law and Venue.","10406","Governing Law.","9619","Section 11.8.
+
+Governing Law.","10314","24.Governing Law; Attorney’s Fee.","false","false","false","false","false","true","false","false","false","false","Governing Law"
+"3ACRLU860PV6YRP4K1BM7MI95HUEBP","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3ZSANO2JCIO07B4WG1MP3D91ECKFSW","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:28:39 PST 2023","Tue Dec 05 14:28:57 PST 2023","Fri Dec 08 14:28:57 PST 2023","Fri Dec 08 14:29:09 PST 2023","","","18","100% (70011/70011)","100% (151/151)","100% (150/150)","4","Payments Currency","12366","11.3 
+Assignment.","9","14.0","6","7093","Payment will be made in United States dollars.","5803","ARTICLE V FEES 
+Section 5.1 Fees.","8922","4.3 
+Expenses.","355","Expenses.","4914","6.4 
+Late Payments.","118","PERFORMANCE BONUSES AND TOTAL COMPENSATION LIMITATION 
+A.","12366","11.3 
+Assignment.","2500","Payment of Statements.","12791","19. 
+Expenses.","789","[Regional Fund] below.","false","false","false","false","false","false","true","false","false","false","Expenses"
+"3EKZL9T8YA31S68CO2FN39L4FIMCHA","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3F6HPJW4JGH9DY9TCBHJGJIXCWX2WN","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:52:04 PST 2023","Wed Dec 13 08:52:19 PST 2023","Sat Dec 16 08:52:19 PST 2023","","","","15","100% (2/2)","100% (2/2)","100% (2/2)","16","Headings","9000","14. 
+Termination by the Sponsor.","15","3.0","3","615","Page 12 of 13 
+68.","8334","Section 2.11 Title.","411","3 
+SECTION 4.","9000","14. 
+Termination by the Sponsor.","1997","-76-
+
+
+17.12 Rules of Construction.","11402","Page 50 of 85 
+10.5 Publicity.","1996","-75-
+
+
+17.11 Headings; Interpretation.","11798","21. 
+Counterparts.","1118","23.  
+JOINT DRAFTING AND NEUTRAL CONSTRUCTION.","11073","8 
+19. Interpretation and Construction.","true","false","false","false","false","true","false","false","false","false","PAGE"
+"33N1S8XHHO23WOY8ERWAMK6I7BC1ZZ","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3HPZF4IVNPAQ0LWVO5ODDTCZYLDCYN","A1689LPUF6HS1A","Approved","Thu Dec 07 20:32:37 PST 2023","Thu Dec 07 20:43:33 PST 2023","Sun Dec 10 20:43:33 PST 2023","Sun Dec 10 20:44:09 PST 2023","","","656","100% (12/12)","100% (12/12)","100% (10/10)","13","Lifeway Foods Inc Ludmila Smolyansky By S Julie Smolyansky By S","2292","12. INVOICING AND PAYMENT TERMS 
+12.1","4","6.0","1","11048","By:  /s/
+
+Howard Berman  
+   ----------------------------------  
+
+
+By:  /s/","2292","12. INVOICING AND PAYMENT TERMS 
+12.1","3214","Beauty, Inc.","3303","By: 
+Name:","4410","20.D.  TELEPHONE COMPANY.","10649","Matthew S.
+
+O’Mara 
+Matthew S.
+
+O’Mara 
+Authorized Signatory 
+AISG GP LTD.
+
+By: /s/
+
+Matthew S.
+
+O’Mara 
+Matthew S.
+
+O’Mara 
+Authorized Signatory 
+APOLLO LIFE ASSET, L.P.","8879","By: /s/","2686","Very truly yours, 
+                              /s/","7406","Very truly yours, 
+                                        AFSALA BANCORP, INC.","4619","PAPA JOHN’S","false","false","false","false","false","false","false","false","true","false","The group of sentences without the one marked as omitted could be described as a collection of signatures, payment terms, company names, and authorized signatories."
+"3IZVJEBJ6C1Y3AZ5KX8RHGXZFMRZ6U","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3WR9XG3T66S4QXNF8HSVHIGE29447I","A19BG3DNCB8371","Approved","Thu Dec 07 06:57:15 PST 2023","Thu Dec 07 06:58:00 PST 2023","Sun Dec 10 06:58:00 PST 2023","Sun Dec 10 06:58:09 PST 2023","","","45","67% (2/3)","100% (2/2)","100% (1/1)","3","Omissions Are Designated As","12418","Licensing.","0","8.0","0","12418","Licensing.","6548","[Remainder of this page intentionally left blank]","6380","RECITALS 
+a.","3843","COGS is defined on Exhibit A. 
+1.7.","13043","Omissions are designated as [***].","175","OMISSIONS ARE DESIGNATED","5339","[***]. 4. Next","9846","[intentionally omitted]","13057","Exhibit 4.5 
+CONSULTING AGREEMENT - DR.
+
+GAETANO MORELLO N.D. INC.","11757","Exhibit 10.22","true","true","false","true","false","false","false","false","false","false","cogs is define on exhibit"
+"3WKGUBL7S130JYENM8O3C32N4ME4LW","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3W2LOLRXLEWZMIWX2NDHTGWA1H4KRO","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:53:22 PST 2023","Wed Dec 13 08:53:40 PST 2023","Sat Dec 16 08:53:40 PST 2023","","","","18","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","11328","2.5 Termination of Workflow Development Plans.","-1","","0","11328","2.5 Termination of Workflow Development Plans.","10383","Price.","11524","(d)
+ Customer Information.","10149","3.
+1.3 Responsibilities.","5929","Item Two, Operation of Recycling Project 
+1.","7431","Product Support.","6991","2.
+4 Promotion of Programming.","12166","Sponsorship.","3639","Contractor shall maintain in inventory certain quantities of LLI.","509","2.3 Representatives.","true","false","false","true","false","true","true","true","false","false","DEVELOPMENT"
+"3FULMHZ7OWEKPGW8MKPICGHC4R44MY","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:25 PST 2023","","","3NJM2BJS4ZNWR74UXISU02JNUHLCP6","A2FV0CMG9S8CU0","Approved","Fri Dec 08 05:49:35 PST 2023","Fri Dec 08 05:52:49 PST 2023","Mon Dec 11 05:52:49 PST 2023","Mon Dec 11 05:53:09 PST 2023","","","194","100% (70011/70011)","100% (151/151)","100% (150/150)","0","Proprietary Rights","11429","Page 62 of 85 
+14.3 Severability.","7","13.0","6","8176","1.3. 
+Ownership.","10976","4.3  Trademark Restrictions.","1354","10.1. (<#C15>)INTELLECTUAL PROPERTY.","5801","Section 4.4 Providers’ Software.","3253","Section 5.3 License of the NCM Marks.","13426","(xxiv) 
+Possession of Licenses and Permits.","11429","Page 62 of 85 
+14.3 Severability.","10438","3.  
+Use of Trademarks.","3173","6.2 
+Inventions Owned by OntoChem.","5538","Section 5.5 Reserved.
+
+Section 5.6 Sublicensing; Assignability.","false","false","false","false","false","false","true","false","false","true","Intellectual Property"
+"3IKDQS3DQGH1O1JWUKX83LMJFV1CI3","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:25 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Wed Dec 13 14:15:27 PST 2023","","","3E47SOBEYTD4ALHQKN2AR5IB9CCCIZ","A2DXSNQM308NHW","Submitted","Wed Dec 13 08:51:42 PST 2023","Wed Dec 13 08:52:03 PST 2023","Sat Dec 16 08:52:03 PST 2023","","","","21","100% (2/2)","100% (2/2)","100% (2/2)","2","Distributor Personnel","3783","7.3 
+Compliance with Laws and Regulations.","19","12.0","4","3312","3. DUTIES OF DISTRIBUTOR 
+3.1.
+
+Independent Distributor.","12908","5.4 Advisory Councils.","13045","2. PARTIES OBLIGATIONS","7410","8. Special Pricing and Other Allowances 
+8.","3783","7.3 
+Compliance with Laws and Regulations.","5943","6. 
+Use of Service.","3089","5. 
+Replacement CRA Well.","2593","2.  Services.","9822","Administration.","3077","Export.","true","true","true","false","true","false","false","false","true","false","ADMINISTRATION"
+"3YD0MU1NC4IG6252RFXK616M1C57A1","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:26 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:26 PST 2023","","","3Z7EFSHGNCV10G6LJ92BUF5QWEUCXQ","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:23:43 PST 2023","Tue Dec 05 14:27:18 PST 2023","Fri Dec 08 14:27:18 PST 2023","Fri Dec 08 14:28:09 PST 2023","","","215","100% (70011/70011)","100% (151/151)","100% (150/150)","8","Insurance And Indemnification","6729","12.02 
+Early Termination.","15","3.0","9","13574","16. 
+Insurance.","6852","7.4 Limitations of Liability.","4679","(v) 
+Insurance Costs.","1349","9.2.
+ DISCLAIMER OF WARRANTIES BY IMPRESSE.","2776","11.5 Insurance.","1968","-61-
+10.4 Limitations on Liability.","11409","11.6 No Consequential Damages.","11789","10. 
+Indemnification by the Company.","11552","(c)
+ Procedures.","6729","12.02 
+Early Termination.","false","false","false","false","false","false","false","false","true","false","Liability"
+"3YKP7CX6G4WLPCAUXTXG1CQSJUQ7BW","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:26 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:26 PST 2023","","","3KGTPGBS602WLUKOHB2IYVX0Q512UG","A2FV0CMG9S8CU0","Approved","Tue Dec 05 15:19:54 PST 2023","Tue Dec 05 15:20:21 PST 2023","Fri Dec 08 15:20:21 PST 2023","Fri Dec 08 15:21:09 PST 2023","","","27","100% (70011/70011)","100% (151/151)","100% (150/150)","5","C Entire Agreement","9487","R. 
+NO THIRD PARTY BENEFICIARY.","-1","","8","614","This Agreement contains the entire agreement between the Members.","6248","(b) Due Authorization; Binding Agreement.","7051","6.3 Entire Agreement.","2193","ENTIRE  AGREEMENT.","9254","20.14 Entire Agreement.","3831","ARTICLE 3.
+
+COVENANTS OF THE COMPANY.
+
+3.1 
+Notice of Certain Events.","9615","Section 11.4.
+
+Entire Agreement.","1715","NOW THEREFORE, IT IS HEREBY AGREED
+
+AS FOLLOWS:","9487","R. 
+NO THIRD PARTY BENEFICIARY.","10666","Miscellaneous 
+10.1 
+Entire Agreement.","false","false","false","false","false","false","false","false","true","false","Agreement"
+"359AP8GAGI14ZH20BTTBCWWA1FQ7C3","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:26 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:26 PST 2023","","","30BUDKLTXGC7VV6P9UPBSKE9ORX5E2","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:31:01 PST 2023","Tue Dec 05 14:31:14 PST 2023","Fri Dec 08 14:31:14 PST 2023","Fri Dec 08 14:32:09 PST 2023","","","13","100% (70011/70011)","100% (151/151)","100% (150/150)","19","Governing Law","6178","2.3 
+Supply of Product for Distributorship.","2","2.0","9","344","Governing Law; Jurisdiction.","6738","ARTICLE 17 - COMPLIANCE 
+17.01 
+Business Standards.","7773","12.2 
+Governing Law.","9269","12. 
+Governing  Law.","13184","(c) 
+Governing Law.","909","17.5.
+ Enforcement.","9830","Governing Law.","12828","17. Miscellaneous.
+
+(a) 
+Governing Law.","728","10. Governing Law.","6178","2.3 
+Supply of Product for Distributorship.","false","true","false","false","false","false","false","false","false","true","Governing Law"
+"311HQEI8RUXH7ADA37DJNUXVAXBZ7T","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:26 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:26 PST 2023","","","3OHYZ19UGFMQDSVVY4JO57O9K74AOH","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:34:08 PST 2023","Tue Dec 05 14:34:27 PST 2023","Fri Dec 08 14:34:27 PST 2023","Fri Dec 08 14:35:09 PST 2023","","","19","100% (70011/70011)","100% (151/151)","100% (150/150)","10","Notices","13154","12. Indemnification.
+
+12.1. By EFS.","8","5.0","1","8946","14. NOTICES AND REQUESTS:","13154","12. Indemnification.
+
+12.1. By EFS.","12785","13. Notices.","4901","5.4.4.8 
+Post-Development Term Notices.","8156","16.GENERAL PROVISIONS 
+16.1 
+Notices.","3069","NOTE:","4245","General Provisions.
+
+10.1 Notices.","486","Attention:","7363","15.4 Notices.","9483","N. NOTICES.","false","true","false","false","false","false","false","true","false","false","Notices"
+"33NOQL7T9QGL7OITDC5P1UTQLHHZ8G","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:26 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:26 PST 2023","","","3M81GAB8A30YHED3JVBOPN3FHQ7BQL","A2FV0CMG9S8CU0","Approved","Tue Dec 05 14:47:19 PST 2023","Tue Dec 05 14:47:35 PST 2023","Fri Dec 08 14:47:35 PST 2023","Fri Dec 08 14:48:09 PST 2023","","","16","100% (70011/70011)","100% (151/151)","100% (150/150)","6","Confidential Information","2964","(f) 
+Cooperation.","-1","","4","13397","- 8 -
+11. Regulatory Issues.","7327","56 
+11.6 
+Return of Confidential Information.","9260","3. Disclosure of Work Product.","1037","8. 
+Confidential Information.","2964","(f) 
+Cooperation.","12111","ARTICLE X. 
+CONFIDENTIALITY.
+
+10.1Confidentiality.","11111","Confidentiality.","5144","7. CONFIDENTIALITY.","13139","8. Confidentiality.
+
+8.1. Confidential Information.","11192","Confidentiality.","true","false","false","false","true","false","false","false","false","false","Confidentiality"
+"3IYI9285WUHXJC32C2I8FM1JSAQCJF","3Z3XOBWUCT4BO3A3FMTGRK1ESL6GRE","Header Intrusion","This is the header intrusion task. You need to detect which of the 10 sentences does not belong to the group of other 9 sentences.","clustering, semantic, similarity, easy, NLP, qualification","$0.10","Tue Dec 05 14:15:26 PST 2023","1","BatchId:5164564;OriginalHitTemplateId:928390905;","3600","259200","Tue Dec 12 14:15:26 PST 2023","","","3RGU30DZTDPDEIDNFUHO622NFV9JMJ","A1689LPUF6HS1A","Approved","Thu Dec 07 21:18:38 PST 2023","Thu Dec 07 21:21:14 PST 2023","Sun Dec 10 21:21:14 PST 2023","Sun Dec 10 21:22:09 PST 2023","","","156","100% (12/12)","100% (12/12)","100% (10/10)","8","Insurance And Indemnification","7978","Requirements 
+1.
+
+Maintenance.","-1","","9","3422","Section 9 — Indemnification 
+9.1.","4062","23.0 CONSEQUENTIAL DAMAGES WAIVER.","11988","13. LIMITATION OF LIABILITY.","3755","2. Representations and Warranties of JANA.","11233","(2)
+ Notification to Claimant.","9601","Section 8.2.
+
+Notice and Defense of Third Party Claims.","12486","14. 
+LIMITATION OF DAMAGES.","8127","13.4 
+Limitation of Liability.","379","8. Insurance.","7978","Requirements 
+1.
+
+Maintenance.","false","false","false","true","false","false","false","false","false","false","he group of sentences without the one marked as omitted could be described as a set of clauses or provisions related to indemnification, waiver of consequential damages, limitation of liability, representations and warranties of JANA, notification to the claimant, notice and defense of third-party claims, limitation of damages, limitation of liability, and insurance."

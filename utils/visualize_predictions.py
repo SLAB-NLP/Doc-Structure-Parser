@@ -55,7 +55,7 @@ def load_csv(file_path):
 
 
 def load_example():
-    csv_file = "examples/10k_example_output.csv"
+    csv_file = "appendix/10k_example_output.csv"
     df = load_csv(csv_file)
     st.session_state["df"] = df
 
