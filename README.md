@@ -7,16 +7,18 @@ This repo is the an unsupervised method to extract the conceptual table of conte
 
 ## Demo
 
-To see the example of our model output over a collection of 500 financial reports (Form-10K), we provide a streamlit demo at 
+We provide a streamlit demo to visualize the method's output at:
 
 [https://visualize-collection-wide-structure.streamlit.app](https://visualize-collection-wide-structure.streamlit.app)
 
-and hit the "Load example" button to see our method's results over the example dataset (Form-10k) 
+To see the example of our method's output over a collection of 500 financial reports (Form-10K), hit the "Load example" button (marked by the red arrow below)
 
-<img src="./examples/load-example.png" alt="load-example" width="200" margin="auto"/>
+<img src="./examples/load-example.png" alt="load-example" width="500" margin="auto"/>
 
 
 ## Quickstart
+
+In this section we provide the steps to setup and run the method.
 
 ### Prepare the environment
 
@@ -93,13 +95,14 @@ Each line in this csv represents a section in a document from the dataset, along
 
 ## Visualize Results
 
-You can view the results of each document and its extracted structure with the following command:
+Two options to view the results:
 
+1. Use our provided streamlit app [https://visualize-collection-wide-structure.streamlit.app](https://visualize-collection-wide-structure.streamlit.app) and upload your own csv, which is located in `<output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv`.
+2. Run locally on your computer with the following command:
 ```
 streamlit run utils/visualize_predictions.py -- <output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv
 ```
 
-This command will initialize a local streamlit server with a visualization of the conceptual table of contents and its mapping to each document spans.
 
 You can scroll between the different documents, and control how many entries you want to include in the ToC. This will be determined according their coverage rank (see the paper for further details about coverage and clusters ranking).
 
