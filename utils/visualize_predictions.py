@@ -8,6 +8,7 @@ import sys
 
 if "i" not in st.session_state:
     st.session_state.i = 0
+    st.session_state.df = None
 
 
 def generate_random_colors(length):
@@ -51,6 +52,12 @@ def load_csv(file_path):
     return pd.read_csv(file_path)
 
 
+def load_example():
+    csv_file = "examples/10k_example_output.csv"
+    df = load_csv(csv_file)
+    st.session_state["df"] = df
+
+
 def main():
     # Page title and description
     st.title("Conceptual ToC Viewer")
@@ -58,15 +65,20 @@ def main():
              "conceptual ToC is applied in each doc.")
 
     # File selection
-    csv_file = sys.argv[1]
-
+    csv_file = st.file_uploader("Upload a CSV file", type=["csv"])
     if csv_file is not None:
-        # Load CSV data
         df = load_csv(csv_file)
         st.session_state["df"] = df
+    st.write("or, press here to load an example file:")
+    st.button("Load example", on_click=load_example)
+
+    if st.session_state.df is not None:
+        # Load CSV data
+        df = st.session_state["df"]
 
         st.number_input("num clusters to display", min_value=1,
                         max_value=int(df["rank"].max()),
+                        value=int(df["rank"].max()),
                         key="num_clusters",
                         on_change=generate_colors_map)
 
@@ -161,6 +173,5 @@ def get_paragraphs(filtered_df):
 
 
 if __name__ == '__main__':
-    # receive a csv file as streamlit parameter
 
     main()
