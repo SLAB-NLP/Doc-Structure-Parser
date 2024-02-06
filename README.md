@@ -1,8 +1,20 @@
 # Doc-Structure-Parser
 
-This is an unsupervised method to extract the conceptual table of contents of a data collection.
+This repo is the an unsupervised method to extract the conceptual table of contents of a data collection.
+<p align="center">
+<img src="./io-fig.png" alt="io-fig" width="500" margin="auto"/>
+</p>
+
+## Demo
+
+To see the example of our model output over a collection of 500 financial reports (Form-10K), we provide a streamlit demo
+
+[]()
+
 
 ## Quickstart
+
+### Prepare the environment
 
 ```
 git clone <github_url>
@@ -11,6 +23,11 @@ python3 -m venv .venv
 source venv/bin/activate
 pip install -r requirements.txt
 python -m spacy download en_core_web_lg
+```
+
+### Run the document parser
+
+```
 cd parser
 ./run_all.sh -m MODEL --ds_name DATASET_NAME -i INPUT_DIR -o OUTPUT_DIR  \
     --w_title W_TITLE --w_text W_TEXT --w_index W_INDEX
@@ -75,7 +92,7 @@ Each line in this csv represents a section in a document from the dataset, along
 You can view the results of each document and its extracted structure with the following command:
 
 ```
-streamlit run utils/visualize_predictions.py <output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv
+streamlit run utils/visualize_predictions.py -- <output_dir>/<model_name>/<w>title_<w>text_<w>index/meta_filtered.csv
 ```
 
 This command will initialize a local streamlit server with a visualization of the conceptual table of contents and its mapping to each document spans.
