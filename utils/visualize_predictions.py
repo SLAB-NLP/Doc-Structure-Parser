@@ -60,6 +60,18 @@ def load_example():
     st.session_state["df"] = df
 
 
+def load_example_shoa_05_title():
+    csv_file = "appendix/shoa_05title.csv"
+    df = load_csv(csv_file)
+    st.session_state["df"] = df
+
+
+def load_example_shoa_08_title():
+    csv_file = "appendix/shoa_08title.csv"
+    df = load_csv(csv_file)
+    st.session_state["df"] = df
+
+
 def main():
     # Page title and description
     st.title("Conceptual ToC Viewer")
@@ -73,7 +85,9 @@ def main():
                  "conceptual ToC is applied in each doc.")
         csv_file = st.file_uploader("Upload a CSV file", type=["csv"])
         st.write("or, press here to load an example file:")
-        st.button("Load example", on_click=load_example)
+        st.button("Load example (10k)", on_click=load_example)
+        st.button("Load example (shoa 05-title)", on_click=load_example_shoa_05_title)
+        st.button("Load example (shoa 08-title)", on_click=load_example_shoa_08_title)
     if csv_file is not None:
         df = load_csv(csv_file)
         st.session_state["df"] = df
