@@ -5,6 +5,10 @@ This repo contains an unsupervised method to extract the conceptual table of con
 <img src="appendix/io-fig.png" alt="io-fig" width="500" margin="auto"/>
 </p>
 
+Paper: [https://arxiv.org/pdf/2402.13906](https://arxiv.org/pdf/2402.13906)
+
+Contact: [gili.lior\@mail.huji.ac.il](mailto:gili.lior@mail.huji.ac.il?subject=TOC-github)
+
 ## Demo
 
 We provide a streamlit demo to visualize the method's output at:
