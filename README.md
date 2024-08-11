@@ -9,6 +9,8 @@ Paper: [https://arxiv.org/pdf/2402.13906](https://arxiv.org/pdf/2402.13906)
 
 Contact: [gili.lior\@mail.huji.ac.il](mailto:gili.lior@mail.huji.ac.il?subject=TOC-github)
 
+*Paper was accepted to ACL 2024 findings
+
 ## Demo
 
 We provide a streamlit demo to visualize the method's output at:
