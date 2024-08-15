@@ -174,7 +174,7 @@ cd parser
     -o 10K_OUTPUT_DIR --w_title 7 --w_text 0 --w_index 3 --percentile 0.995
 ```
 
-We supply our intruder results from mechanical turk in the directory [/utils/intruder_results/Form-10k/](utils/intruder_results/Form-10k/), which you can then run the intruder evaluation script:
+We supply our intruder results from mechanical turk in the directory [/appendix/intruder_annotations/Form-10k/](appendix/intruder_annotations/Form-10k/), which you can then run the intruder evaluation script:
 
 ```
 python utils/intruder_eval.py --path utils/intruder_results/Form-10k
